@@ -1,0 +1,26 @@
+Find accessories for the Nothing Phone 3. Just list the basics - no descriptions needed.
+
+IMPORTANT: Has Glyph Interface LED on back - prioritize CLEAR/TRANSPARENT cases.
+
+For each item, provide:
+- Brand
+- Product name
+- Glyph visibility: Full/Partial/None
+- MagSafe/Magnetic compatible: Yes/No
+- Has kickstand: Yes/No
+- Price (USD)
+- Purchase URL
+
+CATEGORIES:
+
+CLEAR CASES (Glyph visible): Nothing official, Spigen Ultra Hybrid, Ringke Fusion, dbrand
+
+RUGGED CLEAR CASES: SUPCASE (if clear option)
+
+SLIM CASES: Nothing official, Latercase
+
+SCREEN PROTECTORS: ZAGG, Spigen, Ringke
+
+WIRELESS CHARGERS: Nothing official, Belkin, Anker
+
+Just the data with purchase links.

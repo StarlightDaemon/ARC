@@ -1,0 +1,32 @@
+Find accessories for the Google Pixel 10 Pro Fold (foldable). Just list the basics - no descriptions needed.
+
+IMPORTANT: This is a foldable phone with two screens (6.3" outer, 8.0" inner foldable).
+
+For each item, provide:
+- Brand
+- Product name
+- MagSafe/Qi2 compatible: Yes/No
+- Hinge protection: Yes/No
+- Has kickstand: Yes/No
+- Price (USD)
+- Purchase URL
+
+CATEGORIES:
+
+RUGGED CASES: SUPCASE UB Pro, OtterBox Defender, Poetic Spartan/Revolution, Spigen Tough Armor
+
+EVERYDAY CASES: Spigen Slim Armor Pro, Google Pixelsnap, Ringke, Caseology
+
+SLIM CASES: Thinborne Aramid, PITAKA MagEZ, Latercase
+
+OUTER SCREEN PROTECTORS (Glass OK): ZAGG, Spigen, Whitestone
+
+INNER SCREEN PROTECTORS (FILM ONLY - no glass): Whitestone EPU Film, Spigen Neo Flex
+
+WIRELESS CHARGERS: Google Pixelsnap, Belkin, Anker MagGo
+
+MOUNTS: Peak Design, Quad Lock (must fit foldable width)
+
+SKINS: dbrand, Slickwraps
+
+Just the data with purchase links.

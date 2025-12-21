@@ -1,0 +1,31 @@
+Find accessories for the Samsung Galaxy Z Fold 6 (foldable). Just list the basics - no descriptions needed.
+
+IMPORTANT: Foldable phone with two screens. Inner screen needs FILM only (no glass). S Pen Fold Edition compatible.
+
+For each item, provide:
+- Brand
+- Product name
+- MagSafe/Magnetic compatible: Yes/No
+- Hinge protection: Yes/No
+- S Pen holder: Yes/No
+- Has kickstand: Yes/No
+- Price (USD)
+- Purchase URL
+
+CATEGORIES:
+
+RUGGED CASES: SUPCASE UB Pro, Samsung Rugged, Spigen Tough Armor, VRS Design
+
+EVERYDAY CASES: Spigen Slim Armor Pro, Samsung Standing Cover, UAG, Ringke
+
+SLIM CASES: Samsung Silicone, Spigen Thin Fit, PITAKA, Latercase
+
+OUTER SCREEN PROTECTORS (Glass OK): ZAGG, Spigen, Whitestone, Samsung official
+
+INNER SCREEN PROTECTORS (FILM ONLY): Spigen Neo Flex, ZAGG Fusion, Samsung factory
+
+WIRELESS CHARGERS: Samsung official, Belkin, Anker
+
+S PEN: S Pen Fold Edition, cases with S Pen holder
+
+Just the data with purchase links.

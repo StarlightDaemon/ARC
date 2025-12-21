@@ -1,0 +1,21 @@
+Find accessories for the Nothing Phone 2a. Just list the basics - no descriptions needed.
+
+IMPORTANT: Has Glyph Interface LED - prioritize clear cases.
+
+For each item, provide:
+- Brand
+- Product name
+- Glyph visibility: Full/Partial/None
+- MagSafe/Magnetic compatible: Yes/No
+- Price (USD)
+- Purchase URL
+
+CATEGORIES:
+
+CASES: Nothing official, Spigen, Ringke (prioritize clear)
+
+SCREEN PROTECTORS: ZAGG, Spigen, Ringke
+
+CHARGERS: Nothing official, 45W compatible chargers
+
+Just the data with purchase links.

@@ -1,0 +1,26 @@
+Find accessories for the OnePlus 13. Just list the basics - no descriptions needed.
+
+IMPORTANT: Has Alert Slider - cases must have cutout. Supports 100W SUPERVOOC wired, 50W AIRVOOC wireless.
+
+For each item, provide:
+- Brand
+- Product name
+- MagSafe/Magnetic compatible: Yes/No
+- Alert Slider access: Yes/No
+- Has kickstand: Yes/No
+- Price (USD)
+- Purchase URL
+
+CATEGORIES:
+
+RUGGED CASES: SUPCASE, Poetic, UAG
+
+EVERYDAY CASES: OnePlus official Sandstone, Spigen, Ringke, Caseology, dbrand Grip
+
+SLIM CASES: OnePlus official, PITAKA, Latercase
+
+SCREEN PROTECTORS: ZAGG, Spigen, Whitestone, amFilm
+
+CHARGERS: OnePlus SUPERVOOC 100W, OnePlus AIRVOOC 50W, compatible third-party
+
+Just the data with purchase links.

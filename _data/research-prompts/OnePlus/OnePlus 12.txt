@@ -1,0 +1,26 @@
+Find accessories for the OnePlus 12. Just list the basics - no descriptions needed.
+
+IMPORTANT: Has Alert Slider. Supports 100W SUPERVOOC wired, 50W AIRVOOC wireless.
+
+For each item, provide:
+- Brand
+- Product name
+- MagSafe/Magnetic compatible: Yes/No
+- Alert Slider access: Yes/No
+- Has kickstand: Yes/No
+- Price (USD)
+- Purchase URL
+
+CATEGORIES:
+
+RUGGED CASES: SUPCASE, Poetic, UAG
+
+EVERYDAY CASES: OnePlus official, Spigen, Ringke, Caseology
+
+SLIM CASES: PITAKA, dbrand, Latercase
+
+SCREEN PROTECTORS: ZAGG, Spigen, Whitestone
+
+CHARGERS: OnePlus SUPERVOOC, AIRVOOC compatible
+
+Just the data with purchase links.

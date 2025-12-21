@@ -1,0 +1,25 @@
+Find accessories for the Motorola Edge 50 Ultra. Just list the basics - no descriptions needed.
+
+IMPORTANT: Supports 125W TurboPower wired charging, 50W wireless.
+
+For each item, provide:
+- Brand
+- Product name
+- MagSafe/Magnetic compatible: Yes/No
+- Has kickstand: Yes/No
+- Price (USD)
+- Purchase URL
+
+CATEGORIES:
+
+RUGGED CASES: SUPCASE, Poetic (if available)
+
+EVERYDAY CASES: Spigen, Ringke, Motorola official
+
+SLIM CASES: Motorola official, PITAKA (if available)
+
+SCREEN PROTECTORS: ZAGG, Spigen, Ringke
+
+CHARGERS: Motorola TurboPower 125W, 50W wireless compatible
+
+Just the data with purchase links.

@@ -1,0 +1,30 @@
+Find accessories for the Samsung Galaxy S25 Ultra. Just list the basics - no descriptions needed.
+
+IMPORTANT: Has built-in S Pen - cases must have S Pen silo access.
+
+For each item, provide:
+- Brand
+- Product name
+- MagSafe/Magnetic compatible: Yes/No
+- S Pen access: Yes/No
+- Has kickstand: Yes/No
+- Price (USD)
+- Purchase URL
+
+CATEGORIES:
+
+RUGGED CASES: OtterBox Defender, SUPCASE UB Pro, Poetic, Pelican, UAG Monarch, VRS Design
+
+EVERYDAY CASES: Spigen Tough Armor, Samsung official, Mous, Ringke, Caseology, dbrand Grip
+
+SLIM CASES: Samsung Silicone/Leather/Clear, Spigen Thin Fit, PITAKA, Latercase
+
+SCREEN PROTECTORS: ZAGG, Spigen, Whitestone Dome, amFilm (must work with ultrasonic fingerprint)
+
+WIRELESS CHARGERS: Samsung official, Belkin, Anker
+
+S PEN ACCESSORIES: Samsung S Pen tips, cases with pen holder
+
+SKINS: dbrand, Slickwraps
+
+Just the data with purchase links.

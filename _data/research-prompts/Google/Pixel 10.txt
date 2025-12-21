@@ -1,0 +1,27 @@
+Find accessories for the Google Pixel 10. Just list the basics - no descriptions needed.
+
+For each item, provide:
+- Brand
+- Product name
+- MagSafe/Qi2 compatible: Yes/No
+- Has kickstand: Yes/No
+- Price (USD)
+- Purchase URL
+
+CATEGORIES:
+
+RUGGED CASES: OtterBox Defender, SUPCASE UB Pro, Poetic Guardian/Revolution, Pelican, Rokform
+
+EVERYDAY CASES: Spigen Ultra Hybrid, Mous Limitless, Ringke Fusion/Onyx, Caseology, dbrand Grip, BURGA
+
+SLIM CASES: Google official, Thinborne Aramid, PITAKA MagEZ, Latercase, Peak Design, Bare Cases
+
+SCREEN PROTECTORS: ZAGG Glass Elite, Spigen GLAS.tR EZ Fit, Whitestone Dome, Ringke
+
+WIRELESS CHARGERS: Google Pixelsnap, Belkin BoostCharge, Anker MagGo
+
+MOUNTS: Peak Design, Quad Lock, iOttie, Mous
+
+SKINS: dbrand, Slickwraps
+
+Just the data with purchase links.
