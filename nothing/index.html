@@ -4,24 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-        content="Nothing Phone accessory guides - cases, screen protectors, chargers for Nothing Phone 3, Phone 2a, and more.">
     <title>Nothing Phone Guides - ARC</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
-        rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/index.css">
 </head>
 
 <body>
     <header class="header">
         <div class="container header-content">
-            <a href="/" class="logo">
-                <span class="logo-icon">🛡️</span>
-                <span>ARC</span>
-            </a>
+            <a href="/" class="logo">🛡️ <span>ARC</span></a>
         </div>
     </header>
 
@@ -33,38 +24,71 @@
         </nav>
 
         <section class="page-title">
-            <h1>Nothing Phone Guides</h1>
+            <h1>Nothing Phone</h1>
             <p>Accessory guides for Nothing Phone devices</p>
         </section>
 
-        <section class="phone-list">
-            <a href="phone-3.html" class="phone-card">
-                <div class="phone-info">
-                    <h3>Nothing Phone 3</h3>
-                    <p>Glyph Interface • Clear case priority</p>
-                </div>
-                <span class="phone-status pending">⏳ In Progress</span>
-            </a>
+        <div class="status-legend">
+            <span class="legend-item"><span class="status-dot complete"></span> Complete</span>
+            <span class="legend-item"><span class="status-dot in-progress"></span> In Progress</span>
+            <span class="legend-item"><span class="status-dot needs-research"></span> Needs Research</span>
+        </div>
 
-            <a href="phone-2a.html" class="phone-card">
-                <div class="phone-info">
-                    <h3>Nothing Phone 2a</h3>
-                    <p>Glyph Interface • 45W wired charging</p>
+        <!-- Nothing Phone Series -->
+        <section class="phone-family">
+            <h2 class="family-header">Nothing Phone Series</h2>
+            <div class="phone-grid">
+
+                <div class="phone-card needs-research">
+                    <div class="phone-name">Nothing Phone 3</div>
+                    <div class="phone-specs">Glyph Interface • Clear case priority</div>
+                    <div class="phone-status">
+                        <span class="status-badge needs-research">Needs Research</span>
+                    </div>
                 </div>
-                <span class="phone-status pending">⏳ In Progress</span>
-            </a>
+
+                <div class="phone-card needs-research">
+                    <div class="phone-name">Nothing Phone 2a</div>
+                    <div class="phone-specs">Glyph Interface • 45W wired</div>
+                    <div class="phone-status">
+                        <span class="status-badge needs-research">Needs Research</span>
+                    </div>
+                </div>
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">Nothing Phone 2</div>
+                    <div class="phone-specs">Glyph Interface</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">Nothing Phone 1</div>
+                    <div class="phone-specs">Glyph Interface</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
+            </div>
         </section>
+
+        <!-- Note about Nothing -->
+        <section class="phone-family">
+            <div class="brand-note">
+                <strong>Note:</strong> Nothing phones feature the Glyph Interface LED system on the back.
+                Clear or transparent cases are prioritized to maintain Glyph visibility.
+            </div>
+        </section>
+
     </main>
 
     <footer class="footer">
         <div class="container">
-            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/"
-                    target="_blank">graycatgrayhat</a> • <a href="https://github.com/StarlightDaemon/ARC"
-                    target="_blank">GitHub</a></p>
+            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/">graycatgrayhat</a></p>
         </div>
     </footer>
-
-    <script src="/js/main.js"></script>
 </body>
 
 </html>

@@ -4,24 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-        content="Motorola accessory guides - cases, screen protectors, chargers for Motorola Edge 50 Ultra and more.">
     <title>Motorola Guides - ARC</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
-        rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/index.css">
 </head>
 
 <body>
     <header class="header">
         <div class="container header-content">
-            <a href="/" class="logo">
-                <span class="logo-icon">🛡️</span>
-                <span>ARC</span>
-            </a>
+            <a href="/" class="logo">🛡️ <span>ARC</span></a>
         </div>
     </header>
 
@@ -33,30 +24,79 @@
         </nav>
 
         <section class="page-title">
-            <h1>Motorola Guides</h1>
+            <h1>Motorola</h1>
             <p>Accessory guides for Motorola devices</p>
         </section>
 
-        <section class="phone-list">
-            <a href="edge-50-ultra.html" class="phone-card">
-                <div class="phone-info">
-                    <h3>Edge 50 Ultra</h3>
-                    <p>125W TurboPower wired • 50W wireless</p>
+        <div class="status-legend">
+            <span class="legend-item"><span class="status-dot complete"></span> Complete</span>
+            <span class="legend-item"><span class="status-dot in-progress"></span> In Progress</span>
+            <span class="legend-item"><span class="status-dot needs-research"></span> Needs Research</span>
+        </div>
+
+        <!-- Motorola Edge Series -->
+        <section class="phone-family">
+            <h2 class="family-header">Motorola Edge Series (2024)</h2>
+            <div class="phone-grid">
+
+                <div class="phone-card needs-research">
+                    <div class="phone-name">Edge 50 Ultra</div>
+                    <div class="phone-specs">125W TurboPower • 50W wireless</div>
+                    <div class="phone-status">
+                        <span class="status-badge needs-research">Needs Research</span>
+                    </div>
                 </div>
-                <span class="phone-status pending">⏳ In Progress</span>
-            </a>
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">Edge 50 Pro</div>
+                    <div class="phone-specs">125W TurboPower</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">Edge 50 Fusion</div>
+                    <div class="phone-specs">68W TurboPower</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
+            </div>
         </section>
+
+        <!-- Motorola Razr -->
+        <section class="phone-family">
+            <h2 class="family-header">Motorola Razr Series</h2>
+            <div class="phone-grid">
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">Razr 50 Ultra</div>
+                    <div class="phone-specs">Clamshell foldable • 4" cover display</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">Razr 50</div>
+                    <div class="phone-specs">Clamshell foldable</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
     </main>
 
     <footer class="footer">
         <div class="container">
-            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/"
-                    target="_blank">graycatgrayhat</a> • <a href="https://github.com/StarlightDaemon/ARC"
-                    target="_blank">GitHub</a></p>
+            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/">graycatgrayhat</a></p>
         </div>
     </footer>
-
-    <script src="/js/main.js"></script>
 </body>
 
 </html>

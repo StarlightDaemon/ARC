@@ -4,24 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-        content="OnePlus accessory guides - cases, screen protectors, chargers for OnePlus 13, OnePlus 12, and more.">
     <title>OnePlus Guides - ARC</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
-        rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/index.css">
 </head>
 
 <body>
     <header class="header">
         <div class="container header-content">
-            <a href="/" class="logo">
-                <span class="logo-icon">🛡️</span>
-                <span>ARC</span>
-            </a>
+            <a href="/" class="logo">🛡️ <span>ARC</span></a>
         </div>
     </header>
 
@@ -33,38 +24,71 @@
         </nav>
 
         <section class="page-title">
-            <h1>OnePlus Guides</h1>
+            <h1>OnePlus</h1>
             <p>Accessory guides for OnePlus devices</p>
         </section>
 
-        <section class="phone-list">
-            <a href="oneplus-13.html" class="phone-card">
-                <div class="phone-info">
-                    <h3>OnePlus 13</h3>
-                    <p>Alert Slider • 100W SUPERVOOC • 50W AIRVOOC</p>
-                </div>
-                <span class="phone-status pending">⏳ In Progress</span>
-            </a>
+        <div class="status-legend">
+            <span class="legend-item"><span class="status-dot complete"></span> Complete</span>
+            <span class="legend-item"><span class="status-dot in-progress"></span> In Progress</span>
+            <span class="legend-item"><span class="status-dot needs-research"></span> Needs Research</span>
+        </div>
 
-            <a href="oneplus-12.html" class="phone-card">
-                <div class="phone-info">
-                    <h3>OnePlus 12</h3>
-                    <p>Alert Slider • 100W SUPERVOOC • 50W AIRVOOC</p>
+        <!-- OnePlus Flagship -->
+        <section class="phone-family">
+            <h2 class="family-header">OnePlus Flagship (2024-2025)</h2>
+            <div class="phone-grid">
+
+                <div class="phone-card needs-research">
+                    <div class="phone-name">OnePlus 13</div>
+                    <div class="phone-specs">Alert Slider • 100W SUPERVOOC • 50W AIRVOOC</div>
+                    <div class="phone-status">
+                        <span class="status-badge needs-research">Needs Research</span>
+                    </div>
                 </div>
-                <span class="phone-status pending">⏳ In Progress</span>
-            </a>
+
+                <div class="phone-card needs-research">
+                    <div class="phone-name">OnePlus 12</div>
+                    <div class="phone-specs">Alert Slider • 100W SUPERVOOC • 50W AIRVOOC</div>
+                    <div class="phone-status">
+                        <span class="status-badge needs-research">Needs Research</span>
+                    </div>
+                </div>
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">OnePlus 12R</div>
+                    <div class="phone-specs">80W SUPERVOOC</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
+            </div>
         </section>
+
+        <!-- OnePlus Open -->
+        <section class="phone-family">
+            <h2 class="family-header">OnePlus Foldables</h2>
+            <div class="phone-grid">
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">OnePlus Open</div>
+                    <div class="phone-specs">Foldable • 7.8" inner</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
     </main>
 
     <footer class="footer">
         <div class="container">
-            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/"
-                    target="_blank">graycatgrayhat</a> • <a href="https://github.com/StarlightDaemon/ARC"
-                    target="_blank">GitHub</a></p>
+            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/">graycatgrayhat</a></p>
         </div>
     </footer>
-
-    <script src="/js/main.js"></script>
 </body>
 
 </html>

@@ -1,0 +1,275 @@
+/* Guide page styles - XDA-like rendering */
+
+.guide-sections {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem 0 3rem;
+}
+
+.guide-section {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.section-header {
+    padding: 0.75rem 1rem;
+    background: #f5f5f5;
+    border-bottom: 1px solid #ddd;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: #333;
+}
+
+/* Preview - XDA-style rendering */
+.section-preview {
+    padding: 1.25rem;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.section-preview h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 1rem;
+    color: #000;
+}
+
+.section-preview h3 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin: 1.25rem 0 0.75rem;
+    color: #000;
+}
+
+.section-preview p {
+    margin: 0.5rem 0;
+    text-align: center;
+}
+
+.section-preview em {
+    font-style: italic;
+}
+
+.section-preview strong {
+    font-weight: bold;
+}
+
+.section-preview ul,
+.section-preview ol {
+    margin: 0.75rem auto;
+    padding-left: 2rem;
+    max-width: 400px;
+}
+
+.section-preview li {
+    margin: 0.25rem 0;
+}
+
+.section-preview table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    margin: 1rem 0;
+}
+
+.section-preview th,
+.section-preview td {
+    border: 1px solid #ccc;
+    padding: 8px 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.section-preview th {
+    background: #e8e8e8;
+    font-weight: bold;
+}
+
+.section-preview td {
+    background: #fff;
+}
+
+.section-preview a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.section-preview a:hover {
+    text-decoration: underline;
+}
+
+.section-preview hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #999, transparent);
+    margin: 1.5rem 0;
+}
+
+/* Copy button */
+.copy-section {
+    padding: 0.5rem 1rem;
+    background: #f5f5f5;
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.copy-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.4rem 0.75rem;
+    background: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+
+.copy-btn:hover {
+    background: #555;
+}
+
+.copy-btn.copied {
+    background: #2e7d32;
+}
+
+/* Toast notification */
+.toast {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    background: #333;
+    color: #fff;
+    padding: 0.6rem 1rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    transform: translateY(100px);
+    opacity: 0;
+    transition: all 0.2s ease;
+    z-index: 100;
+}
+
+.toast.show {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+/* Intro section - cleaner layout */
+.intro-content {
+    text-align: left;
+}
+
+.intro-content h2 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.intro-subtitle {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+    margin-bottom: 1.5rem;
+}
+
+.intro-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-bottom: 1.25rem;
+}
+
+@media (max-width: 600px) {
+    .intro-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.intro-toc,
+.intro-specs {
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 0.75rem 1rem;
+    border-radius: 4px;
+}
+
+.intro-toc h3,
+.intro-specs h3 {
+    font-size: 14px;
+    text-align: left;
+    margin: 0 0 0.5rem;
+}
+
+.toc-list {
+    margin: 0;
+    padding-left: 1.25rem;
+    font-size: 13px;
+}
+
+.toc-list li {
+    margin: 0.25rem 0;
+    text-align: left;
+}
+
+.toc-list a {
+    color: #0066cc;
+}
+
+.specs-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+}
+
+.specs-list li {
+    margin: 0.25rem 0;
+    text-align: left;
+}
+
+.intro-meta {
+    font-size: 12px;
+    color: #666;
+    text-align: center;
+    margin-bottom: 0.75rem;
+}
+
+.intro-meta p {
+    margin: 0.15rem 0;
+}
+
+.intro-note {
+    font-style: italic;
+    color: #666;
+    font-size: 13px;
+    text-align: center;
+    padding-top: 0.75rem;
+    border-top: 1px solid #ddd;
+}
+
+/* Responsive table */
+@media (max-width: 640px) {
+    .section-preview {
+        padding: 1rem;
+        overflow-x: auto;
+    }
+
+    .section-preview table {
+        font-size: 11px;
+    }
+
+    .section-preview th,
+    .section-preview td {
+        padding: 6px;
+    }
+}

@@ -4,24 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-        content="Samsung Galaxy accessory guides - cases, screen protectors, chargers for Galaxy S25 Ultra, Z Fold 6, and more.">
     <title>Samsung Galaxy Guides - ARC</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
-        rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/index.css">
 </head>
 
 <body>
     <header class="header">
         <div class="container header-content">
-            <a href="/" class="logo">
-                <span class="logo-icon">🛡️</span>
-                <span>ARC</span>
-            </a>
+            <a href="/" class="logo">🛡️ <span>ARC</span></a>
         </div>
     </header>
 
@@ -33,47 +24,112 @@
         </nav>
 
         <section class="page-title">
-            <h1>Samsung Galaxy Guides</h1>
+            <h1>Samsung Galaxy</h1>
             <p>Accessory guides for Samsung Galaxy devices</p>
         </section>
 
-        <section class="phone-list">
-            <a href="galaxy-s25-ultra.html" class="phone-card">
-                <div class="phone-info">
-                    <h3>Galaxy S25 Ultra</h3>
-                    <p>S Pen • 45W wired • 25W wireless</p>
-                </div>
-                <span class="phone-status pending">⏳ In Progress</span>
-            </a>
+        <div class="status-legend">
+            <span class="legend-item"><span class="status-dot complete"></span> Complete</span>
+            <span class="legend-item"><span class="status-dot in-progress"></span> In Progress</span>
+            <span class="legend-item"><span class="status-dot needs-research"></span> Needs Research</span>
+        </div>
 
-            <a href="galaxy-z-fold-6.html" class="phone-card">
-                <div class="phone-info">
-                    <h3>Galaxy Z Fold 6</h3>
-                    <p>Foldable • S Pen Fold compatible • Inner screen film only</p>
-                </div>
-                <span class="phone-status pending">⏳ In Progress</span>
-            </a>
+        <!-- Galaxy S Series -->
+        <section class="phone-family">
+            <h2 class="family-header">Galaxy S25 Series (2025)</h2>
+            <div class="phone-grid">
 
-            <div class="phone-card" style="opacity: 0.6; cursor: default;">
-                <div class="phone-info">
-                    <h3>Galaxy S24 Ultra</h3>
-                    <p>Already published on XDA Forums</p>
+                <a href="/samsung/galaxy-s25-ultra.html" class="phone-card complete">
+                    <div class="phone-name">Galaxy S25 Ultra</div>
+                    <div class="phone-specs">S Pen built-in • 45W wired • 15W Qi2</div>
+                    <div class="phone-status">
+                        <span class="status-badge complete">✓ Guide Complete</span>
+                    </div>
+                </a>
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">Galaxy S25+</div>
+                    <div class="phone-specs">6.7"</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
                 </div>
-                <a href="https://xdaforums.com/t/accessories-guide.4652503/" target="_blank"
-                    class="phone-status complete" style="text-decoration: none;">✓ View on XDA</a>
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">Galaxy S25</div>
+                    <div class="phone-specs">6.2"</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
             </div>
         </section>
+
+        <!-- Galaxy S24 -->
+        <section class="phone-family">
+            <h2 class="family-header">Galaxy S24 Series (2024)</h2>
+            <div class="phone-grid">
+
+                <a href="https://xdaforums.com/t/accessories-guide.4652503/" target="_blank"
+                    class="phone-card complete">
+                    <div class="phone-name">Galaxy S24 Ultra</div>
+                    <div class="phone-specs">S Pen • 45W wired • 15W wireless</div>
+                    <div class="phone-status">
+                        <span class="status-badge complete">✓ Published on XDA</span>
+                    </div>
+                </a>
+
+            </div>
+        </section>
+
+        <!-- Galaxy Z Fold -->
+        <section class="phone-family">
+            <h2 class="family-header">Galaxy Z Fold Series</h2>
+            <div class="phone-grid">
+
+                <div class="phone-card needs-research">
+                    <div class="phone-name">Galaxy Z Fold 6</div>
+                    <div class="phone-specs">Foldable • 7.6" inner • Film only • S Pen compatible</div>
+                    <div class="phone-status">
+                        <span class="status-badge needs-research">Needs Research</span>
+                    </div>
+                </div>
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">Galaxy Z Fold 5</div>
+                    <div class="phone-specs">Foldable • 7.6" inner</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Galaxy Z Flip -->
+        <section class="phone-family">
+            <h2 class="family-header">Galaxy Z Flip Series</h2>
+            <div class="phone-grid">
+
+                <div class="phone-card not-planned">
+                    <div class="phone-name">Galaxy Z Flip 6</div>
+                    <div class="phone-specs">Clamshell foldable</div>
+                    <div class="phone-status">
+                        <span class="status-badge not-planned">Not Planned</span>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
     </main>
 
     <footer class="footer">
         <div class="container">
-            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/"
-                    target="_blank">graycatgrayhat</a> • <a href="https://github.com/StarlightDaemon/ARC"
-                    target="_blank">GitHub</a></p>
+            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/">graycatgrayhat</a></p>
         </div>
     </footer>
-
-    <script src="/js/main.js"></script>
 </body>
 
 </html>
