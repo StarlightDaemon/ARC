@@ -48,20 +48,23 @@ Visit `http://localhost:3000` to view the website locally.
 
 ```
 ARC/
-├── index.html              # Main landing page
-├── css/                    # Stylesheets
-│   ├── style.css          # Main website styles
-│   └── guide.css          # Guide page styles
-├── js/                     # JavaScript
-│   ├── main.js            # Main site logic
-│   ├── guide.js           # Guide page functionality
-│   └── yaml-guide.js      # YAML processing
-├── google/                 # Google device pages
-├── samsung/                # Samsung device pages
-├── oneplus/                # OnePlus device pages
-├── nothing/                # Nothing device pages
-├── motorola/               # Motorola device pages
-├── _data/                  # Research data & BBCode output
+├── public/                 # Website files
+│   ├── index.html         # Main landing page
+│   ├── css/               # Stylesheets
+│   │   ├── style.css     # Main website styles
+│   │   └── guide.css     # Guide page styles
+│   ├── js/                # JavaScript
+│   │   ├── main.js       # Main site logic
+│   │   ├── guide.js      # Guide page functionality
+│   │   └── yaml-guide.js # YAML processing
+│   └── assets/            # Images and media
+├── phones/                 # Brand & device pages
+│   ├── google/            # Google device pages
+│   ├── samsung/           # Samsung device pages
+│   ├── oneplus/           # OnePlus device pages
+│   ├── nothing/           # Nothing device pages
+│   └── motorola/          # Motorola device pages
+├── data/                   # Research data & BBCode output
 │   ├── TASK_LIST.md       # Project task tracking
 │   ├── devices/           # Device data structures
 │   ├── researched/        # Completed research files
@@ -69,19 +72,26 @@ ARC/
 │       └── [Device]/
 │           ├── source/    # Source markdown files
 │           └── output/    # Generated BBCode files
-├── templates/              # Handlebars templates
-├── scripts/                # Build/generation scripts
-└── assets/                 # Images and media
+├── build/                  # Build tooling
+│   ├── scripts/           # Build/generation scripts
+│   └── templates/         # Handlebars templates
+├── .github/                # GitHub Actions workflows
+├── node_modules/           # Dependencies
+├── package.json            # Project manifest
+├── package-lock.json       # Dependency lock
+├── README.md               # This file
+├── LICENSE                 # MIT License
+└── .gitignore             # Git exclusions
 ```
 
 ## 🔄 Workflow
 
 ### 1. Research Phase
 
-1. Navigate to `_data/[Brand]/[Device]/`
-2. Use the research prompt template from `_data/research-prompt-template.md`
+1. Navigate to `data/[Brand]/[Device]/`
+2. Use the research prompt template from `data/research-prompt-template.md`
 3. Run the prompt through an LLM (Gemini, ChatGPT, Perplexity)
-4. Save results to `_data/researched/[Device].md`
+4. Save results to `data/researched/[Device].md`
 
 ### 2. BBCode Generation
 
@@ -89,10 +99,10 @@ The project uses Handlebars templates to convert research data into BBCode:
 
 ```bash
 # Generate BBCode from YAML data
-node scripts/generate-bbcode.js
+node build/scripts/generate-bbcode.js
 ```
 
-Output files are saved to `_data/[Brand]/[Device]/output/`
+Output files are saved to `data/[Brand]/[Device]/output/`
 
 ### 3. Publishing
 
@@ -112,26 +122,26 @@ Output files are saved to `_data/[Brand]/[Device]/output/`
 | Nothing | 2 | 0 | 2 (prompts ready) |
 | Motorola | 1 | 0 | 1 (prompt ready) |
 
-See [`_data/TASK_LIST.md`](_data/TASK_LIST.md) for detailed progress tracking.
+See [`data/TASK_LIST.md`](data/TASK_LIST.md) for detailed progress tracking.
 
 ## 🛠️ Development
 
 ### Adding a New Device
 
-1. Create device directory: `_data/[Brand]/[Device Name]/`
+1. Create device directory: `data/[Brand]/[Device Name]/`
 2. Copy research prompt template
-3. Conduct research and save to `_data/researched/`
+3. Conduct research and save to `data/researched/`
 4. Create source markdown files in `source/`
 5. Run BBCode generation
-6. Create device page in `[brand]/[device-name].html`
+6. Create device page in `phones/[brand]/[device-name].html`
 
 ### Template System
 
 The project uses Handlebars for templating:
 
-- `templates/post-template.hbs` - BBCode post template
+- `build/templates/post-template.hbs` - BBCode post template
 - Device data stored in YAML format
-- Automated generation via `scripts/generate-bbcode.js`
+- Automated generation via `build/scripts/generate-bbcode.js`
 
 ## 📝 Contributing
 
@@ -154,7 +164,7 @@ Contributions are welcome! To contribute:
 
 - **Website**: [GitHub Pages](https://starlightdaemon.github.io/ARC/)
 - **XDA Profile**: [@graycatgrayhat](https://xdaforums.com/m/graycatgrayhat.12893039/)
-- **Published Guides**: See [Task List](_data/TASK_LIST.md)
+- **Published Guides**: See [Task List](data/TASK_LIST.md)
 
 ## 📄 License
 
