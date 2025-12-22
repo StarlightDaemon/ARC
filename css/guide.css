@@ -112,6 +112,41 @@
     margin: 1.5rem 0;
 }
 
+/* Spoiler/Details - collapsible sections */
+.section-preview details.spoiler {
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 1rem 0;
+}
+
+.section-preview details.spoiler summary {
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    background: #f0f0f0;
+    border-bottom: 1px solid #ddd;
+}
+
+.section-preview details.spoiler[open] summary {
+    border-radius: 4px 4px 0 0;
+}
+
+.section-preview details.spoiler:not([open]) summary {
+    border-bottom: none;
+    border-radius: 4px;
+}
+
+.section-preview .spoiler-content {
+    padding: 1rem;
+    font-size: 13px;
+    line-height: 1.6;
+}
+
+.section-preview .spoiler-content p {
+    text-align: left;
+}
+
 /* Copy button */
 .copy-section {
     padding: 0.5rem 1rem;

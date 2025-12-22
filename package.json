@@ -1,0 +1,17 @@
+{
+  "name": "arc-accessory-guides",
+  "version": "1.0.0",
+  "description": "Accessory Research Center - Single source YAML to BBCode/HTML generator",
+  "scripts": {
+    "generate": "node scripts/generate-bbcode.js",
+    "generate:pixel": "node scripts/generate-bbcode.js pixel-10-pro-xl",
+    "generate:all": "node scripts/generate-all.js"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {},
+  "author": "graycatgrayhat",
+  "license": "MIT"
+}

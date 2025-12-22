@@ -87,6 +87,10 @@ function bbcodeToHtml(bb) {
   // HR
   html = html.replace(/\[HR\]\[\/HR\]/gi, '<hr>');
 
+  // Spoilers -> HTML details/summary (collapsible)
+  html = html.replace(/\[SPOILER=([^\]]+)\]([\s\S]*?)\[\/SPOILER\]/gi, '<details class="spoiler"><summary>$1</summary><div class="spoiler-content">$2</div></details>');
+  html = html.replace(/\[SPOILER\]([\s\S]*?)\[\/SPOILER\]/gi, '<details class="spoiler"><summary>Details</summary><div class="spoiler-content">$1</div></details>');
+
   // Lists
   html = html.replace(/\[LIST=1\]\n?([\s\S]*?)\[\/LIST\]/gi, (m, content) => {
     const items = content.split(/\[\*\]/).filter(i => i.trim()).map(i => `<li>${i.trim()}</li>`).join('');

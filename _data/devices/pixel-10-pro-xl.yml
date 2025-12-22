@@ -1,0 +1,446 @@
+# Google Pixel 10 Pro XL - Accessories Data
+# Single Source of Truth - Generates both Web and BBCode
+
+device:
+  name: "Google Pixel 10 Pro XL"
+  brand: "Google"
+  slug: "pixel-10-pro-xl"
+  specs:
+    wired_charging: "37W USB-PD PPS (21V required)"
+    wireless_charging: "25W Pixelsnap, 15W Qi2"
+    has_magnets: true  # Built-in Qi2 magnets
+    display: "6.8\" Super Actua LTPO OLED, flat"
+    fingerprint: "Ultrasonic"
+  notes:
+    - "Built-in Qi2 magnets - no magnetic case needed!"
+    - "21V PPS required for full 37W - Samsung chargers won't work"
+
+# =============================================================================
+# CHARGERS
+# =============================================================================
+chargers:
+  wired_tier1:  # Full speed chargers
+    title: "Tier 1: Full Speed (21V PPS)"
+    description: "These chargers support 21V PPS for full 37W charging"
+    items:
+      - brand: "Google"
+        model: "45W USB-C Charger"
+        watts: 45
+        pps_range: "3.3-21V"
+        pixel_speed: "37W"
+        price_usd: 34.99
+        url: "https://store.google.com/product/usb_c_45w_charger"
+        highlight: true
+
+      - brand: "Anker"
+        model: "Prime 67W (A2669)"
+        watts: 67
+        pps_range: "3.3-21V"
+        pixel_speed: "37W"
+        price_usd: 54.99
+        url: "https://www.anker.com/products/a2669"
+
+      - brand: "UGREEN"
+        model: "Nexode Pro 65W"
+        watts: 65
+        pps_range: "3.3-21V"
+        pixel_speed: "37W"
+        price_usd: 34.99
+        url: "https://www.ugreen.com/collections/chargers"
+
+      - brand: "Shargeek"
+        model: "Retro 67"
+        watts: 67
+        pps_range: "3.3-20V"
+        pixel_speed: "~37W"
+        price_usd: 69.99
+        url: "https://shargeek.com/products/retro-67"
+        notes: "LED power display"
+
+  wired_tier2:  # Reduced speed chargers
+    title: "Tier 2: Reduced Speed (PPS Capped)"
+    description: "These chargers work but won't hit 37W due to limited voltage range"
+    items:
+      - brand: "Samsung"
+        model: "45W (EP-T4510)"
+        pps_range: "3.3-11V"
+        pixel_speed: "~28-30W"
+        notes: "Optimized for Samsung high-current"
+        avoid: true
+
+      - brand: "Anker"
+        model: "Nano II 45W (older)"
+        pps_range: "3.3-16V"
+        pixel_speed: "~30W"
+        notes: "Get Prime series instead"
+        avoid: true
+
+  wireless:
+    title: "Wireless Chargers"
+    description: "Pixel has built-in Qi2 magnets - no magnetic case needed!"
+    items:
+      - brand: "Google"
+        model: "Pixelsnap Stand"
+        speed: "25W"
+        has_cooling: true
+        price_usd: 69.99
+        url: "https://store.google.com/product/pixelsnap_charger_stand"
+        highlight: true
+
+      - brand: "Google"
+        model: "Pixelsnap Charger"
+        speed: "25W"
+        has_cooling: false
+        price_usd: 39.99
+        url: "https://store.google.com/product/pixelsnap_charger"
+
+      - brand: "Belkin"
+        model: "BoostCharge Pro 2-in-1"
+        speed: "25W"
+        has_cooling: false
+        price_usd: 99.99
+        url: "https://www.belkin.com/"
+
+      - brand: "Anker"
+        model: "MagGo 3-in-1"
+        speed: "15W"
+        has_cooling: false
+        price_usd: 109.99
+        url: "https://www.anker.com/products/a2557"
+        notes: "Throttles to 7.5W when hot"
+
+  power_banks:
+    title: "Power Banks"
+    items:
+      - brand: "Anker"
+        model: "MagGo Power Bank 10K"
+        capacity: "10,000mAh"
+        magnetic: true
+        price_usd: 89.99
+        url: "https://www.anker.com/maggo"
+
+      - brand: "INIU"
+        model: "Magnetic 5K"
+        capacity: "5,000mAh"
+        magnetic: true
+        price_usd: 29.99
+        url: "https://www.amazon.com/dp/B0BTT5WK5Y"
+
+# =============================================================================
+# CASES
+# =============================================================================
+cases:
+  rugged:
+    title: "Rugged / Hardened Cases"
+    description: "Heavy-duty protection for demanding environments"
+    items:
+      - brand: "OtterBox"
+        model: "Defender XT"
+        magnetic: true
+        port_cover: true
+        kickstand: false
+        drop_rating: "5x MIL-STD"
+        price_usd: 47.99
+        url: "https://www.otterbox.com/"
+
+      - brand: "SUPCASE"
+        model: "UB Pro"
+        magnetic: false
+        port_cover: true
+        kickstand: true
+        drop_rating: "20ft"
+        price_usd: 31.99
+        url: "https://supcase.com/collections/google-pixel-10-pro-xl"
+        notes: "Remove built-in screen protector!"
+
+      - brand: "Poetic"
+        model: "Revolution"
+        magnetic: false
+        port_cover: true
+        kickstand: true
+        drop_rating: "20ft"
+        price_usd: 23.95
+        url: "https://www.poeticcases.com/collections/google-pixel-10-pro-xl"
+
+      - brand: "Pelican"
+        model: "Protector Magnetic"
+        magnetic: true
+        port_cover: false
+        kickstand: false
+        drop_rating: "15ft MIL-STD"
+        price_usd: 54.99
+        url: "https://www.pelican.com/"
+
+  aramid:
+    title: "Aramid Fiber (Ultra-Thin)"
+    description: "Minimal bulk, maximum style"
+    items:
+      - brand: "Thinborne"
+        model: "600D Aramid"
+        magnetic: true
+        material: "600D Kevlar"
+        thickness: "0.8mm"
+        price_usd: 44.95
+        url: "https://thinborne.com/"
+        highlight: true
+
+      - brand: "Benks"
+        model: "ArmorAir"
+        magnetic: true
+        material: "600D Kevlar"
+        thickness: "0.85mm"
+        price_usd: 39.99
+        url: "https://www.benks.com/"
+
+      - brand: "PITAKA"
+        model: "MagEZ Case 5"
+        magnetic: true
+        material: "Fusion Weave"
+        thickness: "1.0mm"
+        price_usd: 49.99
+        url: "https://www.ipitaka.com/"
+
+      - brand: "Latercase"
+        model: "Cyber Edition"
+        magnetic: false  # Weak - uses phone's magnets only
+        material: "Aramid"
+        thickness: "0.6mm"
+        price_usd: 49.99
+        url: "https://latercase.com/"
+        notes: "No embedded magnets - weaker grip"
+
+  everyday:
+    title: "Grip & Everyday Cases"
+    items:
+      - brand: "dbrand"
+        model: "Grip Case"
+        magnetic: true
+        feature: "Microdot texture, chamfered lip"
+        price_usd: 39.99
+        url: "https://dbrand.com/shop/grip/google-pixel-10-pro-xl"
+        highlight: true
+
+      - brand: "Torras"
+        model: "Ostand 360"
+        magnetic: true
+        feature: "360° rotating ring kickstand"
+        price_usd: 34.99
+        url: "https://www.torras.com/"
+
+      - brand: "Peak Design"
+        model: "Everyday Case"
+        magnetic: true
+        feature: "SlimLink mechanical lock for bikes"
+        price_usd: 49.95
+        url: "https://www.peakdesign.com/products/everyday-case-pixel"
+
+      - brand: "Spigen"
+        model: "Ultra Hybrid MagFit"
+        magnetic: true
+        feature: "Clear back, show off phone"
+        price_usd: 34.99
+        url: "https://www.spigen.com/collections/pixel-10-pro-xl"
+
+      - brand: "Google"
+        model: "Official Case"
+        magnetic: true
+        feature: "Perfect fit, minimal branding"
+        price_usd: 34.99
+        url: "https://store.google.com/"
+
+# =============================================================================
+# SCREEN PROTECTORS
+# =============================================================================
+screen_protectors:
+  glass:
+    title: "Glass (Ultrasonic Compatible)"
+    description: "Ultrasonic fingerprint requires full-adhesive protectors"
+    items:
+      - brand: "Whitestone"
+        model: "Dome Glass"
+        install_type: "UV LOCA"
+        fingerprint: true
+        difficulty: "Hard"
+        price_usd: 49.99
+        url: "https://www.whitestonedome.com/collections/google-pixel-10-pro-xl"
+        highlight: true
+
+      - brand: "Spigen"
+        model: "Glas.tR EZ Fit"
+        install_type: "Tray Alignment"
+        fingerprint: true
+        difficulty: "Easy"
+        price_usd: 24.99
+        url: "https://www.spigen.com/collections/pixel-10-pro-xl"
+
+      - brand: "amFilm"
+        model: "OneTouch Glass"
+        install_type: "Auto-Alignment"
+        fingerprint: true
+        difficulty: "Easy"
+        price_usd: 19.99
+        url: "https://www.amazon.com/amFilm/"
+
+  film:
+    title: "Film Protectors"
+    items:
+      - brand: "Spigen"
+        model: "NeoFlex"
+        type: "TPU Film"
+        fingerprint: true
+        price_usd: 14.99
+        url: "https://www.spigen.com/collections/pixel-10-pro-xl"
+
+      - brand: "ESR"
+        model: "Liquid Skin"
+        type: "TPU Film"
+        fingerprint: true
+        price_usd: 12.99
+        url: "https://www.esrgear.com/"
+
+  avoid:
+    title: "Avoid"
+    items:
+      - brand: "Magic John / Generic"
+        issue: "High fingerprint failure rate, reduced brightness"
+      - brand: "Edge-adhesive only"
+        issue: "Air gap blocks ultrasonic sensor completely"
+
+  lens:
+    title: "Camera Lens Protection"
+    description: "Do NOT use glass lens covers - causes ghosting/flare"
+    items:
+      - brand: "Ringke"
+        model: "Camera Styling"
+        type: "Aluminum bezel (no glass)"
+        price_usd: 12.99
+        url: "https://www.ringkestore.com/"
+
+# =============================================================================
+# MISCELLANEOUS
+# =============================================================================
+cooling:
+  title: "Cooling Accessories"
+  description: "Essential for gaming, GPS, or sustained camera use"
+  items:
+    - brand: "Black Shark"
+      model: "MagCooler 4 Pro"
+      type: "Peltier + Fan"
+      temp_drop: "-35°C"
+      price_usd: 59.99
+      url: "https://www.blackshark.com/"
+
+    - brand: "Black Shark"
+      model: "MagCooler 3 Pro"
+      type: "Peltier + Fan"
+      temp_drop: "-30°C"
+      price_usd: 49.99
+      url: "https://www.blackshark.com/"
+
+    - brand: "Razer"
+      model: "Phone Cooler Chroma"
+      type: "Peltier + RGB"
+      temp_drop: "-25°C"
+      price_usd: 79.99
+      url: "https://www.razer.com/mobile-accessories/razer-phone-cooler-chroma"
+
+photography:
+  title: "Photography Accessories"
+  items:
+    - brand: "ShiftCam"
+      model: "SnapGrip"
+      features: "Ergonomic grip, Bluetooth shutter, 3200mAh battery"
+      price_usd: 99.99
+      url: "https://www.shiftcam.com/products/snapgrip"
+
+    - brand: "Peak Design"
+      model: "Mobile Tripod"
+      features: "Flat-pack, magnetic, aluminum legs"
+      price_usd: 79.95
+      url: "https://www.peakdesign.com/products/mobile-tripod"
+
+    - brand: "Moment"
+      model: "58mm Tele Lens"
+      features: "External telephoto, requires Moment case"
+      price_usd: 129.99
+      url: "https://www.shopmoment.com/"
+
+gaming:
+  title: "Gaming Controllers"
+  items:
+    - brand: "GameSir"
+      model: "X4 Aileron"
+      connection: "USB-C"
+      sensor: "Hall Effect (No Drift)"
+      price_usd: 79.99
+      url: "https://www.gamesir.hk/products/gamesir-x4-aileron"
+      highlight: true
+
+    - brand: "Backbone"
+      model: "One (2nd Gen)"
+      connection: "USB-C"
+      sensor: "Traditional"
+      price_usd: 99.99
+      url: "https://playbackbone.com/"
+
+    - brand: "Razer"
+      model: "Kishi V2"
+      connection: "USB-C"
+      sensor: "Traditional"
+      price_usd: 99.99
+      url: "https://www.razer.com/mobile-controllers/razer-kishi-v2"
+
+mounts:
+  title: "Mounts"
+  items:
+    - brand: "ESR"
+      model: "CryoBoost Car Mount"
+      type: "Vent/Dash"
+      charging: "15W Qi2 + Fan"
+      price_usd: 69.99
+      url: "https://www.esrgear.com/"
+
+    - brand: "Peak Design"
+      model: "Motorcycle Mount"
+      type: "Bar Clamp"
+      charging: "None (SlimLink)"
+      price_usd: 79.95
+      url: "https://www.peakdesign.com/products/motorcycle-mount"
+      notes: "Mechanical lock - safe for vibration"
+
+    - brand: "Quad Lock"
+      model: "MAG Case + Mount"
+      type: "Bike/Moto"
+      charging: "None (Mechanical)"
+      price_usd: 69.95
+      url: "https://www.quadlockcase.com/"
+
+    - brand: "ProClip USA"
+      model: "Vehicle-Specific"
+      type: "Dashboard"
+      charging: "Optional"
+      url: "https://www.proclipusa.com/"
+
+# =============================================================================
+# SKINS
+# =============================================================================
+skins:
+  title: "Skins & Wraps"
+  items:
+    - brand: "dbrand"
+      model: "Various"
+      features: "Premium vinyl, precise cuts"
+      url: "https://dbrand.com/shop/google-pixel-10-pro-xl-skins"
+
+    - brand: "Slickwraps"
+      model: "Various"
+      features: "Wide selection, custom prints"
+      url: "https://www.slickwraps.com/"
+
+# =============================================================================
+# METADATA
+# =============================================================================
+meta:
+  last_updated: "2025-12-22"
+  maintained_by: "graycatgrayhat"
+  xda_thread: ""  # Add when published
