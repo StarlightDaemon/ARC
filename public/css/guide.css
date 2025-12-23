@@ -218,12 +218,12 @@
     white-space: nowrap;
 }
 
-/* Specs - Clean Bullet List */
+/* Specs - Summary Style with Badges */
 .specs {
     padding: 1.25rem 1rem;
     background: #f8f9fa;
     border-radius: 8px;
-    font-size: 0.85rem;
+    font-size: 0.88rem;
     color: #555;
 
     /* Grow to fill space, center content */
@@ -231,24 +231,32 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    gap: 0.75rem;
     margin-bottom: auto;
+    line-height: 1.5;
 }
 
-.specs span {
-    display: block;
-    padding: 0.4rem 0;
-    padding-left: 1.25rem;
-    position: relative;
-    line-height: 1.4;
+.specs .summary-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
-.specs span::before {
-    content: "•";
-    position: absolute;
-    left: 0;
+.specs .badge {
+    background: white;
+    padding: 0.35rem 0.75rem;
+    border-radius: 15px;
+    font-size: 0.75rem;
+    font-weight: 600;
     color: #667eea;
-    font-weight: bold;
-    font-size: 1.1em;
+    border: 1px solid #e0e0e0;
+}
+
+.specs .material-text {
+    color: #666;
+    font-size: 0.82rem;
+    line-height: 1.4;
 }
 
 /* Purchase Links - Stacked at Bottom */
