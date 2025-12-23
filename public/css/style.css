@@ -355,47 +355,47 @@ header nav ul a:hover {
 
 /* Responsive */
 
-  header nav ul {
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
-  }
-
-  .bbcode-header {
-    flex-direction: column;
-    gap: 0.75rem;
-    align-items: stretch;
-  }
-
-  .phone-card {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.5rem;
-  }
+header nav ul {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
 }
-        display: block;
-    }
+
+.bbcode-header {
+  flex-direction: column;
+  gap: 0.75rem;
+  align-items: stretch;
 }
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: #b0b0b0;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%) translateY(-20px);
-    white-space: nowrap;
-    opacity: 0;
-    pointer-events: none;
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+
+.phone-card {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+}
+
+/* Sticky Title in Header */
+.sticky-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #b0b0b0;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%) translateY(-20px);
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .sticky-title.visible {
-    opacity: 1;
-    transform: translateX(-50%) translateY(0);
-    pointer-events: auto;
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+  pointer-events: auto;
 }
 
 @media (max-width: 768px) {
-    .sticky-title {
-        display: none;
-    }
+  .sticky-title {
+    display: none;
+  }
 }
