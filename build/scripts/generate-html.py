@@ -250,13 +250,19 @@ def generate_html_page(data):
             toggle.textContent = info.classList.contains('collapsed') ? '▶' : '▼';
         }}
         
-        // Sticky title on scroll
+        // Sticky title on scroll - triggers when main title is hidden
         window.addEventListener('scroll', function() {{
             const stickyTitle = document.getElementById('stickyTitle');
-            if (window.scrollY > 200) {{
-                stickyTitle.classList.add('visible');
-            }} else {{
-                stickyTitle.classList.remove('visible');
+            const mainTitle = document.querySelector('.guide-header h1');
+            
+            if (mainTitle) {{
+                const titleRect = mainTitle.getBoundingClientRect();
+                // Show sticky title as soon as main title goes above viewport
+                if (titleRect.bottom < 0) {{
+                    stickyTitle.classList.add('visible');
+                }} else {{
+                    stickyTitle.classList.remove('visible');
+                }}
             }}
         }});
     </script>
