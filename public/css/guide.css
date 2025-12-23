@@ -650,3 +650,20 @@
     opacity: 1;
     transition: max-height 0.3s ease, opacity 0.3s ease;
 }
+
+/* Two-line Product Titles */
+.product-header h3 .brand-name {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #808080;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.25rem;
+}
+
+.product-header h3 .product-name {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 1.3;
+}

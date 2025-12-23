@@ -99,7 +99,10 @@ def generate_product_html(product):
     html = f"""
     <div class="product-card" data-category="{product['category']}">
         <div class="product-header">
-            <h3 style="min-height: 2.6em;">{product['brand']} {clean_name}</h3>
+            <h3 style="min-height: 2.6em;">
+                <div class="brand-name">{product['brand']}</div>
+                <div class="product-name">{clean_name}</div>
+            </h3>
             <span class="price">{price_display}</span>
         </div>
         {specs_html}
