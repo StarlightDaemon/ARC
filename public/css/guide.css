@@ -54,14 +54,15 @@
 .device-info {
     background: linear-gradient(135deg, #06a0ff 0%, #0580e0 100%);
     color: white;
-    border-radius: 0;
-    padding: 1.75rem;
-    margin: 2rem 0;
+    text-align: center;
+    padding: 2rem;
+    max-width: 900px;
+    margin: 2rem auto;
     box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
 }
 
 .device-info h3 {
-    font-size: 1.25rem;
+    font-size: 1.35rem;
     margin-bottom: 1rem;
     font-weight: 600;
 }
@@ -69,14 +70,14 @@
 .features-list {
     list-style: none;
     padding: 0;
-    margin: 0 0 1.25rem 0;
+    margin: 0 auto 1.5rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 0.75rem;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
 }
 
 .features-list li {
-    padding-left: 1.5rem;
+    padding-left: 1.75rem;
     position: relative;
 }
 
@@ -86,13 +87,16 @@
     left: 0;
     font-weight: bold;
     color: #a7f3d0;
+    font-size: 1.2em;
 }
 
 .charging-specs {
     display: flex;
-    gap: 2rem;
+    gap: 2.5rem;
     flex-wrap: wrap;
-    padding-top: 1rem;
+    padding-top: 1.25rem;
+    justify-content: center;
+    text-align: left;
     border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
 
