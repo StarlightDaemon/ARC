@@ -145,9 +145,9 @@ def generate_index_page(data):
 
     <main class="guide-container">
         <div class="guide-header">
-            <h1>ARC</h1>
+            <h1>Accessories Recommendation Catalog</h1>
             <p class="guide-intro">
-                Accessory Research Catalog - Comprehensive guides for flagship phones with verified purchase links, pricing, and detailed product research.
+                Comprehensive guides for flagship phones with verified purchase links, pricing, and detailed product research.
             </p>
         </div>
 
