@@ -193,7 +193,7 @@ def generate_html_page(data):
 
         <div class="filter-bar">
             <button class="filter-btn active" data-filter="all">All ({len(products)})</button>
-            {"".join([f'<button class="filter-btn" data-filter="{cat}">{category_titles[cat].split()[1]} ({len(groups[cat])})</button>' for cat in category_order if cat in groups and groups[cat]])}
+            {"".join([f'<button class="filter-btn" data-filter="{cat}">{category_titles.get(cat, cat).split()[1]} ({len(groups[cat])})</button>' for cat in category_order if cat in groups and groups[cat]])}
         </div>
 
         {categories_html}

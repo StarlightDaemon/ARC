@@ -52,7 +52,7 @@
 
 /* Device Info Card */
 .device-info {
-    background: linear-gradient(135deg, #0362fc 0%, #0251d4 100%);
+    background: linear-gradient(135deg, #0390fc 0%, #0270d4 100%);
     color: white;
     border-radius: 0;
     padding: 1.75rem;
@@ -131,9 +131,9 @@
 }
 
 .filter-btn.active {
-    background: linear-gradient(135deg, #0362fc 0%, #0251d4 100%);
+    background: linear-gradient(135deg, #0390fc 0%, #0270d4 100%);
     color: white;
-    border-color: #0362fc;
+    border-color: #0390fc;
     box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
 }
 
@@ -148,7 +148,7 @@
     color: #ffffff;
     margin-bottom: 1.5rem;
     padding-bottom: 0.75rem;
-    border-bottom: 3px solid #0362fc;
+    border-bottom: 3px solid #0390fc;
     display: inline-block;
 }
 
@@ -187,7 +187,7 @@
 .product-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
-    border-color: #0362fc;
+    border-color: #0390fc;
 }
 
 .product-header {
@@ -211,7 +211,7 @@
 .price {
     font-size: 1.25rem;
     font-weight: 700;
-    background: linear-gradient(135deg, #0362fc 0%, #0251d4 100%);
+    background: linear-gradient(135deg, #0390fc 0%, #0270d4 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -249,7 +249,7 @@
     border-radius: 0;
     font-size: 0.75rem;
     font-weight: 600;
-    color: #0362fc;
+    color: #0390fc;
     border: 1px solid #3a3a3a;
 }
 
@@ -281,7 +281,7 @@
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #0362fc 0%, #0251d4 100%);
+    background: linear-gradient(135deg, #0390fc 0%, #0270d4 100%);
     color: white;
     border: none;
 }
@@ -294,12 +294,12 @@
 
 .btn-secondary {
     background: #252525;
-    color: #0362fc;
-    border: 2px solid #0362fc;
+    color: #0390fc;
+    border: 2px solid #0390fc;
 }
 
 .btn-secondary:hover {
-    background: #0362fc;
+    background: #0390fc;
     color: white;
     text-decoration: none;
     transform: translateY(-2px);

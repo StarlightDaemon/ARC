@@ -9,9 +9,9 @@
   --text: #ffffff;
   --text-secondary: #b0b0b0;
   --border: #3a3a3a;
-  --accent: #0362fc;
+  --accent: #0390fc;
   /* Single electric cyan */
-  --accent-hover: #0251d4;
+  --accent-hover: #0270d4;
 
   /* Layout */
   --container-max: 960px;
