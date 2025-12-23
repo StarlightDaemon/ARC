@@ -78,7 +78,7 @@
 
         @media (max-width: 640px) {
             .products-grid {
-                grid-template-columns: 1fr !important;
+                grid-template-columns: 1fr;
             }
         }
     </style>
@@ -87,149 +87,130 @@
 <body>
     <header>
         <nav>
-            <div class="logo"><a href="index.html">🛡️ ARC</a></div>
-            <ul style="list-style: none; display: flex; gap: 1.5rem; margin: 0; padding: 0;">
-                <li><a href="index.html">Guides</a></li>
-                <li><a href="dev.html">Developer</a></li>
-                <li><a href="https://github.com/StarlightDaemon/ARC" target="_blank">GitHub</a></li>
+            <div class="logo"><a href="index.html">ARC</a></div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#about">About</a></li>
             </ul>
         </nav>
     </header>
 
     <main class="guide-container">
         <div class="guide-header">
-            <h1>📱 Phone Accessory Guides</h1>
-            <p class="guide-intro">Comprehensive accessory research with verified purchase links, pricing, and
-                specifications. All products researched using multi-LLM methodology.</p>
+            <h1>Phone Accessory Research & Curation</h1>
+            <p class="guide-intro">
+                Comprehensive guides for flagship phones with verified purchase links, pricing, and detailed product
+                research.
+            </p>
         </div>
 
-        <!-- Filter by Brand -->
         <div class="filter-bar">
-            <button class="filter-btn active" data-filter="all">All Devices</button>
-            <button class="filter-btn" data-filter="google">Google</button>
-            <button class="filter-btn" data-filter="samsung">Samsung</button>
-            <button class="filter-btn" data-filter="oneplus">OnePlus</button>
-            <button class="filter-btn" data-filter="nothing">Nothing</button>
+            <button class="filter-btn active" data-brand="all">All (5)</button>
+                <button class="filter-btn" data-brand="google">Google</button>
+                <button class="filter-btn" data-brand="nothing">Nothing</button>
+                <button class="filter-btn" data-brand="oneplus">OnePlus</button>
+                <button class="filter-btn" data-brand="samsung">Samsung</button>
         </div>
 
-        <!-- Phone Guides Grid -->
-        <div class="products-grid" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));">
+        <div class="products-grid">
 
-            <!-- Google Pixel 10 Pro XL -->
             <a href="phones/google/pixel-10-pro-xl.html" class="phone-guide-card" data-brand="google">
                 <div class="phone-card-header">
-                    <div class="brand-badge">Google</div>
+                    <span class="brand-badge">Google</span>
                     <h3>Pixel 10 Pro XL</h3>
                 </div>
                 <div class="phone-features">
-                    <span>🧲 Native Qi2</span>
-                    <span>💎 Tensor G5</span>
-                    <span>📏 6.9" Flat</span>
+                    <span>Tensor G5</span><span>Qi2 Pixelsnap</span><span>6.9" Display</span>
                 </div>
                 <div class="phone-stats">
-                    <span>21 Products</span>
-                    <span>•</span>
-                    <span>Updated Dec 23</span>
+                    <span>📱 21 products</span>
                 </div>
             </a>
 
-            <!-- Samsung Galaxy S25 Ultra -->
             <a href="phones/samsung/galaxy-s25-ultra.html" class="phone-guide-card" data-brand="samsung">
                 <div class="phone-card-header">
-                    <div class="brand-badge">Samsung</div>
+                    <span class="brand-badge">Samsung</span>
                     <h3>Galaxy S25 Ultra</h3>
                 </div>
                 <div class="phone-features">
-                    <span>💎 Snapdragon 8 Elite</span>
-                    <span>✏️ S Pen</span>
-                    <span>📏 6.9" Flat</span>
+                    <span>Snapdragon 8 Elite</span><span>S Pen</span><span>200MP Camera</span>
                 </div>
                 <div class="phone-stats">
-                    <span>Coming Soon</span>
+                    <span>📱 3 products</span>
                 </div>
             </a>
 
-            <!-- Samsung Galaxy Z Fold 7 -->
             <a href="phones/samsung/galaxy-z-fold-7.html" class="phone-guide-card" data-brand="samsung">
                 <div class="phone-card-header">
-                    <div class="brand-badge">Samsung</div>
+                    <span class="brand-badge">Samsung</span>
                     <h3>Galaxy Z Fold 7</h3>
                 </div>
                 <div class="phone-features">
-                    <span>💎 Snapdragon 8 Elite</span>
-                    <span>📖 Foldable</span>
-                    <span>✏️ S Pen</span>
+                    <span>Foldable 7.6" Display</span><span>S Pen Support</span><span>Enhanced Hinge</span>
                 </div>
                 <div class="phone-stats">
-                    <span>Coming Soon</span>
+                    <span>📖 2 products</span>
                 </div>
             </a>
 
-            <!-- OnePlus 13 -->
             <a href="phones/oneplus/oneplus-13.html" class="phone-guide-card" data-brand="oneplus">
                 <div class="phone-card-header">
-                    <div class="brand-badge">OnePlus</div>
+                    <span class="brand-badge">OnePlus</span>
                     <h3>OnePlus 13</h3>
                 </div>
                 <div class="phone-features">
-                    <span>💎 Snapdragon 8 Elite</span>
-                    <span>⚡ 100W Charging</span>
-                    <span>🔋 6000 mAh</span>
+                    <span>100W SUPERVOOC</span><span>Hasselblad Camera</span><span>6000 mAh Battery</span>
                 </div>
                 <div class="phone-stats">
-                    <span>Coming Soon</span>
+                    <span>📱 2 products</span>
                 </div>
             </a>
 
-            <!-- Nothing Phone (3) -->
             <a href="phones/nothing/phone-(3).html" class="phone-guide-card" data-brand="nothing">
                 <div class="phone-card-header">
-                    <div class="brand-badge">Nothing</div>
+                    <span class="brand-badge">Nothing</span>
                     <h3>Phone (3)</h3>
                 </div>
                 <div class="phone-features">
-                    <span>💡 Glyph Interface</span>
-                    <span>💎 Snapdragon 8s Gen 3</span>
-                    <span>⚡ 45W Charging</span>
+                    <span>Glyph Interface</span><span>Transparent Design</span><span>Nothing OS 3.0</span>
                 </div>
                 <div class="phone-stats">
-                    <span>Coming Soon</span>
+                    <span>✨ 2 products</span>
                 </div>
             </a>
-
         </div>
-
-        <footer class="guide-footer">
-            <p><em>Last updated: December 2025</em></p>
-            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/"
-                    target="_blank">graycatgrayhat</a></p>
-            <p>Research powered by Multi-LLM workflow (Gemini + Sonar)</p>
-        </footer>
     </main>
 
+    <footer class="footer">
+        <p>Last updated: 2025-12-23 | Maintained by ARC</p>
+    </footer>
+
+    <script src="public/js/guide.js"></script>
     <script>
-        // Simple filter functionality
-        const filterBtns = document.querySelectorAll('.filter-btn');
-        const cards = document.querySelectorAll('.phone-guide-card');
+        // Scoped filter functionality
+        (function() {
+            const filterBtns = document.querySelectorAll('.filter-btn');
+            const cards = document.querySelectorAll('.phone-guide-card');
 
-        filterBtns.forEach(btn => {
-            btn.addEventListener('click', () => {
-                // Update active state
-                filterBtns.forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
+            filterBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    // Update active button
+                    filterBtns.forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
 
-                const filter = btn.dataset.filter;
+                    const brand = this.getAttribute('data-brand');
 
-                // Show/hide cards
-                cards.forEach(card => {
-                    if (filter === 'all' || card.dataset.brand === filter) {
-                        card.style.display = 'flex';
-                    } else {
-                        card.style.display = 'none';
-                    }
+                    // Filter cards
+                    cards.forEach(card => {
+                        if (brand === 'all' || card.getAttribute('data-brand') === brand) {
+                            card.style.display = 'flex';
+                        } else {
+                            card.style.display = 'none';
+                        }
+                    });
                 });
             });
-        });
+        })();
     </script>
 </body>
 

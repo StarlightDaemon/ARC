@@ -1,0 +1,74 @@
+{
+  "devices": [
+    {
+      "brand": "Google",
+      "model": "Pixel 10 Pro XL",
+      "path": "phones/google/pixel-10-pro-xl.html",
+      "icon": "\ud83d\udcf1",
+      "features": [
+        "Tensor G5",
+        "Qi2 Pixelsnap",
+        "6.9\" Display"
+      ],
+      "releaseDate": "2025-08-28",
+      "productCount": 21
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S25 Ultra",
+      "path": "phones/samsung/galaxy-s25-ultra.html",
+      "icon": "\ud83d\udcf1",
+      "features": [
+        "Snapdragon 8 Elite",
+        "S Pen",
+        "200MP Camera"
+      ],
+      "releaseDate": "2025-01-22",
+      "productCount": 3
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 7",
+      "path": "phones/samsung/galaxy-z-fold-7.html",
+      "icon": "\ud83d\udcd6",
+      "features": [
+        "Foldable 7.6\" Display",
+        "S Pen Support",
+        "Enhanced Hinge"
+      ],
+      "releaseDate": "2025-07-01",
+      "productCount": 2
+    },
+    {
+      "brand": "OnePlus",
+      "model": "OnePlus 13",
+      "path": "phones/oneplus/oneplus-13.html",
+      "icon": "\ud83d\udcf1",
+      "features": [
+        "100W SUPERVOOC",
+        "Hasselblad Camera",
+        "6000 mAh Battery"
+      ],
+      "releaseDate": "2025-01-07",
+      "productCount": 2
+    },
+    {
+      "brand": "Nothing",
+      "model": "Phone (3)",
+      "path": "phones/nothing/phone-(3).html",
+      "icon": "\u2728",
+      "features": [
+        "Glyph Interface",
+        "Transparent Design",
+        "Nothing OS 3.0"
+      ],
+      "releaseDate": "2025-03-01",
+      "productCount": 2
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-12-23",
+    "totalDevices": 5,
+    "totalProducts": 30
+  }
+}
