@@ -23,10 +23,16 @@
             <h1>Google Pixel 10 Pro XL Accessories Guide</h1>
             <p class="guide-intro">Comprehensive guide to cases, screen protectors, chargers, and accessories with verified purchase links and pricing.</p>
             
-            <div class="device-info">
-                <h3>Device Highlights</h3>
-                <ul class="features-list"><li>Native Qi2 magnets (Pixelsnap) - built into device</li><li>Tensor G5 (TSMC 3nm) - first TSMC-manufactured Tensor</li><li>6.9" Super Actua Display (flat)</li><li>Ultrasonic fingerprint sensor</li><li>Android 16 reference device</li></ul>
-                <div class="charging-specs"><span><strong>Wired:</strong> 45W USB-PD PPS</span><span><strong>Wireless:</strong> 25W Qi2 Pixelsnap (magnetic)</span></div>
+            <div class="device-info-wrapper">
+                <button class="device-toggle" onclick="toggleDeviceInfo()">
+                    <span class="toggle-icon">▶</span>
+                    <span>Device Highlights</span>
+                </button>
+                <div class="device-info collapsed" id="deviceInfo">
+                    <h3>Device Highlights</h3>
+                    <ul class="features-list"><li>Native Qi2 magnets (Pixelsnap) - built into device</li><li>Tensor G5 (TSMC 3nm) - first TSMC-manufactured Tensor</li><li>6.9" Super Actua Display (flat)</li><li>Ultrasonic fingerprint sensor</li><li>Android 16 reference device</li></ul>
+                    <div class="charging-specs"><span><strong>Wired:</strong> 45W USB-PD PPS</span><span><strong>Wireless:</strong> 25W Qi2 Pixelsnap (magnetic)</span></div>
+                </div>
             </div>
         </div>
 
@@ -281,5 +287,13 @@
     </main>
 
     <script src="../../public/js/guide.js"></script>
+    <script>
+        function toggleDeviceInfo() {
+            const info = document.getElementById('deviceInfo');
+            const toggle = document.querySelector('.device-toggle .toggle-icon');
+            info.classList.toggle('collapsed');
+            toggle.textContent = info.classList.contains('collapsed') ? '▶' : '▼';
+        }
+    </script>
 </body>
 </html>

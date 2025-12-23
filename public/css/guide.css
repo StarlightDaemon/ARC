@@ -604,3 +604,49 @@
         grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     }
 }
+
+/* Collapsible Device Highlights */
+.device-info-wrapper {
+    margin: 2rem auto;
+    max-width: 900px;
+}
+
+.device-toggle {
+    width: 100%;
+    background: #2a2a2a;
+    border: 1px solid #3a3a3a;
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    transition: all 0.2s ease;
+}
+
+.device-toggle:hover {
+    background: #333333;
+    border-color: #06a0ff;
+}
+
+.device-toggle .toggle-icon {
+    color: #06a0ff;
+    font-size: 0.9rem;
+    transition: transform 0.3s ease;
+}
+
+.device-info.collapsed {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
+    padding: 0;
+}
+
+.device-info:not(.collapsed) {
+    max-height: 1000px;
+    opacity: 1;
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+}

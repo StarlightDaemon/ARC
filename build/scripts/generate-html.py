@@ -184,10 +184,16 @@ def generate_html_page(data):
             <h1>{device['brand']} {device['model']} Accessories Guide</h1>
             <p class="guide-intro">Comprehensive guide to cases, screen protectors, chargers, and accessories with verified purchase links and pricing.</p>
             
-            <div class="device-info">
-                <h3>Device Highlights</h3>
-                {device_features}
-                {charging_info}
+            <div class="device-info-wrapper">
+                <button class="device-toggle" onclick="toggleDeviceInfo()">
+                    <span class="toggle-icon">▶</span>
+                    <span>Device Highlights</span>
+                </button>
+                <div class="device-info collapsed" id="deviceInfo">
+                    <h3>Device Highlights</h3>
+                    {device_features}
+                    {charging_info}
+                </div>
             </div>
         </div>
 
@@ -231,6 +237,14 @@ def generate_html_page(data):
     </main>
 
     <script src="../../public/js/guide.js"></script>
+    <script>
+        function toggleDeviceInfo() {{
+            const info = document.getElementById('deviceInfo');
+            const toggle = document.querySelector('.device-toggle .toggle-icon');
+            info.classList.toggle('collapsed');
+            toggle.textContent = info.classList.contains('collapsed') ? '▶' : '▼';
+        }}
+    </script>
 </body>
 </html>"""
     
