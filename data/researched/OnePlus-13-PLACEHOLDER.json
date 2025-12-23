@@ -1,28 +1,33 @@
 {
     "metadata": {
-        "device": "OnePlus 13",
-        "brand": "OnePlus",
-        "model": "OnePlus 13",
         "researchDate": "2025-12-23",
         "source": "Placeholder - Research Pending",
-        "highlights": [
+        "researcher": "Placeholder",
+        "verification": "Pending",
+        "notes": "Placeholder data for layout testing"
+    },
+    "device": {
+        "brand": "OnePlus",
+        "model": "OnePlus 13",
+        "releaseDate": "2025-01-07",
+        "criticalFeatures": [
             "Snapdragon 8 Elite processor",
             "100W SUPERVOOC fast charging",
             "6000 mAh battery",
             "Hasselblad camera system",
             "Alert Slider and IR blaster"
         ],
-        "charging": {
+        "chargingSpecs": {
             "wired": "100W SUPERVOOC",
-            "wireless": "50W wireless",
-            "reverseWireless": "10W reverse wireless"
+            "wireless": "50W wireless"
         }
     },
     "products": [
         {
-            "name": "Sandstone Bumper Case",
-            "brand": "OnePlus",
+            "id": "oneplus-sandstone",
             "category": "case-official",
+            "brand": "OnePlus",
+            "name": "Sandstone Bumper Case",
             "material": "Sandstone texture",
             "features": [
                 "Iconic sandstone feel",
@@ -40,9 +45,10 @@
             "verified": false
         },
         {
-            "name": "Rugged Armor",
-            "brand": "Spigen",
+            "id": "spigen-rugged-armor",
             "category": "case-rugged",
+            "brand": "Spigen",
+            "name": "Rugged Armor",
             "material": "Flexible TPU",
             "features": [
                 "Carbon fiber texture",

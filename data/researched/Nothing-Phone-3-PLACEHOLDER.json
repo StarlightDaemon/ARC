@@ -1,28 +1,33 @@
 {
     "metadata": {
-        "device": "Nothing Phone (3)",
-        "brand": "Nothing",
-        "model": "Phone (3)",
         "researchDate": "2025-12-23",
         "source": "Placeholder - Research Pending",
-        "highlights": [
+        "researcher": "Placeholder",
+        "verification": "Pending",
+        "notes": "Placeholder data for layout testing"
+    },
+    "device": {
+        "brand": "Nothing",
+        "model": "Phone (3)",
+        "releaseDate": "2025-03-01",
+        "criticalFeatures": [
             "Glyph Interface with enhanced patterns",
             "Snapdragon 8s Gen 3 processor",
             "Transparent design language",
             "45W fast charging",
             "Nothing OS 3.0 based on Android 15"
         ],
-        "charging": {
+        "chargingSpecs": {
             "wired": "45W USB-C PD",
-            "wireless": "15W Qi wireless",
-            "reverseWireless": "5W reverse wireless"
+            "wireless": "15W Qi wireless"
         }
     },
     "products": [
         {
-            "name": "Official Clear Case",
-            "brand": "Nothing",
+            "id": "nothing-clear-case",
             "category": "case-clear",
+            "brand": "Nothing",
+            "name": "Official Clear Case",
             "material": "Transparent PC",
             "features": [
                 "Showcases Glyph Interface",
@@ -40,9 +45,10 @@
             "verified": false
         },
         {
-            "name": "Liquid Crystal",
-            "brand": "Spigen",
+            "id": "spigen-liquid-crystal",
             "category": "case-clear",
+            "brand": "Spigen",
+            "name": "Liquid Crystal",
             "material": "Flexible TPU",
             "features": [
                 "Crystal clear",

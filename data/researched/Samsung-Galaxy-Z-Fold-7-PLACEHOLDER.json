@@ -1,28 +1,33 @@
 {
     "metadata": {
-        "device": "Samsung Galaxy Z Fold 7",
-        "brand": "Samsung",
-        "model": "Galaxy Z Fold 7",
         "researchDate": "2025-12-23",
         "source": "Placeholder - Research Pending",
-        "highlights": [
+        "researcher": "Placeholder",
+        "verification": "Pending",
+        "notes": "Placeholder data for layout testing"
+    },
+    "device": {
+        "brand": "Samsung",
+        "model": "Galaxy Z Fold 7",
+        "releaseDate": "2025-07-01",
+        "criticalFeatures": [
             "Foldable 7.6-inch main display",
             "S Pen support (sold separately)",
             "Snapdragon 8 Elite processor",
             "Enhanced hinge with reduced crease",
             "Triple rear camera system with improved zoom"
         ],
-        "charging": {
+        "chargingSpecs": {
             "wired": "25W USB-C PD 3.0",
-            "wireless": "15W Qi wireless",
-            "reverseWireless": "4.5W reverse wireless"
+            "wireless": "15W Qi wireless"
         }
     },
     "products": [
         {
-            "name": "Official Standing Cover",
-            "brand": "Samsung",
+            "id": "samsung-standing-cover",
             "category": "case-official",
+            "brand": "Samsung",
+            "name": "Official Standing Cover",
             "material": "Premium materials with kickstand",
             "features": [
                 "Built-in kickstand",
@@ -40,9 +45,10 @@
             "verified": false
         },
         {
-            "name": "Thin Fit P",
-            "brand": "Spigen",
+            "id": "spigen-thin-fit",
             "category": "case-slim",
+            "brand": "Spigen",
+            "name": "Thin Fit P",
             "material": "Lightweight PC",
             "features": [
                 "Ultra-thin design",
