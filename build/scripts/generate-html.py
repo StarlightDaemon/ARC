@@ -235,7 +235,8 @@ def generate_html_page(data):
 
         <footer class="guide-footer">
             <p><em>Last updated: {data['metadata']['researchDate']}</em></p>
-            <p>Research source: {data['metadata']['source']}</p>
+            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/" target="_blank">graycatgrayhat</a></p>
+            <p>Research powered by Multi-LLM workflow (Gemini + Sonar)</p>
         </footer>
     </main>
 
