@@ -373,12 +373,9 @@ header nav ul a:hover {
     gap: 0.5rem;
   }
 }
-    .sticky-title {
         display: block;
     }
 }
-    .sticky-title {
-.sticky-title {
     font-size: 1.5rem;
     font-weight: 600;
     color: #b0b0b0;
