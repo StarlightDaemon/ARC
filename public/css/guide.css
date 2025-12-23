@@ -152,17 +152,18 @@
     display: inline-block;
 }
 
-/* Products Grid */
+/* Products Grid - Phone Case Layout */
 .products-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
     gap: 1.5rem;
     margin-bottom: 2rem;
+    justify-content: center;
 }
 
 @media (max-width: 768px) {
     .products-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     }
 }
 
@@ -250,15 +251,14 @@
 
 .btn-primary,
 .btn-secondary {
-    padding: 0.7rem 1.5rem;
+    padding: 0.65rem 1rem;
     border-radius: 8px;
     font-weight: 600;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     text-decoration: none;
     transition: all 0.2s ease;
     text-align: center;
-    flex: 1;
-    min-width: 120px;
+    width: 100%;
 }
 
 .btn-primary {
