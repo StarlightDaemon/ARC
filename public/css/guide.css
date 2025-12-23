@@ -93,7 +93,7 @@
     gap: 2rem;
     flex-wrap: wrap;
     padding-top: 1rem;
-    border-top: 1px solid rgba(255,255,255,0.2);
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .charging-specs span {
@@ -166,19 +166,25 @@
     }
 }
 
-/* Product Cards - Modern Design */
+/* Product Cards - Movie Poster Style */
 .product-card {
     background: white;
     border: 1px solid #e0e0e0;
     border-radius: 12px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+
+    /* Movie poster layout */
+    display: flex;
+    flex-direction: column;
+    height: 320px;
+    /* Fixed height for uniform cards */
 }
 
 .product-card:hover {
     transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
     border-color: #667eea;
 }
 
@@ -188,6 +194,8 @@
     align-items: flex-start;
     margin-bottom: 1rem;
     gap: 1rem;
+    flex-shrink: 0;
+    /* Don't shrink header */
 }
 
 .product-header h3 {
@@ -201,33 +209,43 @@
 .price {
     font-size: 1.25rem;
     font-weight: 700;
-   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     white-space: nowrap;
 }
 
-/* Specs */
+/* Specs - Centered Middle Section */
 .specs {
     padding: 1rem;
     background: #f8f9fa;
     border-radius: 8px;
-    margin-bottom: 1.25rem;
     font-size: 0.9rem;
     color: #555;
     line-height: 1.8;
+
+    /* Grow to fill space, center content */
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: auto;
+    /* Push buttons to bottom */
 }
 
 .specs span {
     margin-right: 0.5rem;
 }
 
-/* Purchase Links */
+/* Purchase Links - Anchored at Bottom */
 .purchase-links {
     display: flex;
     gap: 0.75rem;
     flex-wrap: wrap;
+    margin-top: 1rem;
+    flex-shrink: 0;
+    /* Don't shrink buttons */
 }
 
 .btn-primary,
@@ -468,32 +486,32 @@
     .guide-header h1 {
         font-size: 1.75rem;
     }
-    
+
     .guide-intro {
         font-size: 1rem;
     }
-    
+
     .device-info {
         padding: 1.25rem;
     }
-    
+
     .features-list {
         grid-template-columns: 1fr;
     }
-    
+
     .filter-btn {
         font-size: 0.85rem;
         padding: 0.5rem 1rem;
     }
-    
+
     .product-card {
         padding: 1.25rem;
     }
-    
+
     .purchase-links {
         flex-direction: column;
     }
-    
+
     .btn-primary,
     .btn-secondary {
         width: 100%;
