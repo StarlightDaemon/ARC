@@ -100,9 +100,12 @@ def generate_product_html(product):
     
     links_html = '<div class="purchase-links">' + ''.join(links) + '</div>' if links else ''
     
-    # Handle pricing display
-    msrp = product.get('pricing', product.get('price', {})).get('msrp', product.get('price', {}).get('amount'))
+    
+    # Handle pricing display - support both 'pricing' and 'price' formats
+    pricing_data = product.get('pricing') or product.get('price', {})
+    msrp = pricing_data.get('msrp') or pricing_data.get('amount')
     price_display = f'${msrp}' if msrp and msrp not in ['None', None] else 'Price N/A'
+    
     
     html = f"""
     <div class="product-card" data-category="{product['category']}">
@@ -197,7 +200,7 @@ def generate_html_page(data):
             <p class="guide-intro">Comprehensive guide to cases, screen protectors, chargers, and accessories with verified purchase links and pricing.</p>
             
             <div class="device-info-wrapper">
-                <button class="device-toggle" onclick="toggleDeviceInfo()">
+                <button class="device-toggle">
                     <span class="toggle-icon">▶</span>
                     <span>Device Highlights</span>
                 </button>
@@ -250,28 +253,37 @@ def generate_html_page(data):
 
     <script src="../../public/js/guide.js"></script>
     <script>
-        function toggleDeviceInfo() {{
-            const info = document.getElementById('deviceInfo');
-            const toggle = document.querySelector('.device-toggle .toggle-icon');
-            info.classList.toggle('collapsed');
-            toggle.textContent = info.classList.contains('collapsed') ? '▶' : '▼';
-        }}
-        
-        // Sticky title on scroll - triggers when main title is hidden
-        window.addEventListener('scroll', function() {{
+        // Scoped event listeners - avoid global namespace pollution
+        (function() {{
+            // Device Highlights toggle
+            const toggleBtn = document.querySelector('.device-toggle');
+            if (toggleBtn) {{
+                toggleBtn.addEventListener('click', function() {{
+                    const info = document.getElementById('deviceInfo');
+                    const toggle = this.querySelector('.toggle-icon');
+                    if (info && toggle) {{
+                        info.classList.toggle('collapsed');
+                        toggle.textContent = info.classList.contains('collapsed') ? '▶' : '▼';
+                    }}
+                }});
+            }}
+            
+            // Sticky title on scroll - triggers when main title is hidden
             const stickyTitle = document.getElementById('stickyTitle');
             const mainTitle = document.querySelector('.guide-header h1');
             
-            if (mainTitle) {{
-                const titleRect = mainTitle.getBoundingClientRect();
-                // Show sticky title as soon as main title goes above viewport
-                if (titleRect.bottom < 0) {{
-                    stickyTitle.classList.add('visible');
-                }} else {{
-                    stickyTitle.classList.remove('visible');
-                }}
+            if (stickyTitle && mainTitle) {{
+                window.addEventListener('scroll', function() {{
+                    const titleRect = mainTitle.getBoundingClientRect();
+                    // Show sticky title as soon as main title goes above viewport
+                    if (titleRect.bottom < 0) {{
+                        stickyTitle.classList.add('visible');
+                    }} else {{
+                        stickyTitle.classList.remove('visible');
+                    }}
+                }});
             }}
-        }});
+        }})();
     </script>
 </body>
 </html>"""
