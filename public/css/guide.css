@@ -23,7 +23,7 @@
     color: #333;
 }
 
-/* MODERN GUIDE PAGE STYLES */
+/* MODERN GUIDE PAGE STYLES - DARK THEME */
 
 .guide-container {
     max-width: 1200px;
@@ -39,13 +39,13 @@
 .guide-header h1 {
     font-size: 2.25rem;
     font-weight: 700;
-    color: #1a1a1a;
+    color: #e0e0e0;
     margin-bottom: 0.75rem;
 }
 
 .guide-intro {
     font-size: 1.05rem;
-    color: #666;
+    color: #a0a0a0;
     margin-bottom: 2rem;
     line-height: 1.6;
 }
