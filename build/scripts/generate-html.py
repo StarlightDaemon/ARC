@@ -101,7 +101,7 @@ def generate_product_html(product):
     links_html = '<div class="purchase-links">' + ''.join(links) + '</div>' if links else ''
     
     # Handle pricing display
-    msrp = product['pricing'].get('msrp')
+    msrp = product.get('pricing', product.get('price', {})).get('msrp', product.get('price', {}).get('amount'))
     price_display = f'${msrp}' if msrp and msrp not in ['None', None] else 'Price N/A'
     
     html = f"""

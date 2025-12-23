@@ -10,9 +10,10 @@
 <body>
     <header>
         <nav>
-            <div class="logo"><a href="../../public/index.html">ARC</a></div>
+            <div class="logo"><a href="../../index.html">ARC</a></div>
+            <div class="sticky-title" id="stickyTitle">Nothing Phone (3) Accessories Guide</div>
             <ul>
-                <li><a href="../../public/index.html">Home</a></li>
+                <li><a href="../../index.html">Home</a></li>
                 <li><a href="../index.html">Nothing</a></li>
             </ul>
         </nav>
@@ -23,142 +24,113 @@
             <h1>Nothing Phone (3) Accessories Guide</h1>
             <p class="guide-intro">Comprehensive guide to cases, screen protectors, chargers, and accessories with verified purchase links and pricing.</p>
             
-            <div class="device-info">
-                <h3>Device Highlights</h3>
-                <ul class="features-list"><li>Glyph Interface (Gen 3) - 489 micro-LEDs</li><li>Essential Key (AI Key)</li><li>No native Qi2 magnets (standard 15W Qi only)</li><li>6.7" OLED display (2800x1260), 120Hz</li><li>4500 nits peak brightness</li><li>Snapdragon 8s Gen 4</li></ul>
-                <div class="charging-specs"><span><strong>Wired:</strong> 45W USB-PD</span><span><strong>Wireless:</strong> 15W Qi (no magnetic alignment)</span></div>
+            <div class="device-info-wrapper">
+                <button class="device-toggle" onclick="toggleDeviceInfo()">
+                    <span class="toggle-icon">▶</span>
+                    <span>Device Highlights</span>
+                </button>
+                <div class="device-info collapsed" id="deviceInfo">
+                    <ul class="features-list"><li>Glyph Interface with enhanced patterns</li><li>Snapdragon 8s Gen 3 processor</li><li>Transparent design language</li><li>45W fast charging</li><li>Nothing OS 3.0 based on Android 15</li></ul>
+                    <div class="charging-specs"><span><strong>Wired:</strong> 45W USB-C PD</span><span><strong>Wireless:</strong> 15W Qi wireless</span></div>
+                </div>
             </div>
         </div>
 
         <div class="filter-bar">
-            <button class="filter-btn active" data-filter="all">All (9)</button>
-            <button class="filter-btn" data-filter="case-official">Official (1)</button><button class="filter-btn" data-filter="case-everyday">Everyday (4)</button><button class="filter-btn" data-filter="case-premium">Premium/Slim (1)</button><button class="filter-btn" data-filter="screen-protector">Screen (2)</button><button class="filter-btn" data-filter="charger">Chargers (1)</button>
+            <button class="filter-btn active" data-filter="all">All (2)</button>
+            <button class="filter-btn" data-filter="case-clear">Clear (2)</button>
         </div>
 
         
-            <section class="category-section" id="case-official">
-                <h2>📦 Official Cases</h2>
+            <section class="category-section" id="case-clear">
+                <h2>🔍 Clear Cases</h2>
                 <div class="products-grid">
                     
-    <div class="product-card" data-category="case-official">
+    <div class="product-card" data-category="case-clear">
         <div class="product-header">
-            <h3>Nothing Phone (3) Clear Case</h3>
-            <span class="price">$35.0</span>
+            <h3 style="min-height: 2.6em;">
+                <div class="brand-name">Nothing</div>
+                <div class="product-name">Official Clear Case</div>
+            </h3>
+            <span class="price">$29.99</span>
         </div>
-        <div class="specs"><span>❌ Magnetic</span> | <span>📦 Polycarbonate + TPU with anti-yellowing coating</span></div>
-        <div class="purchase-links"><a href="https://us.nothing.tech/products/phone-3-case" target="_blank" class="btn-primary">Official Store</a></div>
+        <div class="specs"><div class="summary-badges"><span class="badge">✓ Showcases Glyph Interface</span><span class="badge">✓ Ultra-clear</span></div><div class="material-text">Transparent PC</div></div>
+        <div class="purchase-links"><a href="https://amazon.com" target="_blank" class="btn-secondary">Amazon</a></div>
+    </div>
+    
+    <div class="product-card" data-category="case-clear">
+        <div class="product-header">
+            <h3 style="min-height: 2.6em;">
+                <div class="brand-name">Spigen</div>
+                <div class="product-name">Liquid Crystal</div>
+            </h3>
+            <span class="price">$16.99</span>
+        </div>
+        <div class="specs"><div class="summary-badges"><span class="badge">✓ Crystal clear</span><span class="badge">✓ Slim fit</span></div><div class="material-text">Flexible TPU</div></div>
+        <div class="purchase-links"><a href="https://amazon.com" target="_blank" class="btn-secondary">Amazon</a></div>
     </div>
     
                 </div>
             </section>
             
-            <section class="category-section" id="case-everyday">
-                <h2>📱 Everyday Cases</h2>
-                <div class="products-grid">
-                    
-    <div class="product-card" data-category="case-everyday">
-        <div class="product-header">
-            <h3>Spigen Ultra Hybrid (Crystal Clear)</h3>
-            <span class="price">$34.99</span>
-        </div>
-        <div class="specs"><span>❌ Magnetic</span> | <span>📦 PC back + TPU bumper</span></div>
-        <div class="purchase-links"><a href="https://www.spigen.com/products/nothing-phone-series-ultra-hybrid" target="_blank" class="btn-primary">Official Store</a><a href="https://amazon.com/dp/B0FGX3NP3H" target="_blank" class="btn-amazon">Amazon</a></div>
-    </div>
-    
-    <div class="product-card" data-category="case-everyday">
-        <div class="product-header">
-            <h3>Ringke Fusion-X</h3>
-            <span class="price">$18.99</span>
-        </div>
-        <div class="specs"><span>❌ Magnetic</span> | <span>📦 Rugged TPU + rigid polycarbonate</span></div>
-        <div class="purchase-links"><a href="https://www.ringkestore.com/products/nothing-phone-3-case-fusion-x" target="_blank" class="btn-primary">Official Store</a><a href="https://amazon.com/dp/B0FGY8NX9L" target="_blank" class="btn-amazon">Amazon</a></div>
-    </div>
-    
-    <div class="product-card" data-category="case-everyday">
-        <div class="product-header">
-            <h3>Nillkin Super Frosted Shield Pro</h3>
-            <span class="price">$17.49</span>
-        </div>
-        <div class="specs"><span>❌ Magnetic</span> | <span>📦 Hard PC with TPU edges + matte UV coating</span></div>
-        <div class="purchase-links"><a href="https://nillkin.org/smartphones-accessories/nothing-accessories/nothing-phone-3-accessories/nillkin-nothing-phone-3-super-frosted-shield" target="_blank" class="btn-primary">Official Store</a><a href="https://www.aliexpress.com/item/1005007254321098.html" target="_blank" class="btn-secondary">AliExpress</a></div>
-    </div>
-    
-    <div class="product-card" data-category="case-everyday">
-        <div class="product-header">
-            <h3>TUDIA Lucion</h3>
-            <span class="price">$24.99</span>
-        </div>
-        <div class="specs"><span>❌ Magnetic</span> | <span>📦 Frosted PC + TPU</span></div>
-        <div class="purchase-links"><a href="https://tudiaproducts.com/products/nothing-phone-3-lucion-case" target="_blank" class="btn-primary">Official Store</a><a href="https://amazon.com/dp/B0FJZ2RT8N" target="_blank" class="btn-amazon">Amazon</a></div>
-    </div>
-    
-                </div>
-            </section>
-            
-            <section class="category-section" id="case-premium">
-                <h2>✨ Premium/Slim Cases</h2>
-                <div class="products-grid">
-                    
-    <div class="product-card" data-category="case-premium">
-        <div class="product-header">
-            <h3>Arc Arc Pulse Aluminum Bumper</h3>
-            <span class="price">$69.99</span>
-        </div>
-        <div class="specs"><span>❌ Magnetic</span> | <span>📦 Aerospace-grade Aluminum 7075-T6</span></div>
-        <div class="purchase-links"><a href="https://arc.cc/products/arc-pulse-for-nothing-phone-3" target="_blank" class="btn-primary">Official Store</a></div>
-    </div>
-    
-                </div>
-            </section>
-            
-            <section class="category-section" id="screen-protector">
-                <h2>🔲 Screen Protectors</h2>
-                <div class="products-grid">
-                    
-    <div class="product-card" data-category="screen-protector">
-        <div class="product-header">
-            <h3>Ringke Easy Slide Tempered Glass</h3>
-            <span class="price">$23.99</span>
-        </div>
-        
-        <div class="purchase-links"><a href="https://www.ringkestore.com/products/nothing-phone-3-screen-protector-easy-slide-tempered-glass" target="_blank" class="btn-primary">Official Store</a></div>
-    </div>
-    
-    <div class="product-card" data-category="screen-protector">
-        <div class="product-header">
-            <h3>JETech 9H Tempered Glass (3-Pack)</h3>
-            <span class="price">$10.99</span>
-        </div>
-        
-        <div class="purchase-links"><a href="https://www.ijetech.com/product-category/nothing-screen-protectors" target="_blank" class="btn-primary">Official Store</a></div>
-    </div>
-    
-                </div>
-            </section>
-            
-            <section class="category-section" id="charger">
-                <h2>⚡ Chargers</h2>
-                <div class="products-grid">
-                    
-    <div class="product-card" data-category="charger">
-        <div class="product-header">
-            <h3>Nothing Power 45W / CMF Power 65W</h3>
-            <span class="price">$35.0</span>
-        </div>
-        
-        <div class="purchase-links"><a href="https://us.nothing.tech/products/power-45w" target="_blank" class="btn-primary">Official Store</a></div>
-    </div>
-    
-                </div>
-            </section>
-            
+
+        <section class="related-accessories">
+            <h2>📋 Other Accessories</h2>
+            <div class="accessory-links">
+                <a href="#screen-protectors" class="accessory-link">
+                    <span class="icon">🔲</span>
+                    <span class="label">Screen Protectors</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+                <a href="#chargers" class="accessory-link">
+                    <span class="icon">⚡</span>
+                    <span class="label">Chargers & Cables</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+                <a href="#mounts" class="accessory-link">
+                    <span class="icon">🚗</span>
+                    <span class="label">Mounts & Stands</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+                <a href="#audio" class="accessory-link">
+                    <span class="icon">🎧</span>
+                    <span class="label">Audio Accessories</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+            </div>
+        </section>
 
         <footer class="guide-footer">
-            <p><em>Last updated: 2025-12-22</em></p>
-            <p>Research source: Gemini 3.0 Pro Thinking - 3 runs merged (via Perplexity Pro)</p>
+            <p><em>Last updated: 2025-12-23</em></p>
+            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/" target="_blank">graycatgrayhat</a></p>
+            <p>Research powered by Multi-LLM workflow (Gemini + Sonar)</p>
         </footer>
     </main>
 
     <script src="../../public/js/guide.js"></script>
+    <script>
+        function toggleDeviceInfo() {
+            const info = document.getElementById('deviceInfo');
+            const toggle = document.querySelector('.device-toggle .toggle-icon');
+            info.classList.toggle('collapsed');
+            toggle.textContent = info.classList.contains('collapsed') ? '▶' : '▼';
+        }
+        
+        // Sticky title on scroll - triggers when main title is hidden
+        window.addEventListener('scroll', function() {
+            const stickyTitle = document.getElementById('stickyTitle');
+            const mainTitle = document.querySelector('.guide-header h1');
+            
+            if (mainTitle) {
+                const titleRect = mainTitle.getBoundingClientRect();
+                // Show sticky title as soon as main title goes above viewport
+                if (titleRect.bottom < 0) {
+                    stickyTitle.classList.add('visible');
+                } else {
+                    stickyTitle.classList.remove('visible');
+                }
+            }
+        });
+    </script>
 </body>
 </html>
