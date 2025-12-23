@@ -43,19 +43,27 @@ def generate_product_html(product):
         badges = []
         material_parts = []
         
-        # Create badges for key features
-        if product['specs'].get('magnetic'):
+        # Create badges for key features - safely access specs
+        specs = product.get('specs', {})
+        if specs.get('magnetic'):
             badges.append('<span class="badge">🧲 Magnetic</span>')
-        if product['specs'].get('kickstand'):
+        if specs.get('kickstand'):
             badges.append('<span class="badge">📐 Kickstand</span>')
-        if product['specs'].get('dropRating') and 'Military' in product['specs']['dropRating']:
+        if specs.get('dropRating') and 'Military' in specs.get('dropRating', ''):
             badges.append('<span class="badge">🛡️ Military Grade</span>')
-        elif product['specs'].get('dropRating') and product['specs']['dropRating'] != 'Unknown':
-            badges.append(f'<span class="badge">🛡️ {product["specs"]["dropRating"]}</span>')
+        elif specs.get('dropRating') and specs['dropRating'] != 'Unknown':
+            badges.append(f'<span class="badge">🛡️ {specs["dropRating"]}</span>')
+        
+        # If no specs, use features instead
+        if not badges and 'features' in product:
+            for feature in product['features'][:2]:
+                badges.append(f'<span class="badge">✓ {feature}</span>')
         
         # Material goes into description text
-        if product['specs'].get('material'):
-            material_parts.append(product['specs']['material'])
+        if specs.get('material'):
+            material_parts.append(specs['material'])
+        elif 'material' in product:
+            material_parts.append(product['material'])
         
         # Add tech info to material description if removed from title
         if 'Pixelsnap' in product['name'] or 'MagFit' in product['name'] or 'MagSafe' in product['name']:
@@ -194,7 +202,6 @@ def generate_html_page(data):
                     <span>Device Highlights</span>
                 </button>
                 <div class="device-info collapsed" id="deviceInfo">
-                    <h3>Device Highlights</h3>
                     {device_features}
                     {charging_info}
                 </div>
