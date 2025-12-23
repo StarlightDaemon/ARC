@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "device": "Samsung Galaxy S25 Ultra",
+        "brand": "Samsung",
+        "model": "Galaxy S25 Ultra",
+        "researchDate": "2025-12-23",
+        "source": "Placeholder - Research Pending",
+        "highlights": [
+            "Titanium frame with Corning Gorilla Armor 2",
+            "S Pen with enhanced latency",
+            "Snapdragon 8 Elite processor",
+            "6.9-inch Dynamic AMOLED 2X display (flat design)",
+            "200MP main camera with improved AI processing"
+        ],
+        "charging": {
+            "wired": "45W USB-C PD 3.0",
+            "wireless": "15W Qi wireless",
+            "reverseWireless": "4.5W reverse wireless"
+        }
+    },
+    "products": [
+        {
+            "name": "Official Silicone Case",
+            "brand": "Samsung",
+            "category": "case-official",
+            "material": "Premium silicone",
+            "features": [
+                "Soft-touch finish",
+                "Precise cutouts",
+                "Official Samsung design"
+            ],
+            "price": {
+                "currency": "USD",
+                "amount": 39.99
+            },
+            "links": {
+                "amazon": "https://amazon.com",
+                "officialStore": "https://samsung.com"
+            },
+            "verified": false
+        },
+        {
+            "name": "Ultra Hybrid Clear",
+            "brand": "Spigen",
+            "category": "case-clear",
+            "material": "TPU bumper + PC back",
+            "features": [
+                "Crystal clear",
+                "Air Cushion technology",
+                "Raised bezels"
+            ],
+            "price": {
+                "currency": "USD",
+                "amount": 24.99
+            },
+            "links": {
+                "amazon": "https://amazon.com"
+            },
+            "verified": false
+        },
+        {
+            "name": "Defender Pro XT",
+            "brand": "OtterBox",
+            "category": "case-rugged",
+            "material": "Multi-layer protection",
+            "features": [
+                "Military-grade drop protection",
+                "Port covers",
+                "Holster clip included"
+            ],
+            "price": {
+                "currency": "USD",
+                "amount": 64.99
+            },
+            "links": {
+                "amazon": "https://amazon.com",
+                "bestbuy": "https://bestbuy.com"
+            },
+            "verified": false
+        }
+    ]
+}

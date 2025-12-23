@@ -1,0 +1,62 @@
+{
+    "metadata": {
+        "device": "Samsung Galaxy Z Fold 7",
+        "brand": "Samsung",
+        "model": "Galaxy Z Fold 7",
+        "researchDate": "2025-12-23",
+        "source": "Placeholder - Research Pending",
+        "highlights": [
+            "Foldable 7.6-inch main display",
+            "S Pen support (sold separately)",
+            "Snapdragon 8 Elite processor",
+            "Enhanced hinge with reduced crease",
+            "Triple rear camera system with improved zoom"
+        ],
+        "charging": {
+            "wired": "25W USB-C PD 3.0",
+            "wireless": "15W Qi wireless",
+            "reverseWireless": "4.5W reverse wireless"
+        }
+    },
+    "products": [
+        {
+            "name": "Official Standing Cover",
+            "brand": "Samsung",
+            "category": "case-official",
+            "material": "Premium materials with kickstand",
+            "features": [
+                "Built-in kickstand",
+                "S Pen slot",
+                "Slim profile for foldable"
+            ],
+            "price": {
+                "currency": "USD",
+                "amount": 89.99
+            },
+            "links": {
+                "amazon": "https://amazon.com",
+                "officialStore": "https://samsung.com"
+            },
+            "verified": false
+        },
+        {
+            "name": "Thin Fit P",
+            "brand": "Spigen",
+            "category": "case-slim",
+            "material": "Lightweight PC",
+            "features": [
+                "Ultra-thin design",
+                "Foldable-friendly",
+                "Matte finish"
+            ],
+            "price": {
+                "currency": "USD",
+                "amount": 34.99
+            },
+            "links": {
+                "amazon": "https://amazon.com"
+            },
+            "verified": false
+        }
+    ]
+}
