@@ -33,7 +33,7 @@ def generate_product_html(product):
     
     # Clean product name - remove tech suffixes
     clean_name = product['name']
-    suffixes_to_remove = [' (MagFit)', ' (with Pixelsnap)', ' MagFit', ' Pixelsnap', ' MagSafe']
+    suffixes_to_remove = [' (MagFit)', ' (with Pixelsnap)', ' MagFit', ' Pixelsnap', ' MagSafe', ' Series', ' Series Pro', ' Series XT']
     for suffix in suffixes_to_remove:
         clean_name = clean_name.replace(suffix, '')
     
