@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Comprehensive phone accessory guides - cases, screen protectors, chargers, and more with verified purchase links.">
+    <title>ARC - Phone Accessory Guides</title>
+    <link rel="stylesheet" href="public/css/style.css">
+    <link rel="stylesheet" href="public/css/guide.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo"><a href="index.html">🛡️ ARC</a></div>
+            <ul style="list-style: none; display: flex; gap: 1.5rem; margin: 0; padding: 0;">
+                <li><a href="index.html">Guides</a></li>
+                <li><a href="dev.html">Developer</a></li>
+                <li><a href="https://github.com/StarlightDaemon/ARC" target="_blank">GitHub</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="guide-container">
+        <div class="guide-header">
+            <h1>📱 Phone Accessory Guides</h1>
+            <p class="guide-intro">Comprehensive accessory research with verified purchase links, pricing, and
+                specifications. All products researched using multi-LLM methodology.</p>
+        </div>
+
+        <!-- Filter by Brand -->
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">All Devices</button>
+            <button class="filter-btn" data-filter="google">Google</button>
+            <button class="filter-btn" data-filter="samsung">Samsung</button>
+            <button class="filter-btn" data-filter="oneplus">OnePlus</button>
+            <button class="filter-btn" data-filter="nothing">Nothing</button>
+        </div>
+
+        <!-- Phone Guides Grid -->
+        <div class="products-grid" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));">
+
+            <!-- Google Pixel 10 Pro XL -->
+            <a href="phones/google/pixel-10-pro-xl.html" class="phone-guide-card" data-brand="google">
+                <div class="phone-card-header">
+                    <div class="brand-badge google-badge">Google</div>
+                    <h3>Pixel 10 Pro XL</h3>
+                </div>
+                <div class="phone-features">
+                    <span>🧲 Native Qi2</span>
+                    <span>💎 Tensor G5</span>
+                    <span>📏 6.9" Flat</span>
+                </div>
+                <div class="phone-stats">
+                    <span>21 Products</span>
+                    <span>•</span>
+                    <span>Updated Dec 23</span>
+                </div>
+            </a>
+
+            <!-- Samsung Galaxy S25 Ultra -->
+            <a href="phones/samsung/galaxy-s25-ultra.html" class="phone-guide-card" data-brand="samsung">
+                <div class="phone-card-header">
+                    <div class="brand-badge samsung-badge">Samsung</div>
+                    <h3>Galaxy S25 Ultra</h3>
+                </div>
+                <div class="phone-features">
+                    <span>✏️ S Pen</span>
+                    <span>💎 Snapdragon 8 Elite</span>
+                    <span>📏 6.9" Flat</span>
+                </div>
+                <div class="phone-stats">
+                    <span>Coming Soon</span>
+                </div>
+            </a>
+
+            <!-- Samsung Galaxy Z Fold 7 -->
+            <a href="phones/samsung/galaxy-z-fold-7.html" class="phone-guide-card" data-brand="samsung">
+                <div class="phone-card-header">
+                    <div class="brand-badge samsung-badge">Samsung</div>
+                    <h3>Galaxy Z Fold 7</h3>
+                </div>
+                <div class="phone-features">
+                    <span>📖 Foldable</span>
+                    <span>✏️ S Pen</span>
+                    <span>💎 Snapdragon 8 Elite</span>
+                </div>
+                <div class="phone-stats">
+                    <span>Coming Soon</span>
+                </div>
+            </a>
+
+            <!-- OnePlus 13 -->
+            <a href="phones/oneplus/oneplus-13.html" class="phone-guide-card" data-brand="oneplus">
+                <div class="phone-card-header">
+                    <div class="brand-badge oneplus-badge">OnePlus</div>
+                    <h3>OnePlus 13</h3>
+                </div>
+                <div class="phone-features">
+                    <span>💎 Snapdragon 8 Elite</span>
+                    <span>⚡ 100W Charging</span>
+                    <span>🔋 6000 mAh</span>
+                </div>
+                <div class="phone-stats">
+                    <span>Coming Soon</span>
+                </div>
+            </a>
+
+            <!-- Nothing Phone (3) -->
+            <a href="phones/nothing/phone-( 3).html" class="phone-guide-card" data-brand="nothing">
+                <div class="phone-card-header">
+                    <div class="brand-badge nothing-badge">Nothing</div>
+                    <h3>Phone (3)</h3>
+                </div>
+                <div class="phone-features">
+                    <span>💡 Glyph Interface</span>
+                    <span>💎 Snapdragon 8s Gen 3</span>
+                    <span>⚡ 45W Charging</span>
+                </div>
+                <div class="phone-stats">
+                    <span>Coming Soon</span>
+                </div>
+            </a>
+
+        </div>
+
+        <footer class="guide-footer">
+            <p><em>Last updated: December 2025</em></p>
+            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/"
+                    target="_blank">graycatgrayhat</a></p>
+            <p>Research powered by Multi-LLM workflow (Gemini + Sonar)</p>
+        </footer>
+    </main>
+
+    <style>
+        /* Phone Guide Cards - Landing Page Specific */
+        .phone-guide-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .phone-guide-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 12px 28px rgba(102, 126, 234, 0.15);
+            border-color: #667eea;
+            text-decoration: none;
+        }
+
+        .phone-card-header {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .brand-badge {
+            display: inline-block;
+            padding: 0.35rem 0.85rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            font-size: 0.75rem;
+            font-weight: 600;
+            border-radius: 20px;
+            align-self: flex-start;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .google-badge {
+            background: linear-gradient(135deg, #4285F4 0%, #34A853 100%);
+        }
+
+        .samsung-badge {
+            background: linear-gradient(135deg, #1428A0 0%, #0066B3 100%);
+        }
+
+        .oneplus-badge {
+            background: linear-gradient(135deg, #F50514 0%, #C80011 100%);
+        }
+
+        .nothing-badge {
+            background: linear-gradient(135deg, #000000 0%, #333333 100%);
+        }
+
+        .phone-card-header h3 {
+            font-size: 1.35rem;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin: 0;
+        }
+
+        .phone-features {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            font-size: 0.85rem;
+            color: #666;
+        }
+
+        .phone-features span {
+            background: #f8f9fa;
+            padding: 0.4rem 0.75rem;
+            border-radius: 6px;
+        }
+
+        .phone-stats {
+            display: flex;
+            gap: 0.75rem;
+            font-size: 0.85rem;
+            color: #999;
+            padding-top: 0.5rem;
+            border-top: 1px solid #f0f0f0;
+        }
+
+        /* Header Nav */
+        header nav {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 1.25rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        header nav .logo a {
+            font-size: 1.5rem;
+            font-weight: 700;
+            text-decoration: none;
+            color: #1a1a1a;
+        }
+
+        header nav ul a {
+            color: #666;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        header nav ul a:hover {
+            color: #667eea;
+            text-decoration: none;
+        }
+
+        /* Responsive */
+        @media (max-width: 640px) {
+            header nav {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            header nav ul {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+        }
+    </style>
+
+    <script>
+        // Simple filter functionality
+        const filterBtns = document.querySelectorAll('.filter-btn');
+        const cards = document.querySelectorAll('.phone-guide-card');
+
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                // Update active state
+                filterBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+
+                const filter = btn.dataset.filter;
+
+                // Show/hide cards
+                cards.forEach(card => {
+                    if (filter === 'all' || card.dataset.brand === filter) {
+                        card.style.display = 'flex';
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+
+</html>
