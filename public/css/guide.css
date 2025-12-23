@@ -213,8 +213,8 @@
 }
 
 .price {
-    font-size: 1.25rem;
-    font-weight: 700;
+    font-size: 0.95rem;
+    font-weight: 600;
     background: linear-gradient(135deg, #06a0ff 0%, #0580e0 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -653,9 +653,9 @@
 
 /* Two-line Product Titles */
 .product-header h3 .brand-name {
-    font-size: 0.75rem;
-    font-weight: 500;
-    color: #808080;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #a0a0a0;
     text-transform: uppercase;
     letter-spacing: 0.5px;
     margin-bottom: 0.25rem;
