@@ -167,7 +167,7 @@
     }
 }
 
-/* Product Cards - Movie Poster Style */
+/* Product Cards - Tall Phone Case Style */
 .product-card {
     background: white;
     border: 1px solid #e0e0e0;
@@ -176,11 +176,12 @@
     transition: all 0.3s ease;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 
-    /* Movie poster layout */
+    /* Tall phone case layout */
     display: flex;
     flex-direction: column;
-    height: 320px;
-    /* Fixed height for uniform cards */
+    height: 420px;
+    max-width: 280px;
+    margin: 0 auto;
 }
 
 .product-card:hover {
@@ -217,14 +218,13 @@
     white-space: nowrap;
 }
 
-/* Specs - Centered Middle Section */
+/* Specs - Clean Bullet List */
 .specs {
-    padding: 1rem;
+    padding: 1.25rem 1rem;
     background: #f8f9fa;
     border-radius: 8px;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     color: #555;
-    line-height: 1.8;
 
     /* Grow to fill space, center content */
     flex-grow: 1;
@@ -232,21 +232,32 @@
     flex-direction: column;
     justify-content: center;
     margin-bottom: auto;
-    /* Push buttons to bottom */
 }
 
 .specs span {
-    margin-right: 0.5rem;
+    display: block;
+    padding: 0.4rem 0;
+    padding-left: 1.25rem;
+    position: relative;
+    line-height: 1.4;
 }
 
-/* Purchase Links - Anchored at Bottom */
+.specs span::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #667eea;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+/* Purchase Links - Stacked at Bottom */
 .purchase-links {
     display: flex;
-    gap: 0.75rem;
-    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 0.6rem;
     margin-top: 1rem;
     flex-shrink: 0;
-    /* Don't shrink buttons */
 }
 
 .btn-primary,
