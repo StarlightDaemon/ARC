@@ -175,7 +175,7 @@ def generate_html_page(data):
     <header>
         <nav>
             <div class="logo"><a href="../../index.html">ARC</a></div>
-            <div class="sticky-title" id="stickyTitle">{device['brand']} {device['model']}</div>
+            <div class="sticky-title" id="stickyTitle">{device['brand']} {device['model']} Accessories Guide</div>
             <ul>
                 <li><a href="../../index.html">Home</a></li>
                 <li><a href="../index.html">{device['brand']}</a></li>
