@@ -29,13 +29,19 @@ def group_by_category(products):
     return dict(groups)
 
 def generate_product_html(product):
-    """Generate HTML for a single product card with Summary Style (Option 2)"""
+    """Generate HTML for a single product card with Summary Style"""
+    
+    # Clean product name - remove tech suffixes
+    clean_name = product['name']
+    suffixes_to_remove = [' (MagFit)', ' (with Pixelsnap)', ' MagFit', ' Pixelsnap', ' MagSafe']
+    for suffix in suffixes_to_remove:
+        clean_name = clean_name.replace(suffix, '')
     
     # Build badge summary and material text
     specs_html = ""
     if product['category'].startswith('case'):
         badges = []
-        material_text = ""
+        material_parts = []
         
         # Create badges for key features
         if product['specs'].get('magnetic'):
@@ -49,7 +55,21 @@ def generate_product_html(product):
         
         # Material goes into description text
         if product['specs'].get('material'):
-            material_text = f'<div class="material-text">{product["specs"]["material"]}</div>'
+            material_parts.append(product['specs']['material'])
+        
+        # Add tech info to material description if removed from title
+        if 'Pixelsnap' in product['name'] or 'MagFit' in product['name'] or 'MagSafe' in product['name']:
+            if 'Pixelsnap' in product['name']:
+                material_parts.append('Pixelsnap compatible')
+            elif 'MagFit' in product['name']:
+                material_parts.append('MagFit compatible')
+            elif 'MagSafe' in product['name']:
+                material_parts.append('MagSafe compatible')
+        
+        material_text = ''
+        if material_parts:
+            combined_text = '. '.join(material_parts)
+            material_text = f'<div class="material-text">{combined_text}</div>'
         
         # Build specs HTML with badges + material
         if badges or material_text:
@@ -79,7 +99,7 @@ def generate_product_html(product):
     html = f"""
     <div class="product-card" data-category="{product['category']}">
         <div class="product-header">
-            <h3>{product['brand']} {product['name']}</h3>
+            <h3 style="min-height: 2.6em;">{product['brand']} {clean_name}</h3>
             <span class="price">{price_display}</span>
         </div>
         {specs_html}
@@ -111,18 +131,16 @@ def generate_html_page(data):
             charging_info += f'<span><strong>Wireless:</strong> {specs["wireless"]}</span>'
         charging_info += '</div>'
     
-    # Generate category sections
-    category_order = ['case-official', 'case-rugged', 'case-everyday', 'case-premium', 'case-clear', 'case-eco', 'case-slim', 'screen-protector', 'charger']
+    # Generate category sections - ONLY CASES
+    category_order = ['case-official', 'case-rugged', 'case-everyday', 'case-premium', 'case-clear', 'case-eco', 'case-slim']
     category_titles = {
         'case-official': '📦 Official Cases',
         'case-rugged': '🛡️ Rugged Cases',
         'case-everyday': '📱 Everyday Cases',
-        'case-premium': '✨ Premium/Slim Cases',
+        'case-premium': '✨ Premium Cases',
         'case-clear': '🔍 Clear Cases',
         'case-eco': '🌱 Eco Cases',
-        'case-slim': '📏 Slim Cases',
-        'screen-protector': '🔲 Screen Protectors',
-        'charger': '⚡ Chargers'
+        'case-slim': '📏 Slim Cases'
     }
     
     categories_html = ''

@@ -121,12 +121,12 @@
     font-weight: 500;
     cursor: pointer;
     transition: all 0.2s ease;
-    color: #333;
+    color: #d0d0d0;
 }
 
 .filter-btn:hover {
-    border-color: #0362fc;
-    color: #0362fc;
+    border-color: #d0d0d0;
+    color: #d0d0d0;
     transform: translateY(-1px);
 }
 
@@ -145,7 +145,7 @@
 .category-section h2 {
     font-size: 1.75rem;
     font-weight: 600;
-    color: #1a1a1a;
+    color: #ffffff;
     margin-bottom: 1.5rem;
     padding-bottom: 0.75rem;
     border-bottom: 3px solid #0362fc;
