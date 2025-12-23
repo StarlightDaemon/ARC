@@ -174,9 +174,10 @@ def generate_html_page(data):
 <body>
     <header>
         <nav>
-            <div class="logo"><a href="../../public/index.html">ARC</a></div>
+            <div class="logo"><a href="../../index.html">ARC</a></div>
+            <div class="sticky-title" id="stickyTitle">{device['brand']} {device['model']}</div>
             <ul>
-                <li><a href="../../public/index.html">Home</a></li>
+                <li><a href="../../index.html">Home</a></li>
                 <li><a href="../index.html">{device['brand']}</a></li>
             </ul>
         </nav>
@@ -248,6 +249,16 @@ def generate_html_page(data):
             info.classList.toggle('collapsed');
             toggle.textContent = info.classList.contains('collapsed') ? '▶' : '▼';
         }}
+        
+        // Sticky title on scroll
+        window.addEventListener('scroll', function() {{
+            const stickyTitle = document.getElementById('stickyTitle');
+            if (window.scrollY > 200) {{
+                stickyTitle.classList.add('visible');
+            }} else {{
+                stickyTitle.classList.remove('visible');
+            }}
+        }});
     </script>
 </body>
 </html>"""

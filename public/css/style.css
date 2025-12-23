@@ -378,3 +378,28 @@ header nav ul a:hover {
     gap: 0.5rem;
   }
 }
+/* Sticky Title in Header */
+.sticky-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #b0b0b0;
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+    pointer-events: none;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) translateY(-10px);
+}
+
+.sticky-title.visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+    pointer-events: auto;
+}
+
+@media (max-width: 768px) {
+    .sticky-title {
+        display: none;
+    }
+}

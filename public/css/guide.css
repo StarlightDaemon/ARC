@@ -39,13 +39,13 @@
 .guide-header h1 {
     font-size: 2.25rem;
     font-weight: 700;
-    color: #ffffff;
+    color: #b0b0b0;
     margin-bottom: 0.75rem;
 }
 
 .guide-intro {
     font-size: 1.05rem;
-    color: #d0d0d0;
+    color: #909090;
     margin-bottom: 2rem;
     line-height: 1.6;
 }
