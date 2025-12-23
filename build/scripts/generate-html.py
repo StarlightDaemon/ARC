@@ -29,57 +29,58 @@ def group_by_category(products):
     return dict(groups)
 
 def generate_product_html(product):
-    """Generate HTML for a single product card"""
-    # Determine badge color based on category
-    badge_colors = {
-        'case-official': 'bg-blue-600',
-        'case-rugged': 'bg-red-600',
-        'case-everyday': 'bg-green-600',
-        'case-premium': 'bg-purple-600',
-        'screen-protector': 'bg-yellow-600',
-        'charger': 'bg-orange-600'
-    }
-    badge_color = badge_colors.get(product['category'], 'bg-gray-600')
+    """Generate HTML for a single product card with Summary Style (Option 2)"""
     
-    # Build specs list (for cases)
+    # Build badge summary and material text
     specs_html = ""
     if product['category'].startswith('case'):
-        specs = []
-        if product['specs'].get('alertSlider') is not None:
-            icon = "✓" if product['specs']['alertSlider'] else "✗"
-            specs.append(f"<span>{icon} Alert Slider</span>")
-        if product['specs'].get('magnetic') is not None:
-            icon = "🧲" if product['specs']['magnetic'] else "❌"
-            specs.append(f"<span>{icon} Magnetic</span>")
-        if product['specs'].get('kickstand') is not None:
-            icon = "📐" if product['specs']['kickstand'] else ""
-            if icon:
-                specs.append(f"<span>{icon} Kickstand</span>")
-        if product['specs'].get('material'):
-            specs.append(f"<span>📦 {product['specs']['material']}</span>")
+        badges = []
+        material_text = ""
         
-        if specs:
-            specs_html = '<div class="specs">' + ' | '.join(specs) + '</div>'
+        # Create badges for key features
+        if product['specs'].get('magnetic'):
+            badges.append('<span class="badge">🧲 Magnetic</span>')
+        if product['specs'].get('kickstand'):
+            badges.append('<span class="badge">📐 Kickstand</span>')
+        if product['specs'].get('dropRating') and 'Military' in product['specs']['dropRating']:
+            badges.append('<span class="badge">🛡️ Military Grade</span>')
+        elif product['specs'].get('dropRating') and product['specs']['dropRating'] != 'Unknown':
+            badges.append(f'<span class="badge">🛡️ {product["specs"]["dropRating"]}</span>')
+        
+        # Material goes into description text
+        if product['specs'].get('material'):
+            material_text = f'<div class="material-text">{product["specs"]["material"]}</div>'
+        
+        # Build specs HTML with badges + material
+        if badges or material_text:
+            badges_html = '<div class="summary-badges">' + ''.join(badges) + '</div>' if badges else ''
+            specs_html = f'<div class="specs">{badges_html}{material_text}</div>'
     
-    # Build purchase links
-    links_html = ""
+    # Build purchase links - IMPORTANT: Official Store goes LAST
     links = []
-    if product['links'].get('official'):
-        links.append(f'<a href="{product["links"]["official"]}" target="_blank" class="btn-primary">Official Store</a>')
+    
+    # Add retailer links first
     if product['links'].get('amazon'):
-        links.append(f'<a href="{product["links"]["amazon"]}" target="_blank" class="btn-amazon">Amazon</a>')
+        links.append(f'<a href="{product["links"]["amazon"]}" target="_blank" class="btn-secondary">Amazon</a>')
     if product['links'].get('retailer'):
         retailer_name = product['links'].get('retailerName', 'Buy Now')
         links.append(f'<a href="{product["links"]["retailer"]}" target="_blank" class="btn-secondary">{retailer_name}</a>')
     
-    if links:
-        links_html = '<div class="purchase-links">' + ''.join(links) + '</div>'
+    # Official Store goes LAST
+    if product['links'].get('official'):
+        links.append(f'<a href="{product["links"]["official"]}" target="_blank" class="btn-primary">Official Store</a>')
+    
+    links_html = '<div class="purchase-links">' + ''.join(links) + '</div>' if links else ''
+    
+    # Handle pricing display
+    msrp = product['pricing'].get('msrp')
+    price_display = f'${msrp}' if msrp and msrp not in ['None', None] else 'Price N/A'
     
     html = f"""
     <div class="product-card" data-category="{product['category']}">
         <div class="product-header">
             <h3>{product['brand']} {product['name']}</h3>
-            <span class="price">${product['pricing']['msrp']}</span>
+            <span class="price">{price_display}</span>
         </div>
         {specs_html}
         {links_html}
@@ -111,12 +112,15 @@ def generate_html_page(data):
         charging_info += '</div>'
     
     # Generate category sections
-    category_order = ['case-official', 'case-rugged', 'case-everyday', 'case-premium', 'screen-protector', 'charger']
+    category_order = ['case-official', 'case-rugged', 'case-everyday', 'case-premium', 'case-clear', 'case-eco', 'case-slim', 'screen-protector', 'charger']
     category_titles = {
         'case-official': '📦 Official Cases',
         'case-rugged': '🛡️ Rugged Cases',
         'case-everyday': '📱 Everyday Cases',
         'case-premium': '✨ Premium/Slim Cases',
+        'case-clear': '🔍 Clear Cases',
+        'case-eco': '🌱 Eco Cases',
+        'case-slim': '📏 Slim Cases',
         'screen-protector': '🔲 Screen Protectors',
         'charger': '⚡ Chargers'
     }
