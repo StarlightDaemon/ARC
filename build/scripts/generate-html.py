@@ -198,6 +198,32 @@ def generate_html_page(data):
 
         {categories_html}
 
+        <section class="related-accessories">
+            <h2>📋 Other Accessories</h2>
+            <div class="accessory-links">
+                <a href="#screen-protectors" class="accessory-link">
+                    <span class="icon">🔲</span>
+                    <span class="label">Screen Protectors</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+                <a href="#chargers" class="accessory-link">
+                    <span class="icon">⚡</span>
+                    <span class="label">Chargers & Cables</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+                <a href="#mounts" class="accessory-link">
+                    <span class="icon">🚗</span>
+                    <span class="label">Mounts & Stands</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+                <a href="#audio" class="accessory-link">
+                    <span class="icon">🎧</span>
+                    <span class="label">Audio Accessories</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+            </div>
+        </section>
+
         <footer class="guide-footer">
             <p><em>Last updated: {data['metadata']['researchDate']}</em></p>
             <p>Research source: {data['metadata']['source']}</p>
