@@ -378,10 +378,6 @@ header nav ul a:hover {
     }
 }
     .sticky-title {
-        display: block;
-    }
-}
-/* Sticky Title in Header */
 .sticky-title {
     font-size: 1.5rem;
     font-weight: 600;
