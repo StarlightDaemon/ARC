@@ -45,14 +45,14 @@
 
 .guide-intro {
     font-size: 1.05rem;
-    color: #b0b0b0;
+    color: #d0d0d0;
     margin-bottom: 2rem;
     line-height: 1.6;
 }
 
 /* Device Info Card */
 .device-info {
-    background: linear-gradient(135deg, #00d9ff 0%, #00b8d4 100%);
+    background: linear-gradient(135deg, #0362fc 0%, #0251d4 100%);
     color: white;
     border-radius: 0;
     padding: 1.75rem;
@@ -125,15 +125,15 @@
 }
 
 .filter-btn:hover {
-    border-color: #00d9ff;
-    color: #00d9ff;
+    border-color: #0362fc;
+    color: #0362fc;
     transform: translateY(-1px);
 }
 
 .filter-btn.active {
-    background: linear-gradient(135deg, #00d9ff 0%, #00b8d4 100%);
+    background: linear-gradient(135deg, #0362fc 0%, #0251d4 100%);
     color: white;
-    border-color: #00d9ff;
+    border-color: #0362fc;
     box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
 }
 
@@ -148,7 +148,7 @@
     color: #1a1a1a;
     margin-bottom: 1.5rem;
     padding-bottom: 0.75rem;
-    border-bottom: 3px solid #00d9ff;
+    border-bottom: 3px solid #0362fc;
     display: inline-block;
 }
 
@@ -187,7 +187,7 @@
 .product-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
-    border-color: #00d9ff;
+    border-color: #0362fc;
 }
 
 .product-header {
@@ -211,7 +211,7 @@
 .price {
     font-size: 1.25rem;
     font-weight: 700;
-    background: linear-gradient(135deg, #00d9ff 0%, #00b8d4 100%);
+    background: linear-gradient(135deg, #0362fc 0%, #0251d4 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -224,7 +224,7 @@
     background: #2a2a2a;
     border-radius: 0;
     font-size: 0.88rem;
-    color: #b0b0b0;
+    color: #d0d0d0;
 
     /* Grow to fill space, center content */
     flex-grow: 1;
@@ -249,12 +249,12 @@
     border-radius: 0;
     font-size: 0.75rem;
     font-weight: 600;
-    color: #00d9ff;
+    color: #0362fc;
     border: 1px solid #3a3a3a;
 }
 
 .specs .material-text {
-    color: #b0b0b0;
+    color: #d0d0d0;
     font-size: 0.82rem;
     line-height: 1.4;
 }
@@ -281,7 +281,7 @@
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #00d9ff 0%, #00b8d4 100%);
+    background: linear-gradient(135deg, #0362fc 0%, #0251d4 100%);
     color: white;
     border: none;
 }
@@ -294,12 +294,12 @@
 
 .btn-secondary {
     background: #252525;
-    color: #00d9ff;
-    border: 2px solid #00d9ff;
+    color: #0362fc;
+    border: 2px solid #0362fc;
 }
 
 .btn-secondary:hover {
-    background: #00d9ff;
+    background: #0362fc;
     color: white;
     text-decoration: none;
     transform: translateY(-2px);
@@ -311,7 +311,7 @@
     padding: 2rem 0;
     margin-top: 3rem;
     border-top: 2px solid #e0e0e0;
-    color: #b0b0b0;
+    color: #d0d0d0;
     font-size: 0.9rem;
 }
 
