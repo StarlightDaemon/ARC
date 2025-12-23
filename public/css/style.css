@@ -1,22 +1,24 @@
 /* ARC - Accessories Guides Website
-   Dark Theme with Modern Design */
+   Sharp Dark Theme with Single Accent */
 
 :root {
   /* Dark Theme Colors */
   --bg: #1a1a1a;
   --bg-secondary: #2a2a2a;
   --bg-card: #252525;
-  --text: #e0e0e0;
-  --text-secondary: #a0a0a0;
+  --text: #ffffff;
+  --text-secondary: #b0b0b0;
   --border: #3a3a3a;
-  --accent: #667eea;
-  --accent-hover: #764ba2;
+  --accent: #00d9ff;
+  /* Single electric cyan */
+  --accent-hover: #00b8d4;
 
   /* Layout */
   --container-max: 960px;
   --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-mono: 'SF Mono', Consolas, monospace;
-  --radius: 8px;
+  --radius: 0px;
+  /* Sharp corners */
 }
 
 *,
@@ -49,14 +51,13 @@ a:hover {
   padding: 0 1.5rem;
 }
 
-/* Modern Header */
+/* Modern Header - Sharp */
 header {
   background: var(--bg-secondary);
-  border-bottom: 1px solid var(--border);
+  border-bottom: 2px solid var(--border);
   position: sticky;
   top: 0;
   z-index: 100;
-  backdrop-filter: blur(10px);
 }
 
 header nav {
@@ -71,10 +72,7 @@ header nav {
 header nav .logo {
   font-size: 1.5rem;
   font-weight: 700;
-  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-hover) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: var(--accent);
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -226,6 +224,7 @@ header nav ul a:hover {
   font-size: 1rem;
   font-weight: 600;
   margin-bottom: 0.125rem;
+  color: var(--text);
 }
 
 .phone-info p {
@@ -236,7 +235,7 @@ header nav ul a:hover {
 .phone-status {
   font-size: 0.75rem;
   padding: 0.25rem 0.75rem;
-  border-radius: 999px;
+  border-radius: 0;
   background: var(--bg-secondary);
   color: var(--text-secondary);
 }
@@ -273,6 +272,7 @@ header nav ul a:hover {
 .bbcode-header h3 {
   font-size: 0.9rem;
   font-weight: 600;
+  color: var(--text);
 }
 
 .copy-btn {
@@ -281,11 +281,11 @@ header nav ul a:hover {
   gap: 0.375rem;
   padding: 0.375rem 0.75rem;
   background: var(--accent);
-  color: white;
+  color: #000;
   border: none;
   border-radius: var(--radius);
   font-size: 0.8rem;
-  font-weight: 500;
+  font-weight: 600;
   cursor: pointer;
   transition: background 0.2s;
 }
@@ -296,6 +296,7 @@ header nav ul a:hover {
 
 .copy-btn.copied {
   background: #2e7d32;
+  color: #fff;
 }
 
 .bbcode-content {
