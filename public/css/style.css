@@ -379,7 +379,7 @@ header nav ul a:hover {
   }
 }
     .sticky-title {
-        display: none;
+        display: block;
     }
 }
 /* Sticky Title in Header - Improved Animation */
@@ -404,6 +404,6 @@ header nav ul a:hover {
 
 @media (max-width: 768px) {
     .sticky-title {
-        display: none;
+        display: block;
     }
 }
