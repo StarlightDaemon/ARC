@@ -1,0 +1,388 @@
+{
+  "metadata": {
+    "device": "Google Pixel 10 Pro",
+    "research_date": "2025-12-24",
+    "source": "Multi-LLM (Gemini 4-run + Sonar 3-run)",
+    "total_products": 42
+  },
+  "products": [
+    {
+      "brand": "Bellroy",
+      "product": "Leather Case",
+      "price": 55.0,
+      "category": "case-hybrid",
+      "material": "Premium Leather",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "OtterBox",
+      "product": "Defender Pro XT",
+      "price": 47.99,
+      "category": "case-hybrid",
+      "material": "Rigid Shell/Rubber",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Mous",
+      "product": "Limitless 6.0 Aramid",
+      "price": 64.99,
+      "category": "case-hybrid",
+      "material": "Aramid Fibre",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "ZAGG",
+      "product": "Rainier Snap",
+      "price": 69.99,
+      "category": "case-hybrid",
+      "material": "Graphene/TPU",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Ultra Hybrid Mag",
+      "price": 44.99,
+      "category": "case-hybrid",
+      "material": "PC/TPU",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Caseology",
+      "product": "Parallax MagFit",
+      "price": 39.99,
+      "category": "case-hybrid",
+      "material": "TPU",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Ringke",
+      "product": "Onyx Magnetic",
+      "price": 25.99,
+      "category": "case-hybrid",
+      "material": "Flexible TPU",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Liquid Air MagFit",
+      "price": 39.99,
+      "category": "case-hybrid",
+      "material": "TPU",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Rugged Armor Mag",
+      "price": 39.99,
+      "category": "case-hybrid",
+      "material": "TPU/Carbon Fiber",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Mous",
+      "product": "Super Thin Case",
+      "price": 34.99,
+      "category": "case-hybrid",
+      "material": "Polycarbonate",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "OtterBox",
+      "product": "Symmetry Clear",
+      "price": 32.39,
+      "category": "case-hybrid",
+      "material": "Polycarbonate",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "ZAGG",
+      "product": "Rainier Snap Pro",
+      "price": 69.99,
+      "category": "case-hybrid",
+      "material": "Graphene",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "OtterBox",
+      "product": "Defender Series Pro XT",
+      "price": 59.99,
+      "category": "case-hybrid",
+      "material": "Polycarbonate / Rubber",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Ultra Hybrid MagFit",
+      "price": 44.99,
+      "category": "case-hybrid",
+      "material": "TPU / PC",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Tough Armor MagFit",
+      "price": 54.99,
+      "category": "case-hybrid",
+      "material": "PC / TPU / Foam",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "OtterBox",
+      "product": "Symmetry Series",
+      "price": 35.99,
+      "category": "case-hybrid",
+      "material": "PC / Synthetic Rubber",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Ringke",
+      "product": "Fusion Magnetic",
+      "price": 25.99,
+      "category": "case-hybrid",
+      "material": "PC / TPU",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Google",
+      "product": "Pixelsnap Case",
+      "price": 49.99,
+      "category": "case-hybrid",
+      "material": "Silicone/PC",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Tough Armor AI",
+      "price": 59.99,
+      "category": "case-hybrid",
+      "material": "PC/TPU/Foam",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Mous",
+      "product": "Limitless 6.0 Black Leather",
+      "price": 64.99,
+      "category": "case-hybrid",
+      "material": "Genuine Leather",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "OtterBox",
+      "product": "Defender XT Pro Clear",
+      "price": 47.99,
+      "category": "case-hybrid",
+      "material": "PC / Rubber",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Google",
+      "product": "Pixelsnap Case for Pixel 10, Pixel 10 Pro or Pixel 10 Pro XL",
+      "price": 49.99,
+      "category": "case-hybrid",
+      "material": "Silicone exterior + PC shell + microfiber lining[2]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Google \u00d7 Mous",
+      "product": "Mous Super Thin Clear Case with Pixelsnap for Pixel 10, 10 Pro and 10 Pro XL",
+      "price": 49.99,
+      "category": "case-hybrid",
+      "material": "Clear hard plastic shell with embedded magnets[18]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "OtterBox",
+      "product": "OtterBox Defender Series Pro XT Case with Pixelsnap for Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL",
+      "price": 69.95,
+      "category": "case-hybrid",
+      "material": "Dual\u2011layer PC + synthetic rubber with magnets[9][19]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "OtterBox",
+      "product": "Heavy\u2011duty Pixel 10 and Pixel 10 Pro Case (clear/blue, magnetic)",
+      "price": 59.95,
+      "category": "case-hybrid",
+      "material": "PC + TPE/TPU dual\u2011layer with magnetic ring[19][20]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Poetic",
+      "product": "Google Pixel 10/10 Pro 5G Magsafe Case \u2013 Guardian Series",
+      "price": 23.95,
+      "category": "case-hybrid",
+      "material": "Clear PC back + TPU bumper; some with built\u2011in screen protector[8][22]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Poetic",
+      "product": "Poetic Guardian MagPro Case for Google Pixel 10 Pro XL 5G (Compatible with MagSafe)",
+      "price": 27.95,
+      "category": "case-hybrid",
+      "material": "PC + TPU full body with MagPro ring + screen protector[22]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "SUPCASE",
+      "product": "Google Pixel 10/10 Pro Unicorn Beetle PRO Rugged Phone Case (Mag)",
+      "price": 29.99,
+      "category": "case-hybrid",
+      "material": "Multi\u2011layer TPU + PC with built\u2011in screen protector and magnets[1][25]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "SUPCASE",
+      "product": "UB Grip Google Pixel 10 Pro XL Protective Phone Case (magnetic stand)",
+      "price": 29.99,
+      "category": "case-hybrid",
+      "material": "TPU frame + PC back + metal/Al stand with N52 magnet[1][27][28]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "UAG",
+      "product": "Pathfinder Clear Case with MagSafe for Pixel 10/10 Pro",
+      "price": 69.95,
+      "category": "case-hybrid",
+      "material": "Co\u2011molded plastic shell + TPU bumpers + magnetic module[29][30]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Pixel 10 Series Case Rugged Armor (MagFit)",
+      "price": 24.99,
+      "category": "case-hybrid",
+      "material": "Flexible TPU with MagFit ring[12]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Pixel 10 Series Case Liquid Air (MagFit)",
+      "price": 24.99,
+      "category": "case-hybrid",
+      "material": "Single\u2011piece TPU with MagFit ring[10]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Pixel 10 Series Case Thin Fit (MagFit)",
+      "price": 29.99,
+      "category": "case-hybrid",
+      "material": "Hard PC back + TPU frame + MagFit ring[31]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Pixel 10 Series Case Ultra Hybrid Metal Ring (MagFit)",
+      "price": 39.99,
+      "category": "case-hybrid",
+      "material": "Clear TPU bumper + PC back + metal MagFit ring[32]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Pixel 10 Series Case Nano Pop (MagFit)",
+      "price": 34.99,
+      "category": "case-hybrid",
+      "material": "Soft\u2011touch silicone\u2011style outer + inner frame + MagFit ring[33]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Spigen",
+      "product": "Pixel 10 Series Case Tough Armor / Slim Armor Pro (MagFit variants)",
+      "price": 39.99,
+      "category": "case-hybrid",
+      "material": "Dual\u2011layer TPU + PC with foam insert + MagFit ring[13]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "ZAGG",
+      "product": "Crystal Palace Snap Magnetic Cell Phone Case \u2013 Pixel 10 / Pixel 10 Pro",
+      "price": 49.99,
+      "category": "case-hybrid",
+      "material": "Clear D3O\u2011infused plastic with magnetic ring[14]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "The Pixel Case",
+      "product": "The Pixel Case Rugged MagSafe Case for Pixel 10 Pro",
+      "price": 35.99,
+      "category": "case-hybrid",
+      "material": "TPU bumper + PC back with MagSafe/Qi2 ring[11][3]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "The Pixel Case",
+      "product": "Pixel 10 Pro Leather / Wallet MagSafe cases (series)",
+      "price": 39.99,
+      "category": "case-hybrid",
+      "material": "Vegan or genuine leather over TPU/PC frame with magnets[3]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "Thinborne",
+      "product": "Thinborne Aramid Fiber Qi2 Case for Pixel 10 Pro",
+      "price": 34.99,
+      "category": "case-hybrid",
+      "material": "600D aramid fiber shell with embedded magnetic ring[11][35]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "PITAKA",
+      "product": "MagEZ\u2011style Aramid Fiber Case for Google Pixel 10 Pro (Amber Magnet Film)",
+      "price": 59.99,
+      "category": "case-hybrid",
+      "material": "Aramid fiber with \u201cAmber Magnet Film\u201d magnetic ring[6]",
+      "magnetic": true,
+      "source": "multi-llm"
+    },
+    {
+      "brand": "dbramante1928",
+      "product": "Iceland Pro Qi (Google Pixel 10\u2011series)",
+      "price": 39.99,
+      "category": "case-hybrid",
+      "material": "GRS\u2011certified recycled and recyclable plastic; Qi\u2011ready design[7]",
+      "magnetic": true,
+      "source": "multi-llm"
+    }
+  ]
+}

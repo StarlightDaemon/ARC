@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Pixel 10 Pro Accessories Guide - ARC</title>
+    <link rel="stylesheet" href="../../public/css/style.css">
+    <link rel="stylesheet" href="../../public/css/guide.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo"><a href="../../index.html">ARC</a></div>
+            <div class="sticky-title" id="stickyTitle">Google Pixel 10 Pro Accessories Guide</div>
+            <ul>
+                <li><a href="../../index.html">All Devices</a></li>
+                <li><a href="https://github.com/StarlightDaemon/ARC" target="_blank">GitHub</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="guide-container">
+        <div class="guide-header">
+            <h1>Google Pixel 10 Pro Accessories Guide</h1>
+            <p class="guide-intro">Comprehensive guide to cases, screen protectors, chargers, and accessories with verified purchase links and pricing.</p>
+            
+            <div class="device-info-wrapper">
+                <button class="device-toggle">
+                    <span class="toggle-icon">▶</span>
+                    <span>Device Highlights</span>
+                </button>
+                <div class="device-info collapsed" id="deviceInfo">
+                    <ul class="features-list"><li>Native Qi2 magnets (Pixelsnap) - built into device</li><li>Tensor G5 (TSMC 3nm) processor</li><li>6.7" Super Actua Display (flat design)</li><li>Ultrasonic fingerprint sensor</li><li>Triple rear camera system</li><li>Android 16</li></ul>
+                    <div class="charging-specs"><span><strong>Wired:</strong> 45W USB-PD PPS</span><span><strong>Wireless:</strong> 25W Qi2 Pixelsnap (magnetic)</span></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">All (42)</button>
+            
+        </div>
+
+        
+
+        <section class="related-accessories">
+            <h2>📋 Other Accessories</h2>
+            <div class="accessory-links">
+                <a href="#screen-protectors" class="accessory-link">
+                    <span class="icon">🔲</span>
+                    <span class="label">Screen Protectors</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+                <a href="#chargers" class="accessory-link">
+                    <span class="icon">⚡</span>
+                    <span class="label">Chargers & Cables</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+                <a href="#mounts" class="accessory-link">
+                    <span class="icon">🚗</span>
+                    <span class="label">Mounts & Stands</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+                <a href="#audio" class="accessory-link">
+                    <span class="icon">🎧</span>
+                    <span class="label">Audio Accessories</span>
+                    <span class="status">Coming Soon</span>
+                </a>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <p>Last updated: N/A | Maintained by <a href="https://github.com/StarlightDaemon" target="_blank">StarlightDaemon</a></p>
+            <p>Research powered by Multi-LLM workflow (Gemini + Sonar)</p>
+        </footer>
+    </main>
+
+    <script src="../../public/js/guide.js"></script>
+    <script>
+        // Scoped event listeners - avoid global namespace pollution
+        (function() {
+            // Device Highlights toggle
+            const toggleBtn = document.querySelector('.device-toggle');
+            if (toggleBtn) {
+                toggleBtn.addEventListener('click', function() {
+                    const info = document.getElementById('deviceInfo');
+                    const toggle = this.querySelector('.toggle-icon');
+                    if (info && toggle) {
+                        info.classList.toggle('collapsed');
+                        toggle.textContent = info.classList.contains('collapsed') ? '▶' : '▼';
+                    }
+                });
+            }
+            
+            // Sticky title on scroll - triggers when main title is hidden
+            const stickyTitle = document.getElementById('stickyTitle');
+            const mainTitle = document.querySelector('.guide-header h1');
+            
+            if (stickyTitle && mainTitle) {
+                window.addEventListener('scroll', function() {
+                    const titleRect = mainTitle.getBoundingClientRect();
+                    // Show sticky title as soon as main title goes above viewport
+                    if (titleRect.bottom < 0) {
+                        stickyTitle.classList.add('visible');
+                    } else {
+                        stickyTitle.classList.remove('visible');
+                    }
+                });
+            }
+        })();
+    </script>
+</body>
+</html>
