@@ -617,6 +617,30 @@
             },
             "availability": "in-stock",
             "verified": true
+        },
+        {
+            "id": "spigen-thin-fit-magfit",
+            "category": "case-slim",
+            "brand": "Spigen",
+            "name": "Thin Fit (MagFit)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC + TPU hybrid construction",
+                "dropRating": "Military-Grade (Air Cushion Technology)"
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.spigen.com/products/pixel-10-series-case-thin-fit-magfit"
+            },
+            "availability": "in-stock",
+            "notes": "Ultra-slim design, MagFit/Pixelsnap compatible, precise cutouts. Compatible with Pixel 10/10 Pro/10 Pro XL.",
+            "verified": true
         }
     ]
 }
