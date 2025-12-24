@@ -161,7 +161,7 @@ def generate_index_page(data):
     </main>
 
     <footer class="footer">
-        <p>Last updated: {data['metadata']['lastUpdated']} | Maintained by ARC</p>
+        <p>Last updated: {data['metadata']['lastUpdated']} | Maintained by <a href="https://github.com/StarlightDaemon" target="_blank">StarlightDaemon</a></p>
     </footer>
 
     <script src="public/js/guide.js"></script>

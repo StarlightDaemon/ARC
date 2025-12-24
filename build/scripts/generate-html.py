@@ -244,9 +244,8 @@ def generate_html_page(data):
             </div>
         </section>
 
-        <footer class="guide-footer">
-            <p><em>Last updated: {data['metadata']['researchDate']}</em></p>
-            <p>Maintained by <a href="https://xdaforums.com/m/graycatgrayhat.12893039/" target="_blank">graycatgrayhat</a></p>
+        <footer class="footer">
+            <p>Last updated: {data['metadata'].get('lastUpdated', 'N/A')} | Maintained by <a href="https://github.com/StarlightDaemon" target="_blank">StarlightDaemon</a></p>
             <p>Research powered by Multi-LLM workflow (Gemini + Sonar)</p>
         </footer>
     </main>
