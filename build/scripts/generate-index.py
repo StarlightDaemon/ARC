@@ -137,8 +137,7 @@ def generate_index_page(data):
         <nav>
             <div class="logo"><a href="index.html">ARC</a></div>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="https://github.com/StarlightDaemon/ARC" target="_blank">GitHub</a></li>
             </ul>
         </nav>
     </header>
