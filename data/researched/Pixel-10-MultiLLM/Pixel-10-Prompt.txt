@@ -1,0 +1,74 @@
+# Google Pixel 10 Accessories Research
+
+## Device: Google Pixel 10
+
+### Critical Device Information:
+- **Release Date**: August 2025
+- **Key Features**:
+  - Tensor G5 (TSMC 3nm) processor
+  - 6.3" Super Actua Display (flat design, smaller than Pro)
+  - Native Qi2 magnets (Pixelsnap) - BUILT INTO DEVICE
+  - Ultrasonic fingerprint sensor
+  - Dual rear camera system
+  - Android 16
+
+### Charging Specifications:
+- **Wired**: 45W USB-PD PPS
+- **Wireless**: 25W Qi2 Pixelsnap (magnetic)
+
+---
+
+## Research Task
+
+Research and compile a comprehensive list of **phone cases** for the Google Pixel 10 (base model).
+
+### Requirements:
+
+**CRITICAL - Pixelsnap/Magnetic Compatibility:**
+- The Pixel 10 has BUILT-IN magnets (Qi2/Pixelsnap)
+- Prioritize cases that:
+  - Are designed FOR Pixelsnap/Qi2 (magnetic cases)
+  - Explicitly state Pixelsnap/MagSafe/Qi2 compatibility
+  - Include "magnetic" or "MagFit" in product name/description
+
+**Categories to Find (Priority Order):**
+1. **Official Google Cases** - Pixelsnap-compatible cases from Google Store
+2. **Rugged Cases** - Heavy-duty protection (OtterBox, Poetic, SUPCASE, UAG, etc.)
+3. **Premium Cases** - High-quality materials (leather, aramid fiber, etc.)
+4. **Everyday/Hybrid Cases** - Balance of protection and style (Spigen, Caseology, etc.)
+5. **Clear Cases** - Transparent/showcase design
+6. **Slim Cases** - Minimal bulk
+7. **Eco-Friendly Cases** - Sustainable materials
+
+**For Each Product, Provide:**
+- Brand name
+- Product name (exact, from official listing)
+- Price (USD, from official/Amazon listing)
+- Material (e.g., "TPU + PC", "Silicone", "Leather")
+- Key features (magnetic compatibility, kickstand, drop rating, etc.)
+- Purchase links (official store, Amazon, Best Buy, etc.)
+- Availability status (in stock / pre-order / out of stock)
+
+**Important Notes:**
+- Focus on cases SPECIFICALLY for Pixel 10 (not generic or other models)
+- Many cases work across "Pixel 10 / 10 Pro / 10 Pro XL" - note compatibility
+- Verify products are actually available for purchase
+- Include both well-known brands AND lesser-known quality options
+- For magnetic cases, note if they work with Pixelsnap accessories
+- Include drop protection ratings when available (MIL-STD-810G, etc.)
+
+**Output Format:**
+Provide results as a markdown table or structured list that can be easily converted to JSON.
+
+---
+
+## Expected Results:
+- Minimum 15-20 unique products
+- Mix of price points ($10-$80 range)
+- Various protection levels and styles
+- Verified purchase links where possible
+- Clear notes on magnetic/Pixelsnap compatibility
+
+---
+
+**Start Research Now**
