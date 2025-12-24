@@ -1,0 +1,269 @@
+{
+    "metadata": {
+        "researchDate": "2025-12-22",
+        "source": "Gemini 3.0 Pro Thinking - 3 runs merged (via Perplexity Pro)",
+        "researcher": "User + Gemini 3.0 Pro"
+    },
+    "device": {
+        "brand": "Nothing",
+        "model": "Phone (3)",
+        "releaseDate": "2025-07-15",
+        "criticalFeatures": [
+            "Glyph Interface (Gen 3) - 489 micro-LEDs",
+            "Essential Key (AI Key)",
+            "No native Qi2 magnets (standard 15W Qi only)",
+            "6.7\" OLED display (2800x1260), 120Hz",
+            "4500 nits peak brightness",
+            "Snapdragon 8s Gen 4"
+        ],
+        "chargingSpecs": {
+            "wired": "45W USB-PD",
+            "wireless": "15W Qi (no magnetic alignment)"
+        }
+    },
+    "products": [
+        {
+            "id": "nothing-clear-case-phone3",
+            "category": "case-official",
+            "brand": "Nothing",
+            "name": "Phone (3) Clear Case",
+            "specs": {
+                "glyphVisible": true,
+                "magnetic": false,
+                "wirelessCharging": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Polycarbonate + TPU with anti-yellowing coating",
+                "dropRating": "1.5m / 4.9 ft"
+            },
+            "pricing": {
+                "msrp": 35.00,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://us.nothing.tech/products/phone-3-case",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Full transparency with 1mm raised camera edge, advanced UV anti-yellowing"
+        },
+        {
+            "id": "spigen-ultra-hybrid-phone3",
+            "category": "case-everyday",
+            "brand": "Spigen",
+            "name": "Ultra Hybrid (Crystal Clear)",
+            "specs": {
+                "glyphVisible": true,
+                "magnetic": false,
+                "wirelessCharging": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC back + TPU bumper",
+                "dropRating": "Military Grade (MIL-STD 810G-516.6)"
+            },
+            "pricing": {
+                "msrp": 34.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.spigen.com/products/nothing-phone-series-ultra-hybrid",
+                "amazon": "https://amazon.com/dp/B0FGX3NP3H",
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Air Cushion Technology in corners, multiple color variants available"
+        },
+        {
+            "id": "ringke-fusion-x-phone3",
+            "category": "case-everyday",
+            "brand": "Ringke",
+            "name": "Fusion-X",
+            "specs": {
+                "glyphVisible": true,
+                "magnetic": false,
+                "wirelessCharging": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Rugged TPU + rigid polycarbonate",
+                "dropRating": "MIL-STD 810G-516.6"
+            },
+            "pricing": {
+                "msrp": 18.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.ringkestore.com/products/nothing-phone-3-case-fusion-x",
+                "amazon": "https://amazon.com/dp/B0FGY8NX9L",
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Transparent back with rugged borders, QuikCatch lanyard holes, Camo Black variant available"
+        },
+        {
+            "id": "nillkin-super-frosted-phone3",
+            "category": "case-everyday",
+            "brand": "Nillkin",
+            "name": "Super Frosted Shield Pro",
+            "specs": {
+                "glyphVisible": false,
+                "magnetic": false,
+                "wirelessCharging": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Hard PC with TPU edges + matte UV coating",
+                "dropRating": "Standard protection"
+            },
+            "pricing": {
+                "msrp": 17.49,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://nillkin.org/smartphones-accessories/nothing-accessories/nothing-phone-3-accessories/nillkin-nothing-phone-3-super-frosted-shield",
+                "amazon": null,
+                "retailer": "https://www.aliexpress.com/item/1005007254321098.html",
+                "retailerName": "AliExpress"
+            },
+            "availability": "in-stock",
+            "notes": "Opaque matte finish (hides Glyph), excellent fingerprint resistance"
+        },
+        {
+            "id": "arc-pulse-phone3",
+            "category": "case-premium",
+            "brand": "Arc",
+            "name": "Arc Pulse Aluminum Bumper",
+            "specs": {
+                "glyphVisible": true,
+                "magnetic": false,
+                "wirelessCharging": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Aerospace-grade Aluminum 7075-T6",
+                "dropRating": "10 ft / 3m"
+            },
+            "pricing": {
+                "msrp": 69.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://arc.cc/products/arc-pulse-for-nothing-phone-3",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Open-architecture bumper design, protects corners/edges only, leaves back fully exposed"
+        },
+        {
+            "id": "tudia-lucion-phone3",
+            "category": "case-everyday",
+            "brand": "TUDIA",
+            "name": "Lucion",
+            "specs": {
+                "glyphVisible": true,
+                "magnetic": false,
+                "wirelessCharging": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Frosted PC + TPU",
+                "dropRating": "Military Grade"
+            },
+            "pricing": {
+                "msrp": 24.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://tudiaproducts.com/products/nothing-phone-3-lucion-case",
+                "amazon": "https://amazon.com/dp/B0FJZ2RT8N",
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Frosted matte finish reduces fingerprints while keeping Glyph LEDs visible"
+        },
+        {
+            "id": "ringke-screen-protector-phone3",
+            "category": "screen-protector",
+            "brand": "Ringke",
+            "name": "Easy Slide Tempered Glass",
+            "specs": {
+                "glyphVisible": false,
+                "magnetic": false,
+                "wirelessCharging": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "9H tempered glass",
+                "dropRating": "N/A"
+            },
+            "pricing": {
+                "msrp": 23.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.ringkestore.com/products/nothing-phone-3-screen-protector-easy-slide-tempered-glass",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Includes alignment installation tool, full coverage"
+        },
+        {
+            "id": "jetech-screen-protector-phone3",
+            "category": "screen-protector",
+            "brand": "JETech",
+            "name": "9H Tempered Glass (3-Pack)",
+            "specs": {
+                "glyphVisible": false,
+                "magnetic": false,
+                "wirelessCharging": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "9H tempered glass",
+                "dropRating": "N/A"
+            },
+            "pricing": {
+                "msrp": 10.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.ijetech.com/product-category/nothing-screen-protectors",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Budget 3-pack option, case-friendly design, includes alignment tool"
+        },
+        {
+            "id": "nothing-power-45w",
+            "category": "charger",
+            "brand": "Nothing",
+            "name": "Power 45W / CMF Power 65W",
+            "specs": {
+                "glyphVisible": false,
+                "magnetic": false,
+                "wirelessCharging": false,
+                "fingerprint": false,
+                "kickstand": false,
+                "material": "GaN charger",
+                "dropRating": "N/A"
+            },
+            "pricing": {
+                "msrp": 35.00,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://us.nothing.tech/products/power-45w",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Official GaN charger, USB-PD 3.0/PPS support"
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+# OnePlus 13 Accessory Research - ULTRA-SPECIFIC DATA REQUEST
+
+You are a product research assistant. I need STRUCTURED DATA ONLY - no essays, no analysis, no explanations.
+
+---
+
+## OUTPUT FORMAT (MANDATORY)
+
+For each product, use EXACTLY this format:
+
+```
+### [Brand] [Product Name]
+
+**Specs:**
+- Alert Slider: [Yes/No]
+- Magnetic: [Yes/No]  
+- Kickstand: [Yes/No]
+- Material: [Brief]
+- Drop Rating: [X ft / None]
+
+**Price:**
+- MSRP: $XX.XX
+
+**Links:**
+- Official: [URL]
+- Amazon: [URL]
+- Best Buy/Walmart/Target: [URL]
+
+---
+```
+
+## CRITICAL RULES
+
+1. **MSRP ONLY** - List price, NOT current sale/deal prices
+2. **3 LINKS REQUIRED** - Official store + Amazon + one other US retailer
+3. **VERIFY DEVICE** - Must explicitly say "OnePlus 13" not generic/wrong model
+4. **CLEAN URLs** - No tracking parameters, use amazon.com/dp/[ASIN] format
+5. **IF NOT FOUND** - Write "Not available" for that link, don't skip it
+
+---
+
+## DEVICE REQUIREMENTS
+
+**OnePlus 13 Critical Features:**
+- Has Alert Slider (cases MUST have cutout)
+- Supports 100W SUPERVOOC wired charging
+- Supports 50W AIRVOOC wireless (needs magnetic case)
+- Does NOT have built-in magnets (need magnetic cases for wireless)
+
+---
+
+## PRODUCTS TO RESEARCH
+
+### OFFICIAL CASES (OnePlus.com)
+1. OnePlus Sandstone Magnetic Case
+2. OnePlus Aramid Fiber Magnetic Case
+3. OnePlus Wood Grain Magnetic Case
+
+### RUGGED CASES
+4. Poetic Revolution (with camera slide cover)
+5. SUPCASE Unicorn Beetle Pro
+6. Spigen Tough Armor
+
+### EVERYDAY CASES
+7. Ringke Fusion-X (look for Magnetic version)
+8. Caseology Parallax
+9. Spigen Rugged Armor
+
+### SLIM/PREMIUM CASES  
+10. PITAKA MagEZ Case 5
+11. Thinborne 600D Aramid (verify if exists for OnePlus 13)
+12. Latercase (if available)
+
+### SCREEN PROTECTORS
+13. Whitestone Dome Glass (LOCA UV)
+14. Spigen Glas.tR EZ Fit
+15. Ringke Dual Easy Film (EPU)
+16. amFilm Tempered Glass
+
+### CHARGERS
+17. OnePlus 100W SUPERVOOC Dual Port Charger
+18. OnePlus 50W AIRVOOC Magnetic Wireless Charger
+19. Anker Prime 67W (verify OnePlus compatibility)
+20. UGREEN Nexode 100W (if 100W compatible)
+
+---
+
+## EXAMPLE OUTPUT (HOW TO FORMAT)
+
+### OnePlus Sandstone Magnetic Case
+
+**Specs:**
+- Alert Slider: Yes
+- Magnetic: Yes (OnePlus Mag)
+- Kickstand: No
+- Material: PC + TPU + Sandstone texture
+- Drop Rating: Standard protection
+
+**Price:**
+- MSRP: $24.99
+
+**Links:**
+- Official: https://www.oneplus.com/us/product/oneplus-13-sandstone-magnetic-case
+- Amazon: https://amazon.com/dp/B0XXXXXXXXX
+- Best Buy: https://www.bestbuy.com/site/oneplus-sandstone-case/XXXXXXX.p
+
+---
+
+### Poetic Revolution
+
+**Specs:**
+- Alert Slider: Yes (deep cutout)
+- Magnetic: No
+- Kickstand: Yes
+- Material: TPU + PC dual layer
+- Drop Rating: 20 ft (Military Grade)
+
+**Price:**
+- MSRP: $21.95
+
+**Links:**
+- Official: https://www.poeticcases.com/products/revolution-oneplus-13
+- Amazon: https://amazon.com/dp/B0XXXXXXXXX
+- Walmart: https://www.walmart.com/ip/XXXXXXXXX
+
+---
+
+## RESEARCH TIPS
+
+**Finding MSRP:**
+- Official site: Use the listed "Price" (ignore promotions)
+- Amazon: Look for struck-through "List Price: $XX.XX"
+- Best Buy/Walmart: Standard shelf price (not "Sale" price)
+
+**Retailers to check:**
+- Official: Brand's .com website  
+- Amazon.com: Search "[Brand] [Product] OnePlus 13"
+- Best Buy: bestbuy.com (electronics)
+- Walmart: walmart.com
+- Target: target.com
+- B&H Photo: bhphotovideo.com (good for accessories)
+
+**If product doesn't exist yet:**
+- Write "Not released for OnePlus 13" 
+- Still provide generic product links if the case exists for other phones
+
+---
+
+## START RESEARCH
+
+Provide data for all 20 products using the exact format shown above.
+Each product should have:
+✓ Specifications
+✓ MSRP
+✓ 3 purchase links
+
+NO ADDITIONAL TEXT - JUST THE STRUCTURED DATA.

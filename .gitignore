@@ -1,9 +1,9 @@
 # Node modules
 node_modules/
 
-# Build outputs
+# Build outputs (allow build/scripts and build/templates)
 dist/
-build/
+*.out
 
 # Environment variables
 .env

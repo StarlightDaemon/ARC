@@ -1,0 +1,157 @@
+# Google Pixel 10 Pro XL Accessory Research - ULTRA-SPECIFIC DATA REQUEST
+
+You are a product research assistant. I need STRUCTURED DATA ONLY - no essays, no analysis, no explanations.
+
+---
+
+## OUTPUT FORMAT (MANDATORY)
+
+For each product, use EXACTLY this format:
+
+```
+### [Brand] [Product Name]
+
+**Specs:**
+- Qi2 Compatible: [Yes/No]
+- Fingerprint Sensor: [Yes/No/N/A]  
+- Kickstand: [Yes/No]
+- Material: [Brief]
+- Drop Rating: [X ft / None]
+
+**Price:**
+- MSRP: $XX.XX
+
+**Links:**
+- Official: [URL]
+- Amazon: [URL]
+- Best Buy/Walmart/Target: [URL]
+
+---
+```
+
+## CRITICAL RULES
+
+1. **MSRP ONLY** - List price, NOT current sale/deal prices
+2. **3 LINKS REQUIRED** - Official store + Amazon + one other US retailer
+3. **VERIFY DEVICE** - Must explicitly say "Pixel 10 Pro XL" not generic/wrong model
+4. **CLEAN URLs** - No tracking parameters, use amazon.com/dp/[ASIN] format
+5. **IF NOT FOUND** - Write "Not available" for that link, don't skip it
+
+---
+
+## DEVICE REQUIREMENTS
+
+**Google Pixel 10 Pro XL Critical Features:**
+- Has native Qi2 magnets (Pixelsnap) - cases don't need magnets
+- Supports 37W wired charging (USB-PD PPS with high voltage rail)
+- Ultrasonic fingerprint sensor (needs LOCA glass or thin film)
+- Flat display (easier screen protectors)
+
+---
+
+## PRODUCTS TO RESEARCH
+
+### OFFICIAL CASES (Google Store)
+1. Google Pixel 10 Pro XL Case (Official)
+2. Google Pixel 10 Pro XL Fabric Case
+3. Google Pixel 10 Pro XL Clear Case
+
+### RUGGED CASES
+4. Poetic Revolution (with camera slide cover)
+5. SUPCASE Unicorn Beetle Pro
+6. Spigen Tough Armor
+
+### EVERYDAY CASES
+7. Ringke Fusion-X
+8. Caseology Parallax
+9. Spigen Rugged Armor
+
+### SLIM/PREMIUM CASES  
+10. Thinborne Aramid Fiber (verify if exists for Pixel 10 Pro XL)
+11. Latercase (if available)
+12. PITAKA MagEZ Case
+
+### SCREEN PROTECTORS
+13. Whitestone Dome Glass (LOCA UV)
+14. Spigen Glas.tR EZ Fit
+15. amFilm Tempered Glass
+16. Zagg InvisibleShield (Film option)
+
+### CHARGERS
+17. Google 45W USB-C Charger (official)
+18. Google Pixelsnap Charger (25W wireless)
+19. Anker Prime 67W (verify Pixel compatibility)
+20. UGREEN Nexode 65W (if compatible)
+
+---
+
+## EXAMPLE OUTPUT (HOW TO FORMAT)
+
+### Google Pixel 10 Pro XL  Case
+
+**Specs:**
+- Qi2 Compatible: Yes (native device magnets)
+- Fingerprint Sensor: Yes
+- Kickstand: No
+- Material: Silicone + Microfiber lining
+- Drop Rating: Standard protection
+
+**Price:**
+- MSRP: $34.99
+
+**Links:**
+- Official: https://store.google.com/product/pixel_10_pro_case
+- Amazon: https://amazon.com/dp/B0XXXXXXXXX
+- Best Buy: https://www.bestbuy.com/site/google-pixel-10-case/XXXXXXX.p
+
+---
+
+### Poetic Revolution
+
+**Specs:**
+- Qi2 Compatible: No (blocks wireless)
+- Fingerprint Sensor: Yes (cutout)
+- Kickstand: Yes
+- Material: TPU + PC dual layer
+- Drop Rating: 20 ft (Military Grade)
+
+**Price:**
+- MSRP: $21.95
+
+**Links:**
+- Official: https://www.poeticcases.com/products/revolution-pixel-10-pro-xl
+- Amazon: https://amazon.com/dp/B0XXXXXXXXX
+- Walmart: https://www.walmart.com/ip/XXXXXXXXX
+
+---
+
+## RESEARCH TIPS
+
+**Finding MSRP:**
+- Official site: Use the listed "Price" (ignore promotions)
+- Amazon: Look for struck-through "List Price: $XX.XX"
+- Best Buy/Walmart: Standard shelf price (not "Sale" price)
+
+**Retailers to check:**
+- Official: Google Store (store.google.com)
+- Amazon.com: Search "[Brand] [Product] Pixel 10 Pro XL"
+- Best Buy: bestbuy.com (electronics)
+- Walmart: walmart.com
+- Target: target.com
+- B&H Photo: bhphotovideo.com (good for accessories)
+
+**If product doesn't exist yet:**
+- Write "Not released for Pixel 10 Pro XL" 
+- Still provide generic product links if the case exists for other phones
+
+---
+
+## START RESEARCH
+
+Provide data for all 20 products using the exact format shown above.
+Each product should have:
+✓ Specifications
+✓ MSRP
+✓ 3 purchase links
+
+NO ADDITIONAL TEXT - JUST THE STRUCTURED DATA.

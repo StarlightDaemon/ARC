@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Card Specs Comparison - ARC</title>
+    <link rel="stylesheet" href="../../public/css/style.css">
+    <link rel="stylesheet" href="../../public/css/guide.css">
+    <style>
+        body {
+            background: #f5f5f5;
+            padding: 2rem;
+        }
+
+        .comparison-container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .comparison-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 3rem;
+        }
+
+        .option-label {
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: #667eea;
+        }
+
+        /* OPTION 1: Grid Style */
+        .specs-grid {
+            padding: 1.25rem 1rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            color: #555;
+            flex-grow: 1;
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 0.6rem 0.75rem;
+            align-content: center;
+            margin-bottom: auto;
+        }
+
+        .specs-grid .spec-label {
+            font-weight: 600;
+            color: #667eea;
+            text-align: right;
+        }
+
+        .specs-grid .spec-value {
+            color: #555;
+        }
+
+        /* OPTION 2: Summary Style */
+        .specs-summary {
+            padding: 1.25rem 1rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+            font-size: 0.88rem;
+            color: #555;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 0.75rem;
+            margin-bottom: auto;
+            line-height: 1.5;
+        }
+
+        .specs-summary .summary-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .specs-summary .badge {
+            background: white;
+            padding: 0.35rem 0.75rem;
+            border-radius: 15px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #667eea;
+            border: 1px solid #e0e0e0;
+        }
+
+        .specs-summary .material-text {
+            color: #666;
+            font-size: 0.82rem;
+            line-height: 1.4;
+        }
+
+        @media (max-width: 900px) {
+            .comparison-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="comparison-container">
+        <div class="comparison-header">
+            <h1>📊 Specs Layout Comparison</h1>
+            <p style="color: #666; margin-top: 0.5rem;">Choose your preferred specs layout style</p>
+        </div>
+
+        <div class="comparison-grid">
+            <!-- OPTION 1: Grid Layout -->
+            <div>
+                <h2 class="option-label">Option 1: Clean Grid</h2>
+                <div class="products-grid" style="grid-template-columns: 1fr;">
+                    <div class="product-card">
+                        <div class="product-header">
+                            <h3>Spigen Tough Armor AI</h3>
+                            <span class="price">$59.99</span>
+                        </div>
+                        <div class="specs-grid">
+                            <span class="spec-label">Magnetic:</span>
+                            <span class="spec-value">✓ Yes (MagFit)</span>
+
+                            <span class="spec-label">Kickstand:</span>
+                            <span class="spec-value">✓ Built-in</span>
+
+                            <span class="spec-label">Material:</span>
+                            <span class="spec-value">TPU, PC, XRD Foam</span>
+
+                            <span class="spec-label">Drop:</span>
+                            <span class="spec-value">Military Grade</span>
+                        </div>
+                        <div class="purchase-links">
+                            <a href="#" class="btn-secondary">Best Buy</a>
+                            <a href="#" class="btn-primary">Official Store</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- OPTION 2: Summary Style -->
+            <div>
+                <h2 class="option-label">Option 2: Summary Style</h2>
+                <div class="products-grid" style="grid-template-columns: 1fr;">
+                    <div class="product-card">
+                        <div class="product-header">
+                            <h3>Spigen Tough Armor AI</h3>
+                            <span class="price">$59.99</span>
+                        </div>
+                        <div class="specs-summary">
+                            <div class="summary-badges">
+                                <span class="badge">🧲 Magnetic</span>
+                                <span class="badge">📐 Kickstand</span>
+                                <span class="badge">🛡️ Military Grade</span>
+                            </div>
+                            <div class="material-text">
+                                TPU, PC, and XRD Impact Foam construction with AI-enhanced corner protection
+                            </div>
+                        </div>
+                        <div class="purchase-links">
+                            <a href="#" class="btn-secondary">Best Buy</a>
+                            <a href="#" class="btn-primary">Official Store</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

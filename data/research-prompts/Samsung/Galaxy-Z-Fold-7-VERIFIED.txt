@@ -1,0 +1,148 @@
+# Samsung Galaxy Z Fold 7 Accessory Research - VERIFIED DATA ONLY
+
+**⚠️ IMPORTANT: The Samsung Galaxy Z Fold 7 was officially released on July 25, 2025. It is a REAL, CURRENTLY AVAILABLE device. Do NOT claim it doesn't exist.**
+
+You are a product research assistant. I need STRUCTURED DATA ONLY with VERIFIED, WORKING URLs.
+
+---
+
+## ⚠️ CRITICAL URL REQUIREMENTS ⚠️
+
+**DO NOT FABRICATE URLs**
+- Only provide URLs you can VERIFY exist and work
+- If you cannot find a working URL, write "Not available"
+- Fake/guessed URLs are WORSE than no URLs
+
+**URL Verification Checklist:**
+- [ ] Can you confirm this exact URL loads a real product page?
+- [ ] Does the product page explicitly mention "Galaxy Z Fold 7" or "Z Fold 7"?
+- [ ] Is the MSRP visible on this page?
+- [ ] Does the device model match EXACTLY (not Z Fold 6, not Z Fold 5)?
+
+**If you cannot verify all 4 checkboxes above, write "Not available" for that link.**
+
+---
+
+## DEVICE REQUIREMENTS
+
+**Samsung Galaxy Z Fold 7 Critical Features:**
+- Released: July 25, 2025 (5 months old - moderate accessory availability)
+- **8.0" foldable inner display** - Requires special film protectors
+- **6.5" outer display** - Standard glass protectors OK
+- **4.2mm thin when unfolded** - Ultra-slim cases only
+- **Flex Hinge Pro** - Cases must not interfere with hinge
+- **Under Display Camera** on inner screen
+- Supports 25W wired charging
+- **S Pen support** - Some cases have S Pen holders
+
+---
+
+## PRODUCT CATEGORIES TO RESEARCH
+
+**PRIMARY FOCUS: FOLDABLE-SPECIFIC CASES**
+
+Research these categories and report ALL products you can verify actually exist for Galaxy Z Fold 7:
+
+### 1. OFFICIAL CASES (Samsung.com) - HIGH PRIORITY
+Check Samsung's official store:
+- Standing Cover with Pen
+- Slim S Pen Case
+- Silicone Grip Cover
+- Leather Cover
+- Clear Cover
+- Any other official variants
+
+### 2. PROTECTIVE CASES WITH HINGE PROTECTION - HIGH PRIORITY
+Cases designed for foldables:
+- Spigen (Thin Fit P, Ultra Hybrid, Slim Armor Pro)
+- Samsung official protective cases
+- VRS Design
+- Ringke (Slim, Fusion, etc.)
+- Any verified foldable-specific brands
+
+### 3. SLIM CASES - HIGH PRIORITY
+Ultra-thin to maintain 4.2mm profile:
+- Aramid/Carbon fiber cases
+- Minimal TPU cases
+- Clear thin cases
+- Cases under 1mm thickness
+
+### 4. S PEN CASES - MEDIUM PRIORITY
+Cases with S Pen storage:
+- Samsung official S Pen cases
+- Third-party S Pen holders
+- Strap/loop attachment cases
+
+---
+
+### 5. INNER SCREEN PROTECTORS - CRITICAL
+**Film protectors only (inner screen cannot use glass):**
+- Samsung official inner screen films
+- Whitestone Dome (film version)
+- Spigen Neo Flex
+- amFilm (flexible film)
+- IQ Shield
+- Any verified film protectors
+
+### 6. OUTER SCREEN PROTECTORS - MEDIUM PRIORITY
+Glass protectors for 6.5" outer display:
+- Standard tempered glass options
+- Whitestone Dome Glass
+- Spigen Glas.tR
+- amFilm
+
+---
+
+**IMPORTANT:** 
+- **Focus 80% on CASES and INNER SCREEN PROTECTORS**
+- Hinge compatibility is CRITICAL
+- Film protectors only for inner screen (no glass)
+- Quality over quantity
+
+---
+
+## OUTPUT FORMAT
+
+### [Brand] [Product Name]
+
+**Specs:**
+- Display: [Inner/Outer/Both]
+- Hinge Safe: [Yes/No/Unknown]
+- S Pen Compatible: [Yes/No/N/A]
+- Material: [Film/TPU/Aramid/etc.]
+- Thickness: [Xmm or "Unknown"]
+
+**Price:**
+- MSRP: $XX.XX OR "Unknown"
+
+**Links:**
+- Official: [VERIFIED URL or "Not available"]
+- Amazon: [VERIFIED URL amazon.com/dp/[ASIN] or "Not available"]
+- Best Buy/Walmart/Target: [VERIFIED URL or "Not available"]
+
+**Notes:** [Optional - hinge clearance, installation notes, etc.]
+
+---
+
+## DELIVERABLE
+
+Provide data for **AS MANY PRODUCTS AS YOU CAN ACTUALLY VERIFY**.
+
+**Priority order:**
+✅ Honesty over completeness
+✅ Verified URLs over guessed URLs
+✅ Hinge compatibility always noted
+✅ Film vs glass clearly specified
+
+**Summary Section:**
+At the end, include:
+- Total products found: X
+- Cases with hinge protection: X
+- Inner screen film protectors: X
+- Outer screen glass protectors: X
+
+---
+
+## START RESEARCH
+
+Search each category systematically and report all verified products you find.

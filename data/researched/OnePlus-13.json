@@ -1,0 +1,238 @@
+{
+    "metadata": {
+        "researchDate": "2025-12-22",
+        "source": "Claude (Anthropic)",
+        "researcher": "User + Claude"
+    },
+    "device": {
+        "brand": "OnePlus",
+        "model": "OnePlus 13",
+        "criticalFeatures": [
+            "Alert Slider",
+            "Magnetic wireless charging (requires case)",
+            "No built-in magnets"
+        ],
+        "chargingSpecs": {
+            "wired": "100W SUPERVOOC",
+            "wireless": "50W AIRVOOC (magnetic)"
+        }
+    },
+    "products": [
+        {
+            "id": "oneplus-sandstone-magnetic",
+            "category": "case-official",
+            "brand": "OnePlus",
+            "name": "Sandstone Magnetic Case",
+            "specs": {
+                "alertSlider": true,
+                "magnetic": true,
+                "kickstand": false,
+                "material": "PC + TPU + Magnetic ring",
+                "dropRating": "Standard protection"
+            },
+            "pricing": {
+                "msrp": 24.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.oneplus.com/us/product/oneplus-13-sandstone-magnetic-case",
+                "amazon": "https://amazon.com/dp/B0DZCTC32L",
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock"
+        },
+        {
+            "id": "oneplus-aramid-magnetic",
+            "category": "case-official",
+            "brand": "OnePlus",
+            "name": "Aramid Fiber Magnetic Case",
+            "specs": {
+                "alertSlider": true,
+                "magnetic": true,
+                "kickstand": false,
+                "material": "Aramid Fiber + N52 magnetic ring",
+                "dropRating": "Standard protection"
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.oneplus.com/us/product/oneplus-13-aramid-fiber-magnetic-case",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock"
+        },
+        {
+            "id": "oneplus-wood-grain-magnetic",
+            "category": "case-official",
+            "brand": "OnePlus",
+            "name": "Wood Grain Magnetic Case",
+            "specs": {
+                "alertSlider": true,
+                "magnetic": true,
+                "kickstand": false,
+                "material": "Wood veneer + Fiber + Magnetic ring",
+                "dropRating": "Standard protection"
+            },
+            "pricing": {
+                "msrp": 34.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.oneplus.com/us/product/oneplus-13-wood-grain-magnetic-half-pack-case",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock"
+        },
+        {
+            "id": "poetic-revolution",
+            "category": "case-rugged",
+            "brand": "Poetic",
+            "name": "Revolution",
+            "specs": {
+                "alertSlider": true,
+                "magnetic": false,
+                "kickstand": true,
+                "material": "TPU + PC dual layer",
+                "dropRating": "20 ft (Military Grade)"
+            },
+            "pricing": {
+                "msrp": 21.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.poeticcases.com/products/oneplus-13-5g-revolution-case",
+                "amazon": "https://amazon.com/dp/B0DPFX3WRQ",
+                "retailer": "https://www.walmart.com/ip/15145118554",
+                "retailerName": "Walmart"
+            },
+            "availability": "in-stock"
+        },
+        {
+            "id": "ringke-fusion-x-magnetic",
+            "category": "case-everyday",
+            "brand": "Ringke",
+            "name": "Fusion-X Magnetic",
+            "specs": {
+                "alertSlider": true,
+                "magnetic": true,
+                "kickstand": false,
+                "material": "PC back + TPU frame",
+                "dropRating": "Military-grade drop tested"
+            },
+            "pricing": {
+                "msrp": 19.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://ringke.co.in/products/oneplus-13-back-cover-case-fusion-x-magnetic-black",
+                "amazon": "https://amazon.com/dp/B0DNNH2HCM",
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock"
+        },
+        {
+            "id": "thinborne-aramid",
+            "category": "case-premium",
+            "brand": "Thinborne",
+            "name": "600D Aramid",
+            "specs": {
+                "alertSlider": true,
+                "magnetic": true,
+                "kickstand": false,
+                "material": "600D Aramid Fiber",
+                "dropRating": "Minimal (everyday wear)"
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://thinborne.com/collections/oneplus-13-case",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock"
+        },
+        {
+            "id": "ringke-dual-easy-film",
+            "category": "screen-protector",
+            "brand": "Ringke",
+            "name": "Dual Easy Film (EPU)",
+            "specs": {
+                "alertSlider": null,
+                "magnetic": null,
+                "kickstand": null,
+                "material": "EPU (Elastomeric Polyurethane) - Self-healing",
+                "dropRating": "N/A (screen protection only)"
+            },
+            "pricing": {
+                "msrp": 16.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://ringke.co.in/products/oneplus-13-screen-protector-guard-with-easy-installation-tool-dual-easy-film-2-pack",
+                "amazon": "https://amazon.com/dp/B0DNNJ75QC",
+                "retailer": "https://www.walmart.com/ip/14868763981",
+                "retailerName": "Walmart"
+            },
+            "availability": "in-stock"
+        },
+        {
+            "id": "oneplus-100w-supervooc",
+            "category": "charger",
+            "brand": "OnePlus",
+            "name": "100W SUPERVOOC Dual Port Charger",
+            "specs": {
+                "alertSlider": null,
+                "magnetic": false,
+                "kickstand": null,
+                "material": "PC housing",
+                "dropRating": "N/A"
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.oneplus.com/us/product/oneplus-supervooc-100w-dual-ports-power-adapter",
+                "amazon": "https://amazon.com/dp/B09GPBGGGB",
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock"
+        },
+        {
+            "id": "oneplus-50w-airvooc",
+            "category": "charger",
+            "brand": "OnePlus",
+            "name": "50W AIRVOOC Magnetic Wireless Charger",
+            "specs": {
+                "alertSlider": null,
+                "magnetic": true,
+                "kickstand": false,
+                "material": "PC + Aluminum + Cooling fan",
+                "dropRating": "N/A"
+            },
+            "pricing": {
+                "msrp": 79.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.oneplus.com/us/product/oneplus-airvooc-50w-magnetic-charger",
+                "amazon": "https://amazon.com/dp/B0CRKB42TK",
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock"
+        }
+    ]
+}

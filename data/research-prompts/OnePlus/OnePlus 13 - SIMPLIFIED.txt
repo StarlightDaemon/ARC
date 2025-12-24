@@ -1,0 +1,63 @@
+SIMPLIFIED RESEARCH REQUEST - OnePlus 13 Accessories
+
+I need a SIMPLE DATA LIST ONLY - NO analysis, NO explanations, NO essays.
+
+Device: OnePlus 13
+Critical Requirements:
+- Alert Slider: cases MUST have cutout
+- 100W SUPERVOOC wired charging
+- 50W AIRVOOC wireless charging
+
+For each product, provide ONLY this format:
+
+**BRAND | Product Name**
+- MagSafe/Magnetic: Yes/No
+- Alert Slider Access: Yes/No
+- Kickstand: Yes/No
+- Price: $XX.XX
+- URL: [direct purchase link]
+
+---
+
+CATEGORIES TO RESEARCH:
+
+1. RUGGED CASES
+   - SUPCASE Unicorn Beetle Pro
+   - Poetic Revolution
+   - UAG Monarch/Plasma
+
+2. EVERYDAY CASES
+   - OnePlus official Sandstone Magnetic Case
+   - Spigen Tough Armor / Rugged Armor
+   - Ringke Fusion-X
+   - Caseology Parallax
+   - dbrand Grip
+
+3. SLIM CASES
+   - OnePlus official Aramid Fiber case
+   - PITAKA MagEZ Case
+   - Latercase (if available)
+   - Thinborne cases
+
+4. SCREEN PROTECTORS
+   - ZAGG InvisibleShield
+   - Spigen Glas.tR EZ Fit
+   - Whitestone Dome Glass
+   - amFilm tempered glass
+
+5. CHARGERS
+   - OnePlus 100W SUPERVOOC charger (official)
+   - OnePlus 50W AIRVOOC wireless charger (official)
+   - Third-party USB-C PD chargers (65W+)
+
+---
+
+IMPORTANT:
+- Use Amazon.com or official manufacturer store links
+- Include current prices (December 2025)
+- If product doesn't exist yet for OnePlus 13, note "Pre-order" or "Not available"
+- NO product descriptions or marketing text
+- NO analysis of materials or technology
+- JUST the data in the format above
+
+Total expected: 15-25 products with purchase links

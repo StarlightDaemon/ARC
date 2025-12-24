@@ -1,0 +1,148 @@
+# Nothing Phone (3) Accessory Research - VERIFIED DATA ONLY
+
+**⚠️ IMPORTANT: The Nothing Phone (3) was officially released on July 15, 2025. It is a REAL, CURRENTLY AVAILABLE device. Do NOT claim it doesn't exist.**
+
+You are a product research assistant. I need STRUCTURED DATA ONLY with VERIFIED, WORKING URLs.
+
+---
+
+## ⚠️ CRITICAL URL REQUIREMENTS ⚠️
+
+**DO NOT FABRICATE URLs**
+- Only provide URLs you can VERIFY exist and work
+- If you cannot find a working URL, write "Not available"
+- Fake/guessed URLs are WORSE than no URLs
+
+**URL Verification Checklist:**
+- [ ] Can you confirm this exact URL loads a real product page?
+- [ ] Does the product page explicitly mention "Nothing Phone (3)" or "Phone (3)"?
+- [ ] Is the MSRP visible on this page?
+- [ ] Does the device model match EXACTLY (not Phone (2), not Phone (2a))?
+
+**If you cannot verify all 4 checkboxes above, write "Not available" for that link.**
+
+---
+
+## DEVICE REQUIREMENTS
+
+**Nothing Phone (3) Critical Features:**
+- Released: July 15, 2025 (5 months old - moderate accessory availability)
+- **Glyph Interface (Gen 3)** - Requires clear/transparent cases to showcase
+- No native Qi2 magnets (standard 15W Qi wireless charging only)
+- Snapdragon 8s Gen 4 processor
+- 6.7" OLED display (2800x1260), 120Hz
+- 4500 nits peak brightness
+- Nothing OS 4.0 with unique aesthetic
+
+---
+
+## PRODUCT CATEGORIES TO RESEARCH
+
+**PRIMARY FOCUS: CASES**
+
+Research these case categories thoroughly and report ALL products you can verify actually exist for Nothing Phone (3):
+
+### 1. OFFICIAL CASES (Nothing.tech) - HIGH PRIORITY
+Check Nothing's official store for any Phone (3) cases:
+- Clear cases (to show Glyph Interface)
+- Nothing-branded cases
+- Any official variants
+
+### 2. CLEAR/TRANSPARENT CASES - HIGH PRIORITY
+Essential for showing Glyph Interface:
+- Spigen Ultra Hybrid / Liquid Crystal
+- Ringke Fusion
+- Caseology Waterfall
+- ESR clear cases
+- Any verified clear cases that preserve Glyph visibility
+
+### 3. EVERYDAY CASES - HIGH PRIORITY
+Standard protection:
+- Ringke (Onyx, Fusion-X, etc.)
+- Caseology (Parallax, Vault, etc.)
+- Spigen (Rugged Armor, Liquid Air, etc.)
+- Any other verified everyday protection brands
+
+### 4. RUGGED CASES - MEDIUM PRIORITY
+Heavy-duty protection:
+- Poetic (if available)
+- SUPCASE
+- UAG (if available)
+- Any verified rugged options
+
+### 5. SLIM/PREMIUM CASES - MEDIUM PRIORITY
+Ultra-thin options:
+- Thinborne (if available)
+- Totallee
+- Any verified slim cases
+
+---
+
+**SECONDARY (Optional):**
+
+### SCREEN PROTECTORS (Lower Priority)
+- Tempered glass options
+- Film protectors
+- Any verified protectors
+
+### CHARGERS (Lower Priority)
+- Nothing official chargers
+- Compatible 15W+ wireless chargers
+- 45W+ wired chargers
+
+**IMPORTANT:** 
+- **Focus 90% on CASES (categories 1-5)**
+- **Clear cases are CRITICAL** to showcase Glyph Interface
+- Quality over quantity
+
+---
+
+## OUTPUT FORMAT
+
+### [Brand] [Product Name]
+
+**Specs:**
+- Glyph Visible: [Yes/No - for clear cases]
+- Qi2 Magnetic: [Yes/No - built-in magnets]
+- Wireless Charging: [Compatible/Blocks - standard Qi]
+- Fingerprint Sensor: [Yes/No/Unknown]
+- Kickstand: [Yes/No/Unknown]
+- Material: [Brief description OR "Unknown"]
+- Drop Rating: [X ft / Military Grade / None / Unknown]
+
+**Price:**
+- MSRP: $XX.XX OR "Unknown"
+
+**Links:**
+- Official: [VERIFIED URL or "Not available"]
+- Amazon: [VERIFIED URL amazon.com/dp/[ASIN] or "Not available"]
+- Best Buy/Walmart/Target: [VERIFIED URL or "Not available"]
+
+**Notes:** [Optional - Glyph visibility, unique features, etc.]
+
+---
+
+## DELIVERABLE
+
+Provide data for **AS MANY PRODUCTS AS YOU CAN ACTUALLY VERIFY**.
+
+**Priority order:**
+✅ Honesty over completeness
+✅ Verified URLs over guessed URLs
+✅ Clear cases prioritized (for Glyph Interface)
+✅ Clear notes when products don't exist
+
+**Summary Section:**
+At the end, include:
+- Total products found: X
+- Products with full data (specs + MSRP + 3 links): X
+- Clear cases (for Glyph visibility): X
+- Categories with no products available: [list them]
+
+**Remember:** The Nothing Phone (3) was released 5 months ago. Accessories should be moderately available but may be less common than Samsung/Google.
+
+---
+
+## START RESEARCH
+
+Search each category systematically and report all verified products you find.

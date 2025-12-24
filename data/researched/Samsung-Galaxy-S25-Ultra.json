@@ -1,0 +1,781 @@
+{
+    "metadata": {
+        "researchDate": "2025-12-22",
+        "source": "Multi-LLM: Gemini 3.0 Pro (4 runs) + Sonar (2 runs) via Perplexity Pro",
+        "researcher": "User + Multi-LLM collaborative research",
+        "methodology": "Same-chat re-prompting for maximum variety and coverage"
+    },
+    "device": {
+        "brand": "Samsung",
+        "model": "Galaxy S25 Ultra",
+        "releaseDate": "2025-02-07",
+        "criticalFeatures": [
+            "S Pen silo built-in (critical for case design)",
+            "No native Qi2 magnets (requires magnetic cases for MagSafe)",
+            "45W USB-PD PPS wired charging",
+            "Flat 6.9\" display (easier for screen protectors)",
+            "Titanium frame",
+            "Ultrasonic fingerprint sensor"
+        ],
+        "chargingSpecs": {
+            "wired": "45W USB-PD PPS",
+            "wireless": "15W Qi (no native magnets)"
+        }
+    },
+    "products": [
+        {
+            "id": "samsung-official-silicone-s25ultra",
+            "category": "case-official",
+            "brand": "Samsung",
+            "name": "Official Silicone Case",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Soft-touch silicone + microfiber lining",
+                "dropRating": "Standard protection"
+            },
+            "pricing": {
+                "msrp": 34.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.samsung.com/us/smartphones/galaxy-s25/accessories/",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Easy S Pen silo access cutout, 42% recycled materials"
+        },
+        {
+            "id": "samsung-standing-grip-s25ultra",
+            "category": "case-official",
+            "brand": "Samsung",
+            "name": "Standing Grip Case (EF-GS938)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": true,
+                "material": "Soft-touch silicone + recycled polycarbonate",
+                "dropRating": "Military Grade"
+            },
+            "pricing": {
+                "msrp": 54.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.samsung.com/us/mobile/mobile-accessories/phones/galaxy-s25-ultra-standing-grip-case-black-ef-gs938cbegus/",
+                "amazon": null,
+                "retailer": "https://www.bestbuy.com/site/samsung-galaxy-s25-ultra-standing-grip-case-black/6577440.p",
+                "retailerName": "Best Buy"
+            },
+            "availability": "in-stock",
+            "notes": "Built-in sliding grip/stand, S Pen cutout"
+        },
+        {
+            "id": "samsung-kindsuit-s25ultra",
+            "category": "case-official",
+            "brand": "Samsung",
+            "name": "Kindsuit Case (EF-VS938)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Eco-friendly faux leather + microfiber lining",
+                "dropRating": "Military Grade (Standard)"
+            },
+            "pricing": {
+                "msrp": 54.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.samsung.com/us/mobile/mobile-accessories/phones/galaxy-s25-ultra-kindsuit-case-black-ef-vs938pbegus/",
+                "amazon": null,
+                "retailer": "https://www.bestbuy.com/site/samsung-galaxy-s25-ultra-kindsuit-case-gray/6608576.p",
+                "retailerName": "Best Buy"
+            },
+            "availability": "in-stock",
+            "notes": "Premium feel, aluminum side buttons, S Pen precision cutout"
+        },
+        {
+            "id": "samsung-clear-magnet-s25ultra",
+            "category": "case-official",
+            "brand": "Samsung",
+            "name": "Clear Magnet Case",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Slim transparent polycarbonate + magnetic ring",
+                "dropRating": "Standard protection"
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": null,
+                "amazon": null,
+                "retailer": "https://simplecellshop.com/products/sam652914307",
+                "retailerName": "Simple Cell Shop"
+            },
+            "availability": "in-stock",
+            "notes": "Official Samsung magnet case for MagSafe accessories"
+        },
+        {
+            "id": "supcase-unicorn-beetle-pro-s25ultra",
+            "category": "case-rugged",
+            "brand": "SUPCASE",
+            "name": "Unicorn Beetle PRO",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": true,
+                "material": "Polycarbonate + shock-absorbing TPU",
+                "dropRating": "20 ft (CNET Winner)"
+            },
+            "pricing": {
+                "msrp": 38.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://supcase.com/products/galaxy-s25-ultra-unicorn-beetle-pro-rugged-case-black",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Built-in kickstand, 3 viewing angles, optional screen protector frame"
+        },
+        {
+            "id": "otterbox-defender-pro-xt-s25ultra",
+            "category": "case-rugged",
+            "brand": "OtterBox",
+            "name": "Defender Series Pro XT (Magnetic)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "50% recycled polycarbonate + synthetic rubber",
+                "dropRating": "7X Military Grade (MIL-STD-810G)"
+            },
+            "pricing": {
+                "msrp": 79.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.otterbox.com/en-us/heavy-duty-galaxy-s25-ultra-case-black/77-97641.html",
+                "amazon": null,
+                "retailer": "https://www.walmart.com/ip/OtterBox-Defender-Series-Pro-XT-Case-with-Magnets-for-Samsung-Galaxy-S25-Ultra-Dark-Side/14731970709",
+                "retailerName": "Walmart"
+            },
+            "availability": "in-stock",
+            "notes": "Built-in magnets for MagSafe, holster with kickstand included"
+        },
+        {
+            "id": "uag-monarch-pro-s25ultra",
+            "category": "case-rugged",
+            "brand": "UAG",
+            "name": "Monarch Pro (Kevlar)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "5-layer: DuPont Kevlar + Carbon Fiber + TPU",
+                "dropRating": "25 ft"
+            },
+            "pricing": {
+                "msrp": 99.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.urbanarmorgear.com/products/monarch-pro-kevlar-r-galaxy-s25-ultra-case/",
+                "amazon": null,
+                "retailer": "https://www.target.com/p/uag-forged-carbon-with-copper-galaxy-s25-ultra-case-limited-edition-monarch-pro-forged-carbon-with-copper/-/A-1003859865",
+                "retailerName": "Target"
+            },
+            "availability": "in-stock",
+            "notes": "Premium rugged with built-in magnet module, forged copper accents"
+        },
+        {
+            "id": "uag-civilian-pro-s25ultra",
+            "category": "case-everyday",
+            "brand": "UAG",
+            "name": "Civilian Pro (MagSafe)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Triple-shot overmold + hex cushioning core",
+                "dropRating": "20 ft"
+            },
+            "pricing": {
+                "msrp": 69.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": null,
+                "amazon": null,
+                "retailer": "https://www.target.com/p/uag-civilian-pro-galaxy-s25-ultra-case-black/-/A-1002374810",
+                "retailerName": "Target"
+            },
+            "availability": "in-stock",
+            "notes": "Slimmer than Defender, MagSafe compatible, raised bezel"
+        },
+        {
+            "id": "uag-pathfinder-magnet-s25ultra",
+            "category": "case-everyday",
+            "brand": "UAG",
+            "name": "Pathfinder (with Magnet)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Ultra-lightweight armor shell + TPU bumpers",
+                "dropRating": "Military Grade"
+            },
+            "pricing": {
+                "msrp": 59.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": null,
+                "amazon": null,
+                "retailer": "https://www.target.com/p/uag-pathfinder-galaxy-s25-ultra-case-black/-/A-1002407528",
+                "retailerName": "Target"
+            },
+            "availability": "in-stock",
+            "notes": "Magnetic module, raised corners, hex pattern core"
+        },
+        {
+            "id": "uag-metropolis-lt-s25ultra",
+            "category": "case-everyday",
+            "brand": "UAG",
+            "name": "Metropolis LT (MagSafe)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "DuPont Kevlar + TPU featherlight composite",
+                "dropRating": "18 ft (5.4 m)"
+            },
+            "pricing": {
+                "msrp": 79.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": null,
+                "amazon": null,
+                "retailer": "https://www.colamco.com/urban-armor-gear-metropolis-lt-case-214470114062-2670669",
+                "retailerName": "Colamco"
+            },
+            "availability": "in-stock",
+            "notes": "Slim rugged with MagSafe, wireless charging compatible"
+        },
+        {
+            "id": "spigen-tough-armor-ai-s25ultra",
+            "category": "case-everyday",
+            "brand": "Spigen",
+            "name": "Tough Armor AI (MagFit)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": true,
+                "material": "PC + TPU + AI-enhanced XRD Impact Foam",
+                "dropRating": "Military Grade (Extreme Protection)"
+            },
+            "pricing": {
+                "msrp": 59.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.spigen.com/products/galaxy-s25-series-case-tough-armor-ai-magfit",
+                "amazon": "https://www.amazon.com/dp/B0DJ9SYLMJ",
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "AI-optimized foam placement, built-in kickstand, MagFit ring"
+        },
+        {
+            "id": "ringke-fusion-s25ultra",
+            "category": "case-everyday",
+            "brand": "Ringke",
+            "name": "Fusion",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Hard polycarbonate back + TPU bumper",
+                "dropRating": "Military Grade (MIL-STD 810G)"
+            },
+            "pricing": {
+                "msrp": 14.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.ringkestore.com/products/galaxy-s25-case-fusion",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Clear hybrid case, budget-friendly option"
+        },
+        {
+            "id": "ringke-fusion-x-magnetic-s25ultra",
+            "category": "case-everyday",
+            "brand": "Ringke",
+            "name": "Fusion-X Magnetic",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC back + TPU bumper + magnetic ring",
+                "dropRating": "Military Grade (MIL-STD 810G)"
+            },
+            "pricing": {
+                "msrp": 23.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.ringkestore.com/products/galaxy-s25-ultra-case-fusion-x-magnetic",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Magnetic upgrade to Fusion, MagSafe compatible"
+        },
+        {
+            "id": "esr-halolock-s25ultra",
+            "category": "case-everyday",
+            "brand": "ESR",
+            "name": "HaloLock Classic Hybrid",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Acrylic back + TPU frame + HaloLock ring",
+                "dropRating": "Military Grade"
+            },
+            "pricing": {
+                "msrp": 19.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.esrtech.com/collections/samsung-galaxy-s25-ultra-phone-cases",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Budget magnetic case, HaloLock system"
+        },
+        {
+            "id": "thinborne-aramid-s25ultra",
+            "category": "case-premium",
+            "brand": "Thinborne",
+            "name": "Super Thin MagSafe Case",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "600D Aerospace-grade Aramid Fiber",
+                "dropRating": "Minimal (scratch protection)"
+            },
+            "pricing": {
+                "msrp": 69.69,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://thinborne.com/products/galaxy-s25-ultra-case",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Ultra-thin 0.04\", built-in MagSafe magnets, S Pen cutout"
+        },
+        {
+            "id": "pitaka-magez-s25ultra",
+            "category": "case-premium",
+            "brand": "Pitaka",
+            "name": "MagEZ Case 5",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "1500D/600D Aramid Fiber",
+                "dropRating": "Minimal (everyday protection)"
+            },
+            "pricing": {
+                "msrp": 59.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.ipitaka.com/collections/samsung-galaxy-s25-ultra-cases",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Premium aramid with MagSafe, metal camera ring"
+        },
+        {
+            "id": "mous-limitless-aramid-s25ultra",
+            "category": "case-premium",
+            "brand": "Mous",
+            "name": "Limitless 6.0 (Aramid Fiber)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Aramid Fiber + AiroShock technology",
+                "dropRating": "Extreme (AiroShock)"
+            },
+            "pricing": {
+                "msrp": 69.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.mous.co/products/limitless-magnetic-compatible-phone-case-aramid_fibre",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "MagSafe compatible, AiroMag technology"
+        },
+        {
+            "id": "mous-limitless-variants-s25ultra",
+            "category": "case-premium",
+            "brand": "Mous",
+            "name": "Limitless 6.0 (Walnut/Bamboo/Leather)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Walnut/Bamboo/Black Leather variants",
+                "dropRating": "Extreme (AiroShock)"
+            },
+            "pricing": {
+                "msrp": 64.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.mous.co/collections/galaxy-s25",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Multiple premium material variants available"
+        },
+        {
+            "id": "mous-superthin-clear-s25ultra",
+            "category": "case-everyday",
+            "brand": "Mous",
+            "name": "Super Thin 2.0 (Clear)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Clear polycarbonate + magnetic ring",
+                "dropRating": "Standard protection"
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.mous.co/products/super-thin_magsafe_phone_case-clear",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Slim magnetic clear case for MagSafe accessories"
+        },
+        {
+            "id": "mous-superthin-black-s25ultra",
+            "category": "case-everyday",
+            "brand": "Mous",
+            "name": "Super Thin (Black)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Slim plastic hybrid + magnetic module",
+                "dropRating": "Standard protection"
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.mous.co/products/super-thin-magsafe-compatible-phone-case-black-leather",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Minimalist MagSafe case"
+        },
+        {
+            "id": "gkk-ultrathin-holder-titanium-s25ultra",
+            "category": "case-budget",
+            "brand": "GKK",
+            "name": "Ultra-Thin with Holder/Pen (Titanium Gray)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": true,
+                "material": "Ultra-thin shockproof plastic/TPU",
+                "dropRating": "Shockproof (no rating)"
+            },
+            "pricing": {
+                "msrp": 24.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": null,
+                "amazon": null,
+                "retailer": "https://www.cases.com/samsung-galaxy-s25-ultra-5g-gkk-ultra-thin-shockproof-phone-case-with-holder-pen-titanium-gray/",
+                "retailerName": "Cases.com"
+            },
+            "availability": "in-stock",
+            "notes": "Budget S Pen holder with included stylus, kickstand functionality"
+        },
+        {
+            "id": "gkk-ultrathin-holder-green-s25ultra",
+            "category": "case-budget",
+            "brand": "GKK",
+            "name": "Ultra-Thin with Pen Slots (Green)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": true,
+                "material": "Ultra-thin plastic/TPU hybrid",
+                "dropRating": "Shockproof (no rating)"
+            },
+            "pricing": {
+                "msrp": 24.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": null,
+                "amazon": null,
+                "retailer": "https://www.cases.com/samsung-galaxy-s25-ultra-5g-gkk-ultra-thin-holder-phone-case-with-pen-slots-stylus-pen-green/",
+                "retailerName": "Cases.com"
+            },
+            "availability": "in-stock",
+            "notes": "Multiple pen slots, included stylus, kickstand"
+        },
+        {
+            "id": "walmart-transparent-spen-holder-s25ultra",
+            "category": "case-budget",
+            "brand": "Generic",
+            "name": "Transparent Case with S Pen Holder & Stylus",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Clear TPU non-yellowing",
+                "dropRating": "Standard protection"
+            },
+            "pricing": {
+                "msrp": 19.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": null,
+                "amazon": null,
+                "retailer": "https://www.walmart.com/ip/Transparent-Case-Samsung-Galaxy-S25-Ultra-S-Pen-Holder-Stylus-Non-Yellowing-Clear-Rugged-Protective-Phone-Cover-Black/16497453015",
+                "retailerName": "Walmart"
+            },
+            "availability": "in-stock",
+            "notes": "External S Pen holder, bundled stylus, budget option"
+        },
+        {
+            "id": "walmart-kickstand-spen-s25ultra",
+            "category": "case-budget",
+            "brand": "Generic",
+            "name": "Shockproof Kickstand with S Pen Holder",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": true,
+                "material": "Shockproof plastic/TPU",
+                "dropRating": "Shockproof (no rating)"
+            },
+            "pricing": {
+                "msrp": 19.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": null,
+                "amazon": null,
+                "retailer": "https://www.walmart.com/ip/Case-For-Samsung-Galaxy-S25-Ultra-S25-Plus-S25-Stylus-Pen-And-Pen-Holder-Shell-Shockproof-Kickstand-Phone-Cover/15479167794",
+                "retailerName": "Walmart"
+            },
+            "availability": "in-stock",
+            "notes": "Budget kickstand case with stylus pen holder"
+        },
+        {
+            "id": "whitestone-dome-glass-s25ultra",
+            "category": "screen-protector",
+            "brand": "Whitestone",
+            "name": "Dome Glass (2-Pack with UV Lamp)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Tempered glass + LOCA UV adhesive",
+                "dropRating": "9H Hardness"
+            },
+            "pricing": {
+                "msrp": 56.49,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.whitestonedome.com/products/whitestone-dome-glass-perfect-full-coverage-tempered-glass-screen-protector-for-galaxy-s25-withuv-lamp-2pack",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Ultrasonic fingerprint compatible, UV lamp included"
+        },
+        {
+            "id": "whitestone-dome-blc-s25ultra",
+            "category": "screen-protector",
+            "brand": "Whitestone",
+            "name": "Dome BLC (Blue Light Cut)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Tempered glass + blue light filter",
+                "dropRating": "9H Hardness"
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.whitestonedome.com/products/whitestone-dome-blc-blue-light-cut-tempered-glass-screen-protector-for-galaxy-s25-with-easy-installation-tool-1pack",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Blue light cut coating, S Pen compatible flat display"
+        },
+        {
+            "id": "whitestone-uv-gen-film-s25ultra",
+            "category": "screen-protector",
+            "brand": "Whitestone",
+            "name": "UV Gen Film (Glass-like Film)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Glass-like film + UV curing",
+                "dropRating": "High impact resistance"
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.whitestonedome.com/products/whitestone-dome-uv-gen-film-glass-like-film-screen-protector-for-galaxy-s25-with-uv-lamp-2pack-copy",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Film alternative to glass, S Pen glide optimized"
+        },
+        {
+            "id": "whitestone-ar-privacy-s25ultra",
+            "category": "screen-protector",
+            "brand": "Whitestone",
+            "name": "AR Privacy (Anti-Reflection)",
+            "specs": {
+                "sPenCompatible": true,
+                "qi2Magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Tempered glass + privacy coating",
+                "dropRating": "9H Hardness"
+            },
+            "pricing": {
+                "msrp": 54.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.whitestonedome.com/products/whitestone-dome-ar-privacy-super-anti-reflection-privacy-tempered-glass-screen-protector-for-galaxy-s25-with-easy-installation-tool-1pack",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Privacy filter, ultrasonic fingerprint compatible"
+        },
+        {
+            "id": "samsung-45w-charger",
+            "category": "charger",
+            "brand": "Samsung",
+            "name": "45W PD Power Adapter (EP-T4511)",
+            "specs": {
+                "sPenCompatible": false,
+                "qi2Magnetic": false,
+                "fingerprint": false,
+                "kickstand": false,
+                "material": "Polycarbonate (recycled)",
+                "dropRating": "N/A"
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.samsung.com/us/mobile/mobile-accessories/phones/45w-pd-power-adapter-with-5a-usb-c-cable-black-ep-t4511xbegus/",
+                "amazon": null,
+                "retailer": "https://www.bestbuy.com/site/samsung-45w-power-adapter-black/6577440.p",
+                "retailerName": "Best Buy"
+            },
+            "availability": "in-stock",
+            "notes": "Official 45W USB-PD PPS charger with 1.8m 5A cable included"
+        }
+    ]
+}

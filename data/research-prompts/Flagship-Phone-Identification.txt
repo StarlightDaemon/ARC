@@ -1,0 +1,174 @@
+# Flagship Phone Lineup Research - Brand Priority Identification
+
+## OBJECTIVE
+
+Identify current FLAGSHIP/PREMIUM phones for each major Android brand that warrant accessory guides. Focus on mainline/premium series only (e.g., Samsung Galaxy S, NOT Galaxy A).
+
+---
+
+## OUTPUT FORMAT
+
+For each brand, provide:
+
+```
+## [BRAND NAME]
+
+**Flagship Series:** [Series name, e.g., "Galaxy S", "Pixel"]
+
+**Current Flagship Models (2024-2025):**
+
+1. **[Phone Model Name]** - [Release Date]
+   - Screen Size: X.X"
+   - Special Features: [S Pen, Foldable, Alert Slider, etc.]
+   - Why Include: [Flagship status, unique features, high XDA interest]
+
+2. **[Phone Model Name]** - [Release Date]
+   - Screen Size: X.X"
+   - Special Features: [Features]
+   - Why Include: [Reason]
+
+**Exclude (Budget/Mid-range lines):**
+- [Series to skip, e.g., "Galaxy A series", "Pixel a series"]
+
+---
+```
+
+---
+
+## BRANDS TO RESEARCH
+
+### 1. Samsung
+- **Focus on:** Galaxy S series, Galaxy Z Fold/Flip
+- **Exclude:** Galaxy A series, Galaxy M series, Galaxy F series
+- **Special note:** Include both S Ultra AND regular S if both exist
+- **Foldables:** Include Z Fold and Z Flip flagships
+
+### 2. Google  
+- **Focus on:** Pixel mainline, Pixel Pro, Pixel Fold
+- **Exclude:** Pixel "a" series (budget line)
+- **Special note:** Include both Pro and Pro XL if sizing differs
+
+### 3. OnePlus
+- **Focus on:** Numbered series (OnePlus X), OnePlus Open (foldable)
+- **Exclude:** OnePlus Nord series, OnePlus Ace series
+- **Special note:** Alert Slider is OnePlus signature feature
+
+### 4. Nothing
+- **Focus on:** Phone numbered series (Phone 1, 2, 3)
+- **Exclude:** Phone (a) series if it exists
+- **Special note:** Glyph Interface is signature feature
+
+### 5. Motorola
+- **Focus on:** Edge series (Edge+, Edge Ultra)
+- **Exclude:** Moto G series, Moto E series
+- **Special note:** Look for TurboPower charging specs
+
+### 6. Sony (if applicable)
+- **Focus on:** Xperia 1 series, Xperia 5 series
+- **Exclude:** Xperia 10 series
+- **Special note:** 21:9 displays, dedicated camera button
+
+### 7. ASUS (if applicable)
+- **Focus on:** ROG Phone series (gaming flagships), Zenfone series
+- **Exclude:** Mid-range Zenfone variants
+
+---
+
+## SELECTION CRITERIA
+
+Include phones that meet **at least 3** of these:
+
+✓ **Flagship processor** (Snapdragon 8 Gen X, Google Tensor, Dimensity 9xxx, etc.)  
+✓ **Flagship hardware** (Premium build, advanced cameras, high refresh displays)  
+✓ **Unique features** (S Pen, Alert Slider, Glyph, Foldable, etc.)  
+✓ **Active XDA community** (high forum activity, developer support)  
+✓ **Wide US availability** (sold unlocked on Amazon/Best Buy/Carrier stores)  
+✓ **Mainline series** (Not budget/mid-range variants)
+
+---
+
+## TIMEFRAME
+
+Focus on phones released:
+- **2025:** Current year flagships (highest priority)
+- **2024:** Recent flagships (high priority)
+- **2023:** Include if flagship-tier hardware (still relevant)
+- **Pre-2023:** Exclude (accessory market has moved on)
+
+---
+
+## EXAMPLE OUTPUT
+
+```
+## Samsung
+
+**Flagship Series:** Galaxy S, Galaxy Z (Foldables)
+
+**Current Flagship Models (2024-2025):**
+
+1. **Galaxy S25 Ultra** - January 2025
+   - Screen Size: 6.9"
+   - Special Features: S Pen, Titanium frame, 200MP camera, Qi2 ready
+   - Why Include: Top-tier flagship, S Pen is critical for accessories
+
+2. **Galaxy S25+** - January 2025
+   - Screen Size: 6.7"
+   - Special Features: Qi2 ready, large battery
+   - Why Include: Large flagship without S Pen, different case requirements
+
+3. **Galaxy Z Fold 6** - July 2024
+   - Screen Size: 7.6" inner / 6.3" outer
+   - Special Features: Foldable, S Pen support, dual screens
+   - Why Include: Premium foldable, unique screen protector needs (film only on inner)
+
+4. **Galaxy Z Flip 6** - July 2024
+   - Screen Size: 6.7" inner / 3.4" outer
+   - Special Features: Compact foldable, cover screen
+   - Why Include: Popular compact flagship, hinge protection critical
+
+**Exclude (Budget/Mid-range lines):**
+- Galaxy A series (A55, A35, A15, etc.)
+- Galaxy M series
+- Galaxy F series (India-focused)
+
+---
+
+## Google
+
+**Flagship Series:** Pixel
+
+**Current Flagship Models (2024-2025):**
+
+1. **Pixel 10 Pro XL** - October 2025 (expected)
+   - Screen Size: 6.8"
+   - Special Features: Qi2 magnetic, Google Tensor G5, advanced AI
+   - Why Include: Largest Pixel flagship, Qi2 native magnets
+
+2. **Pixel 10 Pro** - October 2025 (expected)
+   - Screen Size: 6.3"
+   - Special Features: Qi2, Tensor G5
+   - Why Include: Compact flagship option
+
+3. **Pixel 9 Pro XL** - August 2024
+   - Screen Size: 6.8"
+   - Special Features: Tensor G4, advanced cameras
+   - Why Include: Still current flagship tier, active sales
+
+**Exclude (Budget/Mid-range lines):**
+- Pixel "a" series (Pixel 8a, 9a, etc.)
+
+---
+```
+
+---
+
+## DELIVERABLE
+
+Provide a complete list for all 7 brands using the format above.
+
+For each phone, focus on:
+- **What makes it flagship** (processor, price, features)
+- **Accessory-relevant features** (S Pen, foldable screens, Alert Slider, wireless charging tech)
+- **Why XDA users care** (developer community, unique features)
+
+**NO ANALYSIS OR ESSAYS - JUST STRUCTURED FLAGSHIP PHONE DATA**

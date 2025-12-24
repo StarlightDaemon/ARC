@@ -1,0 +1,187 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Accessory Research Data",
+    "description": "Structured data for phone accessory guides",
+    "type": "object",
+    "required": [
+        "device",
+        "products",
+        "metadata"
+    ],
+    "properties": {
+        "metadata": {
+            "type": "object",
+            "required": [
+                "researchDate",
+                "source"
+            ],
+            "properties": {
+                "researchDate": {
+                    "type": "string",
+                    "format": "date",
+                    "description": "Date research was conducted (YYYY-MM-DD)"
+                },
+                "source": {
+                    "type": "string",
+                    "description": "LLM source (Claude, ChatGPT, etc.)"
+                },
+                "researcher": {
+                    "type": "string",
+                    "description": "Name of person who conducted research"
+                }
+            }
+        },
+        "device": {
+            "type": "object",
+            "required": [
+                "brand",
+                "model",
+                "criticalFeatures"
+            ],
+            "properties": {
+                "brand": {
+                    "type": "string",
+                    "description": "Manufacturer (OnePlus, Samsung, Google, etc.)"
+                },
+                "model": {
+                    "type": "string",
+                    "description": "Full device model name"
+                },
+                "criticalFeatures": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "Key features affecting accessories (Alert Slider, S Pen, etc.)"
+                },
+                "chargingSpecs": {
+                    "type": "object",
+                    "properties": {
+                        "wired": {
+                            "type": "string"
+                        },
+                        "wireless": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        },
+        "products": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "id",
+                    "category",
+                    "brand",
+                    "name",
+                    "specs",
+                    "pricing"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string",
+                        "description": "Unique slug (oneplus-sandstone-magnetic)"
+                    },
+                    "category": {
+                        "type": "string",
+                        "enum": [
+                            "case-official",
+                            "case-rugged",
+                            "case-everyday",
+                            "case-premium",
+                            "screen-protector",
+                            "charger",
+                            "accessory"
+                        ]
+                    },
+                    "brand": {
+                        "type": "string",
+                        "description": "Manufacturer of accessory"
+                    },
+                    "name": {
+                        "type": "string",
+                        "description": "Product name"
+                    },
+                    "specs": {
+                        "type": "object",
+                        "properties": {
+                            "alertSlider": {
+                                "type": "boolean"
+                            },
+                            "magnetic": {
+                                "type": "boolean"
+                            },
+                            "kickstand": {
+                                "type": "boolean"
+                            },
+                            "material": {
+                                "type": "string"
+                            },
+                            "dropRating": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "pricing": {
+                        "type": "object",
+                        "required": [
+                            "msrp",
+                            "currency"
+                        ],
+                        "properties": {
+                            "msrp": {
+                                "type": "number",
+                                "minimum": 0
+                            },
+                            "currency": {
+                                "type": "string",
+                                "default": "USD"
+                            }
+                        }
+                    },
+                    "links": {
+                        "type": "object",
+                        "properties": {
+                            "official": {
+                                "type": [
+                                    "string",
+                                    "null"
+                                ]
+                            },
+                            "amazon": {
+                                "type": [
+                                    "string",
+                                    "null"
+                                ]
+                            },
+                            "retailer": {
+                                "type": [
+                                    "string",
+                                    "null"
+                                ]
+                            },
+                            "retailerName": {
+                                "type": [
+                                    "string",
+                                    "null"
+                                ]
+                            }
+                        }
+                    },
+                    "availability": {
+                        "type": "string",
+                        "enum": [
+                            "in-stock",
+                            "pre-order",
+                            "out-of-stock",
+                            "not-released"
+                        ],
+                        "default": "in-stock"
+                    }
+                }
+            }
+        }
+    }
+}
