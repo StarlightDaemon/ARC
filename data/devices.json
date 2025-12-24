@@ -11,7 +11,46 @@
         "6.9\" Display"
       ],
       "releaseDate": "2025-08-28",
-      "productCount": 21
+      "productCount": 23
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 10 Pro",
+      "path": "phones/google/pixel-10-pro.html",
+      "icon": "\ud83d\udcf1",
+      "features": [
+        "Tensor G5",
+        "Qi2 Pixelsnap",
+        "6.7\" Display"
+      ],
+      "releaseDate": "2025-08-28",
+      "productCount": 42
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 10",
+      "path": "phones/google/pixel-10.html",
+      "icon": "\ud83d\udcf1",
+      "features": [
+        "Tensor G5",
+        "Qi2 Pixelsnap",
+        "6.3\" Display"
+      ],
+      "releaseDate": "2025-08-28",
+      "productCount": 44
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 10 Pro Fold",
+      "path": "phones/google/pixel-10-pro-fold.html",
+      "icon": "\ud83d\udcd6",
+      "features": [
+        "Foldable 8.0\"",
+        "Qi2 Pixelsnap",
+        "FlexHinge"
+      ],
+      "releaseDate": "2025-08-28",
+      "productCount": 33
     },
     {
       "brand": "Samsung",
@@ -69,6 +108,6 @@
   "metadata": {
     "lastUpdated": "2025-12-24",
     "totalDevices": 8,
-    "totalProducts": 149
+    "totalProducts": 151
   }
 }
