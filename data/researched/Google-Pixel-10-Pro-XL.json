@@ -75,7 +75,7 @@
                 "retailerName": null
             },
             "availability": "unknown",
-            "notes": "⚠️ URL/Price requires manual verification. Available on Google Store Japan.",
+            "notes": "\u26a0\ufe0f URL/Price requires manual verification. Available on Google Store Japan.",
             "source": "Sonar Run 1-3 only"
         },
         {
@@ -454,7 +454,7 @@
                 "retailerName": null
             },
             "availability": "unknown",
-            "notes": "⚠️ URL/Price requires manual verification. Extreme drop protection with graphene reinforcement.",
+            "notes": "\u26a0\ufe0f URL/Price requires manual verification. Extreme drop protection with graphene reinforcement.",
             "source": "Sonar Run 1-3 only"
         },
         {
@@ -482,7 +482,7 @@
                 "retailerName": null
             },
             "availability": "unknown",
-            "notes": "⚠️ URL/Price requires manual verification. Clear case with graphene impact reinforcement.",
+            "notes": "\u26a0\ufe0f URL/Price requires manual verification. Clear case with graphene impact reinforcement.",
             "source": "Sonar Run 1-3 only"
         },
         {
@@ -510,7 +510,7 @@
                 "retailerName": null
             },
             "availability": "unknown",
-            "notes": "⚠️ URL/Price requires manual verification. Sustainable compostable case.",
+            "notes": "\u26a0\ufe0f URL/Price requires manual verification. Sustainable compostable case.",
             "source": "Sonar Run 1-3 only"
         },
         {
@@ -593,6 +593,30 @@
             "availability": "in-stock",
             "notes": "Supports Pixel 10 Pro XL max charging speed (45W). USB-PD 3.1 PPS.",
             "source": "Gemini Run 1, 2, 3, 4"
+        },
+        {
+            "id": "spigen-optik-ez-fit",
+            "category": "lens-protector",
+            "brand": "Spigen",
+            "name": "Optik EZ Fit Lens Protector",
+            "specs": {
+                "material": "9H tempered glass",
+                "features": [
+                    "Fits flush behind camera lens",
+                    "Anti-flash reflection",
+                    "Oleophobic coating",
+                    "Compatible with all Spigen cases"
+                ]
+            },
+            "pricing": {
+                "msrp": 29.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.spigen.com/products/pixel-10-series-optik-ez-fit-lens-protector"
+            },
+            "availability": "in-stock",
+            "verified": true
         }
     ]
 }
