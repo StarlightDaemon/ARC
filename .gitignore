@@ -34,3 +34,16 @@ yarn-error.log*
 # Package manager locks (optional - keep package-lock.json for consistency)
 # package-lock.json
 # yarn.lock
+
+# ARC Project - Local Only (Never Commit)
+dashboard/                  # Local management dashboard
+*.db                       # SQLite databases
+__pycache__/              # Python cache
+*.pyc
+venv/                     # Virtual environments
+.pytest_cache/
+
+# ARC Project - Commit to GitHub
+# output/                 # ← HTML files for GitHub Pages (DO commit)
+# data/researched/        # ← Product data (DO commit)
+# build/n8n/*.example     # ← Config templates (DO commit)
