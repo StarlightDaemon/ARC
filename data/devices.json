@@ -1,113 +1,16 @@
 {
+  "last_updated": "2025-12-25T06:12:54.375148",
+  "total_devices": 1,
+  "total_products": 17,
   "devices": [
     {
-      "brand": "Google",
-      "model": "Pixel 10 Pro XL",
-      "path": "phones/google/pixel-10-pro-xl.html",
-      "icon": "\ud83d\udcf1",
-      "features": [
-        "Tensor G5",
-        "Qi2 Pixelsnap",
-        "6.9\" Display"
-      ],
-      "releaseDate": "2025-08-28",
-      "productCount": 23
-    },
-    {
-      "brand": "Google",
-      "model": "Pixel 10 Pro",
-      "path": "phones/google/pixel-10-pro.html",
-      "icon": "\ud83d\udcf1",
-      "features": [
-        "Tensor G5",
-        "Qi2 Pixelsnap",
-        "6.7\" Display"
-      ],
-      "releaseDate": "2025-08-28",
-      "productCount": 42
-    },
-    {
-      "brand": "Google",
-      "model": "Pixel 10",
-      "path": "phones/google/pixel-10.html",
-      "icon": "\ud83d\udcf1",
-      "features": [
-        "Tensor G5",
-        "Qi2 Pixelsnap",
-        "6.3\" Display"
-      ],
-      "releaseDate": "2025-08-28",
-      "productCount": 44
-    },
-    {
-      "brand": "Google",
-      "model": "Pixel 10 Pro Fold",
-      "path": "phones/google/pixel-10-pro-fold.html",
-      "icon": "\ud83d\udcd6",
-      "features": [
-        "Foldable 8.0\"",
-        "Qi2 Pixelsnap",
-        "FlexHinge"
-      ],
-      "releaseDate": "2025-08-28",
-      "productCount": 33
-    },
-    {
-      "brand": "Samsung",
-      "model": "Galaxy S25 Ultra",
-      "path": "phones/samsung/galaxy-s25-ultra.html",
-      "icon": "\ud83d\udcf1",
-      "features": [
-        "Snapdragon 8 Elite",
-        "S Pen",
-        "200MP Camera"
-      ],
-      "releaseDate": "2025-01-22",
-      "productCount": 3
-    },
-    {
-      "brand": "Samsung",
-      "model": "Galaxy Z Fold 7",
-      "path": "phones/samsung/galaxy-z-fold-7.html",
-      "icon": "\ud83d\udcd6",
-      "features": [
-        "Foldable 7.6\" Display",
-        "S Pen Support",
-        "Enhanced Hinge"
-      ],
-      "releaseDate": "2025-07-01",
-      "productCount": 2
-    },
-    {
-      "brand": "OnePlus",
-      "model": "OnePlus 13",
-      "path": "phones/oneplus/oneplus-13.html",
-      "icon": "\ud83d\udcf1",
-      "features": [
-        "100W SUPERVOOC",
-        "Hasselblad Camera",
-        "6000 mAh Battery"
-      ],
-      "releaseDate": "2025-01-07",
-      "productCount": 2
-    },
-    {
-      "brand": "Nothing",
-      "model": "Phone (3)",
-      "path": "phones/nothing/phone-(3).html",
-      "icon": "\u2728",
-      "features": [
-        "Glyph Interface",
-        "Transparent Design",
-        "Nothing OS 3.0"
-      ],
-      "releaseDate": "2025-03-01",
-      "productCount": 2
+      "slug": "samsung-galaxy-s25-ultra",
+      "name": "Samsung Galaxy S25 Ultra",
+      "brand": "samsung",
+      "product_count": 17,
+      "status": "complete",
+      "data_file": "data/researched/samsung-galaxy-s25-ultra/n8n-products.json",
+      "html_file": "phones/samsung/samsung-galaxy-s25-ultra.html"
     }
-  ],
-  "metadata": {
-    "lastUpdated": "2025-12-24",
-    "totalDevices": 8,
-    "totalProducts": 151
-  }
+  ]
 }
