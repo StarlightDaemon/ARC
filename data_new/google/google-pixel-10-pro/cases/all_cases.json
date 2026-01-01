@@ -1,0 +1,1036 @@
+{
+    "metadata": {
+        "researchDate": "2025-12-24",
+        "source": "Multi-LLM: Gemini 3.0 Pro (4 runs) + Sonar (3 runs)",
+        "researcher": "Multi-LLM Workflow",
+        "verification": "Table extraction from markdown research exports",
+        "notes": "Combined unique products from Gemini 4-run and Sonar 3-run methodology. All products magnetic (MagFit/Pixelsnap/Qi2) compatible."
+    },
+    "device": {
+        "brand": "Google",
+        "model": "Pixel 10 Pro",
+        "releaseDate": "2025-08-28",
+        "criticalFeatures": [
+            "Native Qi2 magnets (Pixelsnap) - built into device",
+            "Tensor G5 (TSMC 3nm) processor",
+            "6.7\" Super Actua Display (flat design)",
+            "Ultrasonic fingerprint sensor",
+            "Triple rear camera system",
+            "Android 16"
+        ],
+        "chargingSpecs": {
+            "wired": "45W USB-PD PPS",
+            "wireless": "25W Qi2 Pixelsnap (magnetic)"
+        }
+    },
+    "products": [
+        {
+            "id": "bellroy-leather-case",
+            "category": "case-hybrid",
+            "brand": "Bellroy",
+            "name": "Leather Case",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Premium Leather",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 55.0,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "otterbox-defender-pro-xt",
+            "category": "case-hybrid",
+            "brand": "OtterBox",
+            "name": "Defender Pro XT",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Rigid Shell/Rubber",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 47.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "mous-limitless-6.0-aramid",
+            "category": "case-hybrid",
+            "brand": "Mous",
+            "name": "Limitless 6.0 Aramid",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Aramid Fibre",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 64.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "zagg-rainier-snap",
+            "category": "case-hybrid",
+            "brand": "ZAGG",
+            "name": "Rainier Snap",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Graphene/TPU",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 69.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-ultra-hybrid-mag",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Ultra Hybrid Mag",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC/TPU",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 44.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "caseology-parallax-magfit",
+            "category": "case-hybrid",
+            "brand": "Caseology",
+            "name": "Parallax MagFit",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "TPU",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "ringke-onyx-magnetic",
+            "category": "case-hybrid",
+            "brand": "Ringke",
+            "name": "Onyx Magnetic",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Flexible TPU",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 25.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-liquid-air-magfit",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Liquid Air MagFit",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "TPU",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-rugged-armor-mag",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Rugged Armor Mag",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "TPU/Carbon Fiber",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "mous-super-thin-case",
+            "category": "case-hybrid",
+            "brand": "Mous",
+            "name": "Super Thin Case",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Polycarbonate",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 34.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "otterbox-symmetry-clear",
+            "category": "case-hybrid",
+            "brand": "OtterBox",
+            "name": "Symmetry Clear",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Polycarbonate",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 32.39,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "zagg-rainier-snap-pro",
+            "category": "case-hybrid",
+            "brand": "ZAGG",
+            "name": "Rainier Snap Pro",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Graphene",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 69.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "otterbox-defender-series-pro-",
+            "category": "case-hybrid",
+            "brand": "OtterBox",
+            "name": "Defender Series Pro XT",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Polycarbonate / Rubber",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 59.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-ultra-hybrid-magfit",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Ultra Hybrid MagFit",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "TPU / PC",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 44.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-tough-armor-magfit",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Tough Armor MagFit",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC / TPU / Foam",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 54.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "otterbox-symmetry-series",
+            "category": "case-hybrid",
+            "brand": "OtterBox",
+            "name": "Symmetry Series",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC / Synthetic Rubber",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 35.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "ringke-fusion-magnetic",
+            "category": "case-hybrid",
+            "brand": "Ringke",
+            "name": "Fusion Magnetic",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC / TPU",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 25.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "google-pixelsnap-case",
+            "category": "case-hybrid",
+            "brand": "Google",
+            "name": "Pixelsnap Case",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Silicone/PC",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-tough-armor-ai",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Tough Armor AI",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC/TPU/Foam",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 59.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "mous-limitless-6.0-black-",
+            "category": "case-hybrid",
+            "brand": "Mous",
+            "name": "Limitless 6.0 Black Leather",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Genuine Leather",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 64.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "otterbox-defender-xt-pro-clea",
+            "category": "case-hybrid",
+            "brand": "OtterBox",
+            "name": "Defender XT Pro Clear",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC / Rubber",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 47.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "google-pixelsnap-case-for-p",
+            "category": "case-hybrid",
+            "brand": "Google",
+            "name": "Pixelsnap Case for Pixel 10, Pixel 10 Pro or Pixel 10 Pro XL",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Silicone exterior + PC shell + microfiber lining[2]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "google-\u00d7-mous-mous-super-thin-clea",
+            "category": "case-hybrid",
+            "brand": "Google \u00d7 Mous",
+            "name": "Mous Super Thin Clear Case with Pixelsnap for Pixel 10, 10 Pro and 10 Pro XL",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Clear hard plastic shell with embedded magnets[18]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "otterbox-otterbox-defender-se",
+            "category": "case-hybrid",
+            "brand": "OtterBox",
+            "name": "OtterBox Defender Series Pro XT Case with Pixelsnap for Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Dual\u2011layer PC + synthetic rubber with magnets[9][19]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 69.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "otterbox-heavy\u2011duty-pixel-10-",
+            "category": "case-hybrid",
+            "brand": "OtterBox",
+            "name": "Heavy\u2011duty Pixel 10 and Pixel 10 Pro Case (clear/blue, magnetic)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC + TPE/TPU dual\u2011layer with magnetic ring[19][20]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 59.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "poetic-google-pixel-10/10-p",
+            "category": "case-hybrid",
+            "brand": "Poetic",
+            "name": "Google Pixel 10/10 Pro 5G Magsafe Case \u2013 Guardian Series",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Clear PC back + TPU bumper; some with built\u2011in screen protector[8][22]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 23.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "poetic-poetic-guardian-magp",
+            "category": "case-hybrid",
+            "brand": "Poetic",
+            "name": "Poetic Guardian MagPro Case for Google Pixel 10 Pro XL 5G (Compatible with MagSafe)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC + TPU full body with MagPro ring + screen protector[22]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 27.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "supcase-google-pixel-10/10-p",
+            "category": "case-hybrid",
+            "brand": "SUPCASE",
+            "name": "Google Pixel 10/10 Pro Unicorn Beetle PRO Rugged Phone Case (Mag)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Multi\u2011layer TPU + PC with built\u2011in screen protector and magnets[1][25]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 29.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "supcase-ub-grip-google-pixel",
+            "category": "case-hybrid",
+            "brand": "SUPCASE",
+            "name": "UB Grip Google Pixel 10 Pro XL Protective Phone Case (magnetic stand)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "TPU frame + PC back + metal/Al stand with N52 magnet[1][27][28]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 29.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "uag-pathfinder-clear-cas",
+            "category": "case-hybrid",
+            "brand": "UAG",
+            "name": "Pathfinder Clear Case with MagSafe for Pixel 10/10 Pro",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Co\u2011molded plastic shell + TPU bumpers + magnetic module[29][30]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 69.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-pixel-10-series-case",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Pixel 10 Series Case Rugged Armor (MagFit)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Flexible TPU with MagFit ring[12]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 24.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-pixel-10-series-case",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Pixel 10 Series Case Liquid Air (MagFit)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Single\u2011piece TPU with MagFit ring[10]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 24.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-pixel-10-series-case",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Pixel 10 Series Case Thin Fit (MagFit)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Hard PC back + TPU frame + MagFit ring[31]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 29.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-pixel-10-series-case",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Pixel 10 Series Case Ultra Hybrid Metal Ring (MagFit)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Clear TPU bumper + PC back + metal MagFit ring[32]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-pixel-10-series-case",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Pixel 10 Series Case Nano Pop (MagFit)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Soft\u2011touch silicone\u2011style outer + inner frame + MagFit ring[33]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 34.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "spigen-pixel-10-series-case",
+            "category": "case-hybrid",
+            "brand": "Spigen",
+            "name": "Pixel 10 Series Case Tough Armor / Slim Armor Pro (MagFit variants)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Dual\u2011layer TPU + PC with foam insert + MagFit ring[13]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "zagg-crystal-palace-snap-",
+            "category": "case-hybrid",
+            "brand": "ZAGG",
+            "name": "Crystal Palace Snap Magnetic Cell Phone Case \u2013 Pixel 10 / Pixel 10 Pro",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Clear D3O\u2011infused plastic with magnetic ring[14]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "the-pixel-case-the-pixel-case-rugge",
+            "category": "case-hybrid",
+            "brand": "The Pixel Case",
+            "name": "The Pixel Case Rugged MagSafe Case for Pixel 10 Pro",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "TPU bumper + PC back with MagSafe/Qi2 ring[11][3]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 35.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "the-pixel-case-pixel-10-pro-leather",
+            "category": "case-hybrid",
+            "brand": "The Pixel Case",
+            "name": "Pixel 10 Pro Leather / Wallet MagSafe cases (series)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Vegan or genuine leather over TPU/PC frame with magnets[3]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "thinborne-thinborne-aramid-fib",
+            "category": "case-hybrid",
+            "brand": "Thinborne",
+            "name": "Thinborne Aramid Fiber Qi2 Case for Pixel 10 Pro",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "600D aramid fiber shell with embedded magnetic ring[11][35]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 34.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "pitaka-magez\u2011style-aramid-f",
+            "category": "case-hybrid",
+            "brand": "PITAKA",
+            "name": "MagEZ\u2011style Aramid Fiber Case for Google Pixel 10 Pro (Amber Magnet Film)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Aramid fiber with \u201cAmber Magnet Film\u201d magnetic ring[6]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 59.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        },
+        {
+            "id": "dbramante1928-iceland-pro-qi-goog",
+            "category": "case-hybrid",
+            "brand": "dbramante1928",
+            "name": "Iceland Pro Qi (Google Pixel 10\u2011series)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "GRS\u2011certified recycled and recyclable plastic; Qi\u2011ready design[7]",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "Not available"
+            },
+            "availability": "in-stock",
+            "verified": false,
+            "source": "Multi-LLM research"
+        }
+    ]
+}

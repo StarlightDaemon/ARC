@@ -1,0 +1,646 @@
+{
+    "metadata": {
+        "researchDate": "2025-12-23",
+        "source": "Multi-LLM: Gemini 3.0 Pro (4 runs) + Sonar (3 runs)",
+        "researcher": "User + Multi-LLM Workflow",
+        "verification": "Two-tier URL verification (Tier 1 + Tier 2 cited)",
+        "notes": "Combined unique products from Gemini and Sonar same-chat re-prompting. Products marked with needsVerification require manual URL/price check."
+    },
+    "device": {
+        "brand": "Google",
+        "model": "Pixel 10 Pro XL",
+        "releaseDate": "2025-08-28",
+        "criticalFeatures": [
+            "Native Qi2 magnets (Pixelsnap) - built into device",
+            "Tensor G5 (TSMC 3nm) - first TSMC-manufactured Tensor",
+            "6.9\" Super Actua Display (flat)",
+            "Ultrasonic fingerprint sensor",
+            "Android 16 reference device"
+        ],
+        "chargingSpecs": {
+            "wired": "45W USB-PD PPS",
+            "wireless": "25W Qi2 Pixelsnap (magnetic)"
+        }
+    },
+    "products": [
+        {
+            "id": "google-pixelsnap-case",
+            "category": "case-official",
+            "brand": "Google",
+            "name": "Pixelsnap Case",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Silicone with 42-43% recycled materials, microfiber lining",
+                "dropRating": "Standard (hundreds of hours drop-tested)"
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://store.google.com/product/pixel_10_pro_phone_case?hl=en-US",
+                "amazon": null,
+                "retailer": "https://www.bestbuy.com/site/google-pixel-10-pro-xl-case-moonstone/6636590.p",
+                "retailerName": "Best Buy"
+            },
+            "availability": "in-stock",
+            "notes": "Official Google case with native Pixelsnap support",
+            "source": "Gemini Run 1-4 + Sonar Run 1-3"
+        },
+        {
+            "id": "casemate-tough-clear-pixelsnap",
+            "category": "case-clear",
+            "brand": "Case-Mate",
+            "name": "Tough Clear Case with Pixelsnap",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Clear TPU/copolyester with integrated magnets, scratch-resistant",
+                "dropRating": "Impact protection (no specific rating)"
+            },
+            "pricing": {
+                "msrp": null,
+                "currency": "USD",
+                "needsVerification": true
+            },
+            "links": {
+                "official": "https://store.google.com/jp/product/casemate_tough_clear_case_pixelsnap_pixel_10_pro?hl=ja",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "unknown",
+            "notes": "\u26a0\ufe0f URL/Price requires manual verification. Available on Google Store Japan.",
+            "source": "Sonar Run 1-3 only"
+        },
+        {
+            "id": "spigen-tough-armor-ai-magfit",
+            "category": "case-rugged",
+            "brand": "Spigen",
+            "name": "Tough Armor AI (MagFit)",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": true,
+                "material": "TPU, PC, and XRD Impact Foam",
+                "dropRating": "Military Grade (Extreme Protection Tech)"
+            },
+            "pricing": {
+                "msrp": 59.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.spigen.com/products/pixel-10-series-case-tough-armor-ai-magfit",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "AI-enhanced XRD foam placement for precision corner protection",
+            "source": "Gemini Run 1, 3, 4"
+        },
+        {
+            "id": "poetic-revolution",
+            "category": "case-rugged",
+            "brand": "Poetic",
+            "name": "Revolution",
+            "specs": {
+                "qi2Compatible": false,
+                "magnetic": false,
+                "fingerprint": true,
+                "kickstand": true,
+                "material": "TPU + PC dual layer",
+                "dropRating": "20 ft (Military Grade)"
+            },
+            "pricing": {
+                "msrp": 24.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.poeticcases.com/collections/google-pixel-10-pro-xl",
+                "amazon": null,
+                "retailer": "https://www.walmart.com/ip/Poetic-Revolution-Case-Google-Pixel-10-Pro-XL-5G-6-8-inch-Built-in-Screen-Protector-Work-Fingerprint-ID-Full-Body-Military-Grade-Shockproof-Protectiv/17646917156",
+                "retailerName": "Walmart"
+            },
+            "availability": "in-stock",
+            "notes": "Built-in screen protector with fingerprint stamp. Blocks wireless charging due to thickness.",
+            "source": "Gemini Run 1, 2, 3, 4"
+        },
+        {
+            "id": "poetic-guardian-magsafe",
+            "category": "case-rugged",
+            "brand": "Poetic",
+            "name": "Guardian MagSafe",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC Back + TPU Bumper",
+                "dropRating": "Military Grade"
+            },
+            "pricing": {
+                "msrp": 26.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.poeticcases.com/products/google-pixel-10-pro-xl-with-magsafe-guardian-case",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "MagSafe/Pixelsnap compatible with built-in screen protector",
+            "source": "Gemini Run 1"
+        },
+        {
+            "id": "supcase-ub-pro",
+            "category": "case-rugged",
+            "brand": "SUPCASE",
+            "name": "Unicorn Beetle Pro",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": false,
+                "fingerprint": true,
+                "kickstand": true,
+                "material": "Multi-layered TPU + PC",
+                "dropRating": "Military Grade (CNET drop test winner)"
+            },
+            "pricing": {
+                "msrp": 31.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://supcase.com/collections/pixel-10-10-pro-10-pro-xl",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Integrated screen protector, pop-out kickstand/ring holder",
+            "source": "Gemini Run 2, 3, 4"
+        },
+        {
+            "id": "otterbox-defender-pro-xt",
+            "category": "case-rugged",
+            "brand": "OtterBox",
+            "name": "Defender Series Pro XT (with Pixelsnap)",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Polycarbonate shell + synthetic rubber overmold",
+                "dropRating": "7x MIL-STD (182+ drop tests)"
+            },
+            "pricing": {
+                "msrp": 79.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.otterbox.com/en-us/google-pixel-10-pro-xl-case-dark-side/77-98150.html",
+                "amazon": null,
+                "retailer": "https://www.bestbuy.com/site/otterbox-defender-series-pro-xt-hard-shell-with-magnets-for-pixel-10-pro-xl-dark-side/6636603.p",
+                "retailerName": "Best Buy"
+            },
+            "availability": "in-stock",
+            "notes": "Holster serves as kickstand. Premium rugged protection.",
+            "source": "Gemini Run 2, 3, 4"
+        },
+        {
+            "id": "uag-scout",
+            "category": "case-rugged",
+            "brand": "UAG",
+            "name": "Scout Series",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Durable TPU with impact-resistant core",
+                "dropRating": "Military Grade"
+            },
+            "pricing": {
+                "msrp": 29.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.urbanarmorgear.com",
+                "amazon": null,
+                "retailer": "https://www.bestbuy.com/site/uag-scout-series-case-for-google-pixel-10-pro-xl-black/6636597.p",
+                "retailerName": "Best Buy"
+            },
+            "availability": "in-stock",
+            "notes": "Urban Armor Gear rugged protection",
+            "source": "Gemini Run 2"
+        },
+        {
+            "id": "ringke-fusion",
+            "category": "case-clear",
+            "brand": "Ringke",
+            "name": "Fusion",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Hybrid Polycarbonate + TPU",
+                "dropRating": "Standard"
+            },
+            "pricing": {
+                "msrp": 21.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.ringkestore.com/products/google-pixel-10-pro-xl-fusion",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Clear hybrid case with wireless charging support",
+            "source": "Gemini Run 1, 2"
+        },
+        {
+            "id": "ringke-onyx-magnetic",
+            "category": "case-everyday",
+            "brand": "Ringke",
+            "name": "Onyx Magnetic",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Anti-fingerprint granulate TPU with neodymium magnets",
+                "dropRating": "Military Grade (certified)"
+            },
+            "pricing": {
+                "msrp": 31.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.ringkestore.com/products/google-pixel-10-pro-xl-case-onyx-magnetic",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Built-in neodymium magnets for Pixelsnap",
+            "source": "Gemini Run 3, 4"
+        },
+        {
+            "id": "caseology-parallax-magfit",
+            "category": "case-everyday",
+            "brand": "Caseology",
+            "name": "Parallax MagFit",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "TPU with honeycomb texture",
+                "dropRating": "Military Grade (Air Cushion Technology)"
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.spigen.com/products/pixel-10-series-case-parallax-magfit",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "MagFit for Pixelsnap, Air Cushion protection",
+            "source": "Gemini Run 1, 2"
+        },
+        {
+            "id": "mous-limitless-6-aramid",
+            "category": "case-premium",
+            "brand": "Mous",
+            "name": "Limitless 6.0 (Aramid Fibre)",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Aramid Fibre, Polycarbonate, and AiroShock corners",
+                "dropRating": "High impact (survives serious drops)"
+            },
+            "pricing": {
+                "msrp": 69.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.mous.co/collections/google-pixel-cases",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Premium aramid fiber with integrated magnetic array. Multiple finishes available (Aramid/Walnut/Leather)",
+            "source": "Gemini Run 1, 2, 3, 4"
+        },
+        {
+            "id": "mous-super-thin",
+            "category": "case-slim",
+            "brand": "Mous",
+            "name": "Super Thin",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Polycarbonate (1.1mm thin)",
+                "dropRating": "Minimal / Everyday protection"
+            },
+            "pricing": {
+                "msrp": 44.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.mous.co/products/super-thin-pixel-magsafe-compatible-phone-case-jet_black",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Ultra-slim with integrated Pixelsnap magnets",
+            "source": "Gemini Run 1"
+        },
+        {
+            "id": "thinborne-600d-aramid",
+            "category": "case-premium",
+            "brand": "Thinborne",
+            "name": "600D Aramid Fiber Case",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "600D Aerospace-grade Aramid Fiber",
+                "dropRating": "Minimal (1.0mm profile, scratch/minor drop)"
+            },
+            "pricing": {
+                "msrp": 69.98,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://thinborne.com/collections/google-pixel-10-pro-xl-aramid-fiber-case",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Premium ultra-thin aramid fiber with MagSafe/Pixelsnap",
+            "source": "Gemini Run 1, 2, 3, 4"
+        },
+        {
+            "id": "dbrand-ghost-case",
+            "category": "case-clear",
+            "brand": "dbrand",
+            "name": "Ghost Case 2.0",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Non-yellowing clear composite",
+                "dropRating": "12 ft (corner bumpers)"
+            },
+            "pricing": {
+                "msrp": 49.95,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://dbrand.com/shop/ghost/pixel-10-pro-xl",
+                "amazon": null,
+                "retailer": "https://www.bestbuy.com/site/dbrand-ghost-case-with-pixelsnap-for-google-pixel-10-pro-xl-clear/6636605.p",
+                "retailerName": "Best Buy"
+            },
+            "availability": "in-stock",
+            "notes": "Ultra-powerful magnets, non-yellowing clear material",
+            "source": "Gemini Run 2, 3, 4"
+        },
+        {
+            "id": "zagg-rainier-snap",
+            "category": "case-rugged",
+            "brand": "ZAGG",
+            "name": "Rainier Snap",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Multi-layer with graphene, impact-absorbing corners, recycled plastics",
+                "dropRating": "22 ft, MIL-STD-810G 516"
+            },
+            "pricing": {
+                "msrp": null,
+                "currency": "USD",
+                "needsVerification": true
+            },
+            "links": {
+                "official": "https://www.zagg.com/rainier-snap-pixel-10-pro-xl",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "unknown",
+            "notes": "\u26a0\ufe0f URL/Price requires manual verification. Extreme drop protection with graphene reinforcement.",
+            "source": "Sonar Run 1-3 only"
+        },
+        {
+            "id": "zagg-crystal-palace-lite",
+            "category": "case-clear",
+            "brand": "ZAGG",
+            "name": "Crystal Palace Lite",
+            "specs": {
+                "qi2Compatible": true,
+                "magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Clear shell with graphene, anti-yellowing formulation",
+                "dropRating": "MIL-STD-810G 516"
+            },
+            "pricing": {
+                "msrp": null,
+                "currency": "USD",
+                "needsVerification": true
+            },
+            "links": {
+                "official": "https://www.zagg.com/crystal-palace-lite-pixel-10-pro-xl",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "unknown",
+            "notes": "\u26a0\ufe0f URL/Price requires manual verification. Clear case with graphene impact reinforcement.",
+            "source": "Sonar Run 1-3 only"
+        },
+        {
+            "id": "pela-eco-friendly",
+            "category": "case-eco",
+            "brand": "Pela",
+            "name": "Eco-Friendly Case",
+            "specs": {
+                "qi2Compatible": null,
+                "magnetic": false,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "Compostable Pela bioplastic blend, plant-based",
+                "dropRating": "Unknown (everyday protection)"
+            },
+            "pricing": {
+                "msrp": null,
+                "currency": "USD",
+                "needsVerification": true
+            },
+            "links": {
+                "official": "https://pelacase.com/collections/google-pixel-10-pro-xl-case",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "unknown",
+            "notes": "\u26a0\ufe0f URL/Price requires manual verification. Sustainable compostable case.",
+            "source": "Sonar Run 1-3 only"
+        },
+        {
+            "id": "dbrand-prism-2",
+            "category": "screen-protector",
+            "brand": "dbrand",
+            "name": "Prism 2.0",
+            "specs": {
+                "qi2Compatible": null,
+                "magnetic": false,
+                "fingerprint": true,
+                "kickstand": null,
+                "material": "Tempered Glass (7 on Mohs scale)",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 29.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://dbrand.com/shop/prism/pixel-10-pro-xl-tempered-glass-screen-protectors",
+                "amazon": null,
+                "retailer": null,
+                "retailerName": null
+            },
+            "availability": "in-stock",
+            "notes": "Designed for ultrasonic fingerprint sensors",
+            "source": "Gemini Run 1"
+        },
+        {
+            "id": "zagg-glass-elite",
+            "category": "screen-protector",
+            "brand": "ZAGG",
+            "name": "Glass Elite Screen Protector",
+            "specs": {
+                "qi2Compatible": null,
+                "magnetic": false,
+                "fingerprint": true,
+                "kickstand": null,
+                "material": "Aluminosilicate Glass",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 49.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.zagg.com",
+                "amazon": null,
+                "retailer": "https://www.bestbuy.com/site/zagg-glass-elite-screen-protector-for-google-pixel-10-pro-xl-clear/6636596.p",
+                "retailerName": "Best Buy"
+            },
+            "availability": "in-stock",
+            "notes": "Ultrasonic fingerprint compatible, anti-reflective, antimicrobial treatment. 5x stronger than traditional glass.",
+            "source": "Gemini Run 2, 3, 4"
+        },
+        {
+            "id": "google-45w-charger",
+            "category": "charger",
+            "brand": "Google",
+            "name": "45W USB-C Power Charger",
+            "specs": {
+                "qi2Compatible": null,
+                "magnetic": false,
+                "fingerprint": null,
+                "kickstand": null,
+                "material": "Plastic",
+                "dropRating": null
+            },
+            "pricing": {
+                "msrp": 29.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://store.google.com/product/usb_c_45w_charger",
+                "amazon": null,
+                "retailer": "https://www.bestbuy.com/site/google-45w-usb-c-power-charger-snow/6587825.p",
+                "retailerName": "Best Buy"
+            },
+            "availability": "in-stock",
+            "notes": "Supports Pixel 10 Pro XL max charging speed (45W). USB-PD 3.1 PPS.",
+            "source": "Gemini Run 1, 2, 3, 4"
+        },
+        {
+            "id": "spigen-optik-ez-fit",
+            "category": "lens-protector",
+            "brand": "Spigen",
+            "name": "Optik EZ Fit Lens Protector",
+            "specs": {
+                "material": "9H tempered glass",
+                "features": [
+                    "Fits flush behind camera lens",
+                    "Anti-flash reflection",
+                    "Oleophobic coating",
+                    "Compatible with all Spigen cases"
+                ]
+            },
+            "pricing": {
+                "msrp": 29.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.spigen.com/products/pixel-10-series-optik-ez-fit-lens-protector"
+            },
+            "availability": "in-stock",
+            "verified": true
+        },
+        {
+            "id": "spigen-thin-fit-magfit",
+            "category": "case-slim",
+            "brand": "Spigen",
+            "name": "Thin Fit (MagFit)",
+            "specs": {
+                "magnetic": true,
+                "qi2Compatible": true,
+                "fingerprint": true,
+                "kickstand": false,
+                "material": "PC + TPU hybrid construction",
+                "dropRating": "Military-Grade (Air Cushion Technology)"
+            },
+            "pricing": {
+                "msrp": 39.99,
+                "currency": "USD"
+            },
+            "links": {
+                "official": "https://www.spigen.com/products/pixel-10-series-case-thin-fit-magfit"
+            },
+            "availability": "in-stock",
+            "notes": "Ultra-slim design, MagFit/Pixelsnap compatible, precise cutouts. Compatible with Pixel 10/10 Pro/10 Pro XL.",
+            "verified": true
+        }
+    ]
+}

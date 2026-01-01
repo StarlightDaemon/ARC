@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "device": "Google Pixel 10",
+    "research_date": "2025-12-24",
+    "source": "Multi-LLM (Gemini 3-run + Sonar 2-run)",
+    "total_products": 44
+  },
+  "products": [
+    {
+      "brand": "Spigen",
+      "product": "Ultra Hybrid Metal Ring (MagFit)",
+      "price": 69.99,
+      "material": "TPU + Polycarbonate",
+      "magnetic": true
+    },
+    {
+      "brand": "Spigen",
+      "product": "Parallax (MagFit)",
+      "price": 39.99,
+      "material": "TPU + PC",
+      "magnetic": true
+    },
+    {
+      "brand": "OtterBox",
+      "product": "Symmetry Series Clear",
+      "price": 54.99,
+      "material": "PC + Synthetic Rubber",
+      "magnetic": true
+    },
+    {
+      "brand": "Mous",
+      "product": "Clarity 2.0 (Pixelsnap)",
+      "price": 74.99,
+      "material": "PC + TPU",
+      "magnetic": true
+    },
+    {
+      "brand": "UAG",
+      "product": "Pathfinder Clear",
+      "price": 59.95,
+      "material": "PC + TPU",
+      "magnetic": true
+    },
+    {
+      "brand": "Google",
+      "product": "Pixelsnap Qi2 Charger",
+      "price": 29.99,
+      "material": "TPU + PC",
+      "magnetic": true
+    },
+    {
+      "brand": "Google",
+      "product": "Pixelsnap Qi2 Charger with Stand",
+      "price": 49.99,
+      "material": "TPU + PC",
+      "magnetic": true
+    },
+    {
+      "brand": "Anker",
+      "product": "Qi2 15W Wireless Charging Pad",
+      "price": 29.99,
+      "material": "TPU + PC",
+      "magnetic": true
+    },
+    {
+      "brand": "Google",
+      "product": "Pixelsnap Silicone Case",
+      "price": 49.99,
+      "material": "Silicone/PC",
+      "magnetic": true
+    },
+    {
+      "brand": "OtterBox",
+      "product": "Defender XT Pro Clear",
+      "price": 47.99,
+      "material": "PC/Rubber",
+      "magnetic": true
+    },
+    {
+      "brand": "Mous",
+      "product": "Limitless 6.0",
+      "price": 69.99,
+      "material": "Aramid Fiber",
+      "magnetic": true
+    },
+    {
+      "brand": "Pitaka",
+      "product": "Aramid Fiber Ultra Slim",
+      "price": 53.99,
+      "material": "600D Fiber",
+      "magnetic": true
+    },
+    {
+      "brand": "Spigen",
+      "product": "Tough Armor Mag",
+      "price": 59.99,
+      "material": "TPU/PC/Foam",
+      "magnetic": true
+    },
+    {
+      "brand": "Poetic",
+      "product": "Revolution Series",
+      "price": 24.95,
+      "material": "PC/TPU",
+      "magnetic": true
+    },
+    {
+      "brand": "Supcase",
+      "product": "Unicorn Beetle Pro",
+      "price": 31.99,
+      "material": "TPU/PC",
+      "magnetic": true
+    },
+    {
+      "brand": "Zagg",
+      "product": "Crystal Palace Snap",
+      "price": 49.99,
+      "material": "Graphene",
+      "magnetic": true
+    },
+    {
+      "brand": "Ringke",
+      "product": "Fusion Magnetic Clear",
+      "price": 24.0,
+      "material": "PC/TPU",
+      "magnetic": true
+    },
+    {
+      "brand": "Spigen",
+      "product": "Rugged Armor MagFit",
+      "price": 39.99,
+      "material": "TPU",
+      "magnetic": true
+    },
+    {
+      "brand": "Google",
+      "product": "Pixelsnap Case",
+      "price": 49.99,
+      "material": "Silicone/PC",
+      "magnetic": true
+    },
+    {
+      "brand": "UAG",
+      "product": "Pathfinder Clear (Pixelsnap)",
+      "price": 59.95,
+      "material": "TPU/PC",
+      "magnetic": true
+    },
+    {
+      "brand": "Spigen",
+      "product": "Ultra Hybrid MagFit",
+      "price": 44.99,
+      "material": "PC/TPU",
+      "magnetic": true
+    },
+    {
+      "brand": "Spigen",
+      "product": "Liquid Air MagFit",
+      "price": 39.99,
+      "material": "TPU",
+      "magnetic": true
+    },
+    {
+      "brand": "Spigen",
+      "product": "Tough Armor MagFit",
+      "price": 59.99,
+      "material": "TPU/PC/Foam",
+      "magnetic": true
+    },
+    {
+      "brand": "Google",
+      "product": "- Pixelsnap Case for Pixel 10 / Pixel 10 Pro3",
+      "price": 49.99,
+      "material": "- Soft silicone exterior with plastic inner frame; at least 42% recycled materials by weight[6][1]",
+      "magnetic": true
+    },
+    {
+      "brand": "OtterBox",
+      "product": "- Defender XT Pro Clear Case with Magnets for Google Pixel 10 / Pixel 10 Pro4",
+      "price": 69.95,
+      "material": "- Multi\u2011layer TPU + polycarbonate with clear back[4]",
+      "magnetic": true
+    },
+    {
+      "brand": "SUPCASE",
+      "product": "- UB Pro Series Rugged Phone Case for Google Pixel 10 / Pixel 10 Pro12",
+      "price": 29.99,
+      "material": "- TPU bumper + hard PC back, integrated screen bezel/kickstand on some variants[12]",
+      "magnetic": true
+    },
+    {
+      "brand": "ZAGG",
+      "product": "- ZAGG Rainier Snap Cell Phone Case for Google Pixel 10 / Pixel 10 Pro14",
+      "price": 49.99,
+      "material": "- Impact\u2011resistant TPU/PC blend (Rainier line); clear or translucent finishes depending on colorway[14]",
+      "magnetic": true
+    },
+    {
+      "brand": "Mous",
+      "product": "- MagSafe Compatible Clear Phone Case for Pixel 1015",
+      "price": 49.99,
+      "material": "- Clear polycarbonate back with Mous\u2019s impact\u2011absorbing side material (AiroShock\u2011style); TPU edges.[15]",
+      "magnetic": true
+    },
+    {
+      "brand": "The",
+      "product": "- Magnetic Aluminum MagSafe Case for Pixel 102",
+      "price": 39.99,
+      "material": "- Aluminum frame + inner TPU or PC shell; raised 2 mm camera lip.[2]",
+      "magnetic": true
+    },
+    {
+      "brand": "The",
+      "product": "- 2\u2011in\u20111 Magnetic Leather Wallet Case for Pixel 102",
+      "price": 40.0,
+      "material": "- Vegan leather outer with detachable magnetic wallet + inner TPU shell.[2]",
+      "magnetic": true
+    },
+    {
+      "brand": "Thinborne",
+      "product": "- Ultra\u2011Thin Qi2\u2011Ready Pixel 10 Case (MagSafe\u2011compatible)17",
+      "price": 39.99,
+      "material": "- Rigid but thin composite (often aramid\u2011style) with integrated magnetic ring.[17]",
+      "magnetic": true
+    },
+    {
+      "brand": "Spigen",
+      "product": "- Liquid Air MagFit (Mag) Case for Pixel 10 series18",
+      "price": 24.99,
+      "material": "- Flexible TPU with textured back and Air Cushion corners.[11][18]",
+      "magnetic": true
+    },
+    {
+      "brand": "Spigen",
+      "product": "- Thin Fit MagFit Case for Pixel 10 series20",
+      "price": 29.99,
+      "material": "- Hard PC back + TPU frame (classic Thin Fit hybrid).[20]",
+      "magnetic": true
+    },
+    {
+      "brand": "Spigen",
+      "product": "- Nano Pop Mag Case for Pixel 10 series21",
+      "price": 34.99,
+      "material": "- Soft silicone\u2011style exterior with inner frame.[21]",
+      "magnetic": true
+    },
+    {
+      "brand": "Tech21",
+      "product": "- EvoClear Magnet for Google Pixel 10 / Pixel 10 Pro22",
+      "price": 39.99,
+      "material": "- Clear impact\u2011resistant TPU/PC blend.[22]",
+      "magnetic": true
+    },
+    {
+      "brand": "Ringke",
+      "product": "- Onyx Magnetic Case for Google Pixel 105",
+      "price": 16.99,
+      "material": "- Single\u2011piece TPU with textured back and micro\u2011dot sides.[5]",
+      "magnetic": true
+    },
+    {
+      "brand": "Elehold",
+      "product": "- Clear Magnetic Phone Case for Google Pixel 10 / 10 Pro23",
+      "price": 15.99,
+      "material": "- Clear Bayer\u2011plastic hybrid (matte translucent back) with TPU edges.[23]",
+      "magnetic": true
+    },
+    {
+      "brand": "Entronix",
+      "product": "- Magnetic Clear Case compatible with Pixel 10 / 10 Pro24",
+      "price": 16.99,
+      "material": "- Hard clear back with TPU bumper.[24]",
+      "magnetic": true
+    },
+    {
+      "brand": "Spigen",
+      "product": "- Slim Armor Essential S MagFit (clear) for Pixel 10 series19",
+      "price": 29.99,
+      "material": "- Clear TPU + PC hybrid shell.[19]",
+      "magnetic": true
+    },
+    {
+      "brand": "The",
+      "product": "- Transparent Magnetic Ring Case for Pixel 102",
+      "price": 29.99,
+      "material": "- TPU + PC anti\u2011yellowing clear shell with magnetic ring and 360\u00b0 kickstand.[2]",
+      "magnetic": true
+    },
+    {
+      "brand": "Punkcase",
+      "product": "- Pixel 10 Magnetic Wireless Charging Case \u2013 ClearMag Series25",
+      "price": 19.95,
+      "material": "- Clear scratch\u2011resistant acrylic back with TPU bumpers.[25]",
+      "magnetic": true
+    },
+    {
+      "brand": "The",
+      "product": "- Slim Matte MagSafe Case for Google Pixel 102",
+      "price": 29.99,
+      "material": "- 0.6 mm slim TPU with matte texture.[2]",
+      "magnetic": true
+    },
+    {
+      "brand": "Casebus",
+      "product": "- Bio Biodegradable Plant Fibre Phone Case for Google Pixel 1026",
+      "price": 24.99,
+      "material": "- Plant\u2011fiber composite, biodegradable eco\u2011plastic.[26]",
+      "magnetic": true
+    },
+    {
+      "brand": "Pela",
+      "product": "- Compostable Case for Google Pixel 10 / 10 Pro (e.g., Sage Green, Gingham Farmhouse)28",
+      "price": 59.95,
+      "material": "- Flax\u2011based bioplastic; fully compostable.[28][29]",
+      "magnetic": true
+    }
+  ]
+}

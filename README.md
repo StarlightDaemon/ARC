@@ -1,4 +1,4 @@
-# ARC - Accessory Research Catalog
+# ARC - Accessories Recommendation Catalog
 
 > Comprehensive phone case catalog for 41 flagship phones with verified Amazon links
 

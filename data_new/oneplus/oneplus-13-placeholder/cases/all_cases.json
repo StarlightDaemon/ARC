@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "researchDate": "2025-12-23",
+        "source": "Placeholder - Research Pending",
+        "researcher": "Placeholder",
+        "verification": "Pending",
+        "notes": "Placeholder data for layout testing"
+    },
+    "device": {
+        "brand": "OnePlus",
+        "model": "OnePlus 13",
+        "releaseDate": "2025-01-07",
+        "criticalFeatures": [
+            "Snapdragon 8 Elite processor",
+            "100W SUPERVOOC fast charging",
+            "6000 mAh battery",
+            "Hasselblad camera system",
+            "Alert Slider and IR blaster"
+        ],
+        "chargingSpecs": {
+            "wired": "100W SUPERVOOC",
+            "wireless": "50W wireless"
+        }
+    },
+    "products": [
+        {
+            "id": "oneplus-sandstone",
+            "category": "case-official",
+            "brand": "OnePlus",
+            "name": "Sandstone Bumper Case",
+            "material": "Sandstone texture",
+            "features": [
+                "Iconic sandstone feel",
+                "Precise fit",
+                "Official design"
+            ],
+            "price": {
+                "currency": "USD",
+                "amount": 34.99
+            },
+            "links": {
+                "amazon": "https://amazon.com",
+                "officialStore": "https://oneplus.com"
+            },
+            "verified": false
+        },
+        {
+            "id": "spigen-rugged-armor",
+            "category": "case-rugged",
+            "brand": "Spigen",
+            "name": "Rugged Armor",
+            "material": "Flexible TPU",
+            "features": [
+                "Carbon fiber texture",
+                "Spider-web pattern",
+                "Shock absorption"
+            ],
+            "price": {
+                "currency": "USD",
+                "amount": 19.99
+            },
+            "links": {
+                "amazon": "https://amazon.com"
+            },
+            "verified": false
+        }
+    ]
+}
