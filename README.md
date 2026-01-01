@@ -1,148 +1,124 @@
 # ARC - Accessories Recommendation Catalog
 
-> Comprehensive phone case catalog for 41 flagship phones with verified Amazon links
-
-A professionally formatted catalog featuring 1,553 case products across 7 brands. Browse by device, filter by protection level, and find the perfect case.
+A catalog of phone cases for current flagship devices. Browse by device and protection level to find cases that fit your needs.
 
 ---
 
-## ⚠️ Repository Notice
+## Supported Devices
 
-**This repository contains:**
-- ✅ **Website Files** - Production-ready phone case catalog (public use)
-- ⚠️ **Automation removed** - Scripts and tooling excluded from public repo
+### Apple iPhone (9 devices)
+- iPhone 16, 16 Plus, 16 Pro, 16 Pro Max
+- iPhone 15, 15 Plus, 15 Pro, 15 Pro Max
+- iPhone 16 (base model additional listing)
 
-**What's here:** The live website for browsing phone cases  
-**What's not:** The internal automation tools used to build it  
+### Samsung Galaxy (10 devices)
+- Galaxy S24, S24+, S24 Ultra
+- Galaxy S25, S25+, S25 Ultra
+- Galaxy Z Fold 6, Z Fold 7
+- Galaxy Z Flip 6, Z Flip 7
 
-This is a **catalog website**, not a development tool.
+### Google Pixel (8 devices)
+- Pixel 9, 9 Pro, 9 Pro XL, 9 Pro Fold
+- Pixel 10, 10 Pro, 10 Pro XL, 10 Pro Fold
 
----
+### OnePlus (5 devices)
+- 12, 12R, 13, 13R, Open
 
-## 🎯 Live Catalog
+### Nothing (3 devices)
+- Phone 2a, 2a Plus, Phone 3
 
-### Phone Coverage (41 Devices)
+### Motorola (3 devices)
+- Edge 50 Pro, Edge 50 Ultra, Razr 50 Ultra
 
-**Apple (9 phones)**  
-iPhone 16, 16 Plus, 16 Pro, 16 Pro Max  
-iPhone 15, 15 Plus, 15 Pro, 15 Pro Max
+### Xiaomi (3 devices)
+- 14 Ultra, 15, 15 Pro
 
-**Samsung (10 phones)**  
-Galaxy S24, S24+, S24 Ultra  
-Galaxy S25, S25+, S25 Ultra  
-Galaxy Z Fold 6, Z Fold 7  
-Galaxy Z Flip 6, Z Flip 7
-
-**Google (8 phones)**  
-Pixel 9, 9 Pro, 9 Pro XL, 9 Pro Fold  
-Pixel 10, 10 Pro, 10 Pro XL, 10 Pro Fold
-
-**OnePlus (5 phones)** | **Nothing (3 phones)** | **Motorola (3 phones)** | **Xiaomi (3 phones)**
-
-### Case Categories
-
-- 🏗️ **Hardened** - Military-grade protection (MIL-STD-810)
-- 🛡️ **Rugged** - Heavy-duty with extra features
-- 📱 **Basic** - Slim everyday protection
-- 🔲 **Clear** - Transparent minimal design
-
-### Data Quality
-
-- **1,553 products** with verified Amazon URLs
-- Professional formatting (IP68, MIL-STD-810G, TPU, etc.)
-- Detailed materials and features
-- Bullet-point specifications
+**Total: 41 devices**
 
 ---
 
-## 🚀 View the Catalog
+## Case Categories
 
+Each device has cases organized into four protection levels:
+
+- **🏗️ Hardened** - Maximum protection with military-grade certifications (MIL-STD-810)
+- **🛡️ Rugged** - Heavy-duty protection with reinforced corners and raised edges  
+- **📱 Basic** - Slim everyday protection that fits easily in pockets
+- **🔲 Clear** - Transparent designs that showcase the phone's original look
+
+---
+
+## Using This Catalog
+
+### Browse Locally
 ```bash
-# Clone and view locally
 git clone https://github.com/StarlightDaemon/ARC.git
 cd ARC
 python3 -m http.server 8080
-
 # Open http://localhost:8080
 ```
 
-**Or deploy to:**
-- GitHub Pages
-- Netlify
-- Vercel
-- Any static host
+### View Online
+Visit: https://starlightdaemon.github.io/ARC/
+
+### Features
+- Filter by brand or view all devices
+- Category-based organization
+- Product details include materials, protection ratings, and pricing
+- Direct purchase links for convenience
 
 ---
 
-## 📁 Structure
+## Project Structure
 
 ```
 ARC/
-├── index.html           # Homepage (device catalog)
-├── phones/              # Phone detail pages (41 pages)
+├── index.html          # Homepage with device cards
+├── phones/             # Individual device pages (41 total)
 │   ├── apple/
 │   ├── samsung/
 │   ├── google/
 │   └── ...
-├── data/                # Product data (JSON)
-│   ├── config.json      # Category definitions
-│   ├── index.json       # Auto-generated index
+├── data/               # Case information (JSON)
+│   ├── config.json     # Category definitions
+│   ├── index.json      # Device index
 │   └── {brand}/{phone}/cases/
 │       ├── hardened.json
 │       ├── rugged.json
 │       ├── basic.json
 │       └── clear.json
 └── public/
-    ├── css/             # Stylesheets
-    └── js/              # Frontend JavaScript
+    ├── css/            # Stylesheets
+    └── js/             # Frontend logic
 ```
 
 ---
 
-## 🎨 Features
+## Technical Details
 
-**Dynamic Loading**
-- Config-driven (no hardcoded categories)
-- Dynamic phone names in titles
-- Category-based filtering
-- Responsive design
-
-**Professional Formatting**
-- Features as bullet points with checkmarks
-- Proper technical term capitalization
-- Material labels
-- Clean product cards
-
-**Zero Dependencies**
-- Pure HTML/CSS/JavaScript
-- Fast loading
-- Works offline
+**Frontend:** Pure HTML/CSS/JavaScript (no framework dependencies)  
+**Data Format:** JSON files for easy updates and portability  
+**Hosting:** Works on any static host (GitHub Pages, Netlify, Vercel, etc.)
 
 ---
 
-## 📊 Statistics
+## About Purchase Links
 
-- **7 brands** covered
-- **41 phones** with complete data
-- **1,553 products** validated
-- **0 critical errors** in data
-- **155 data files** (4 categories × ~40 phones)
+This catalog includes links to products on Amazon and other retailers for user convenience. These are standard product links with no affiliate relationships or tracking. Always verify product compatibility with your specific device variant before purchasing.
 
 ---
 
-## 📝 License
+## Contributing
 
-MIT License - Fork and use as you wish
-
----
-
-## 🔗 Links
-
-- **Repository:** https://github.com/StarlightDaemon/ARC  
-- **Maintained by:** [StarlightDaemon](https://github.com/StarlightDaemon)
+This is a personal catalog project. Feel free to fork and adapt for your own use.
 
 ---
 
-## ⚠️ Disclaimer
+## License
 
-This catalog provides research and Amazon links for convenience. Always verify product compatibility with your specific device before purchasing. No affiliate relationships exist.
+MIT License - See LICENSE file for details
+
+---
+
+**Repository:** https://github.com/StarlightDaemon/ARC  
+**Maintained by:** [StarlightDaemon](https://github.com/StarlightDaemon)
