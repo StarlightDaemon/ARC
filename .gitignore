@@ -1,0 +1,61 @@
+# Node modules
+node_modules/
+
+# Build outputs (allow build/scripts and build/templates)
+dist/
+*.out
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+.cache/
+
+# Package manager locks (optional - keep package-lock.json for consistency)
+# package-lock.json
+# yarn.lock
+
+# ARC Project - Local Only (Never Commit)
+dashboard/                  # Local management dashboard
+*.db                       # SQLite databases
+__pycache__/              # Python cache
+*.pyc
+venv/                     # Virtual environments
+.pytest_cache/
+
+# ARC Project - Commit to GitHub
+# output/                 # ← HTML files for GitHub Pages (DO commit)
+# data/researched/        # ← Product data (DO commit)
+# build/n8n/*.example     # ← Config templates (DO commit)
+
+# API Keys and sensitive data
+.archive/old-workflows/
+build/n8n/IMPORT-SONAR-WORKFLOW.md
+
+# Automation tooling (internal use only)
+scripts/
+build/
+.agent/
+.project/
+data_old/
+test-*.py

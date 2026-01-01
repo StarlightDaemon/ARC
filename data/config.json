@@ -1,0 +1,141 @@
+{
+    "site": {
+        "name": "ARC",
+        "title": "Accessories Recommendation Catalog",
+        "description": "Comprehensive phone accessory guides with verified purchase links",
+        "github": "https://github.com/StarlightDaemon/ARC",
+        "maintainer": "StarlightDaemon"
+    },
+    "categories": {
+        "hardened": {
+            "emoji": "🏗️",
+            "title": "Hardened Cases",
+            "description": "Extreme/military-grade protection (5X+ MIL-STD)",
+            "protection_level": "5X+ MIL-STD",
+            "drop_rating": "15+ feet",
+            "target_users": "Construction workers, outdoor enthusiasts, extreme conditions",
+            "price_range": "$40-80",
+            "typical_brands": [
+                "CAT",
+                "Pelican",
+                "SUPCASE UB Pro",
+                "OtterBox Defender Pro"
+            ]
+        },
+        "rugged": {
+            "emoji": "🛡️",
+            "title": "Rugged Cases",
+            "description": "Heavy-duty drop protection (3X-4X MIL-STD)",
+            "protection_level": "3X-4X MIL-STD",
+            "drop_rating": "10-15 feet",
+            "target_users": "Active users, parents, accident-prone",
+            "price_range": "$30-60",
+            "typical_brands": [
+                "OtterBox Defender",
+                "UAG",
+                "Poetic Guardian"
+            ]
+        },
+        "basic": {
+            "emoji": "📱",
+            "title": "Basic/Slim Cases",
+            "description": "Slim everyday protection (1X-2X MIL-STD)",
+            "protection_level": "1X-2X MIL-STD",
+            "drop_rating": "4-8 feet",
+            "target_users": "Careful users prioritizing aesthetics",
+            "price_range": "$15-30",
+            "typical_brands": [
+                "Spigen Thin Fit",
+                "OtterBox Symmetry",
+                "Caseology",
+                "ESR"
+            ]
+        },
+        "clear": {
+            "emoji": "🔍",
+            "title": "Clear Cases",
+            "description": "Transparent cases showcasing phone design",
+            "protection_level": "Varies",
+            "drop_rating": "Varies (can be basic or rugged)",
+            "target_users": "Users wanting to show off phone color/design",
+            "price_range": "$15-40",
+            "typical_brands": [
+                "Spigen Ultra Hybrid",
+                "Clear with anti-yellowing"
+            ]
+        }
+    },
+    "sub_types": {
+        "magnetic": {
+            "emoji": "🧲",
+            "name": "Magnetic",
+            "description": "MagSafe, Qi2, or Pixelsnap compatible"
+        },
+        "battery": {
+            "emoji": "🔋",
+            "name": "Battery",
+            "description": "Integrated extended battery/charging"
+        },
+        "wallet": {
+            "emoji": "💳",
+            "name": "Wallet",
+            "description": "Integrated card slots (no flip cover)"
+        },
+        "folio": {
+            "emoji": "📖",
+            "name": "Folio",
+            "description": "Flip cover design with full front protection"
+        },
+        "mountable": {
+            "emoji": "🏔️",
+            "name": "Mountable",
+            "description": "Compatible with bike/car mount systems"
+        }
+    },
+    "brands": {
+        "apple": {
+            "name": "Apple",
+            "series_format": "iphone-{number}",
+            "variant_pattern": "iphone-{number}-{variant}"
+        },
+        "google": {
+            "name": "Google",
+            "series_format": "pixel-{number}",
+            "variant_pattern": "pixel-{number}-{variant}"
+        },
+        "samsung": {
+            "name": "Samsung",
+            "series_format": "galaxy-{model}",
+            "variant_pattern": "galaxy-{model}-{variant}"
+        },
+        "oneplus": {
+            "name": "OnePlus",
+            "series_format": "oneplus-{number}",
+            "variant_pattern": "oneplus-{number}{variant}"
+        },
+        "nothing": {
+            "name": "Nothing",
+            "series_format": "phone-{number}",
+            "variant_pattern": "phone-{number}{variant}"
+        }
+    },
+    "ignore_folders": [
+        "researched",
+        "schemas",
+        ".archive",
+        "devices",
+        "research-prompts",
+        "research-templates",
+        "Google",
+        "Samsung"
+    ],
+    "n8n": {
+        "endpoint": "http://localhost:5678",
+        "webhooks": {
+            "hardened": "/webhook/arc-cases-hardened",
+            "rugged": "/webhook/arc-cases-rugged",
+            "basic": "/webhook/arc-cases-basic",
+            "clear": "/webhook/arc-cases-clear"
+        }
+    }
+}

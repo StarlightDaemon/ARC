@@ -1,0 +1,675 @@
+/* Guide page styles - XDA-like rendering */
+
+.guide-sections {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem 0 3rem;
+}
+
+.guide-section {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    overflow: hidden;
+}
+
+.section-header {
+    padding: 0.75rem 1rem;
+    background: #f5f5f5;
+    border-bottom: 1px solid #ddd;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: #333;
+}
+
+/* MODERN GUIDE PAGE STYLES - DARK THEME */
+
+.guide-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+}
+
+.guide-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.guide-header h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    color: #b0b0b0;
+    margin-bottom: 0.75rem;
+}
+
+.guide-intro {
+    font-size: 1.05rem;
+    color: #909090;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+}
+
+/* Device Info Card */
+.device-info {
+    background: linear-gradient(135deg, #06a0ff 0%, #0580e0 100%);
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    max-width: 900px;
+    margin: 2rem auto;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+}
+
+.device-info h3 {
+    font-size: 1.35rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.features-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+}
+
+.features-list li {
+    padding-left: 1.25rem;
+    position: relative;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    color: #d0d0d0;
+}
+
+.features-list li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    font-weight: bold;
+    color: #06a0ff;
+    font-size: 0.9em;
+}
+
+.charging-specs {
+    display: flex;
+    gap: 2.5rem;
+    flex-wrap: wrap;
+    padding-top: 1.25rem;
+    justify-content: center;
+    text-align: left;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.charging-specs span {
+    font-size: 0.95rem;
+}
+
+/* Filter Bar */
+.filter-bar {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 2.5rem;
+    padding: 1.25rem;
+    background: #2a2a2a;
+    border-radius: 0;
+    justify-content: center;
+}
+
+.filter-btn {
+    padding: 0.6rem 1.25rem;
+    background: #252525;
+    border: 2px solid #e0e0e0;
+    border-radius: 0;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: #d0d0d0;
+}
+
+.filter-btn:hover {
+    border-color: #d0d0d0;
+    color: #d0d0d0;
+    transform: translateY(-1px);
+}
+
+.filter-btn.active {
+    background: linear-gradient(135deg, #06a0ff 0%, #0580e0 100%);
+    color: white;
+    border-color: #06a0ff;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+}
+
+/* Category Sections */
+.category-section {
+    margin-bottom: 3.5rem;
+}
+
+.category-section h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 3px solid #06a0ff;
+    display: inline-block;
+}
+
+/* Products Grid - Phone Case Layout */
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    justify-content: center;
+}
+
+@media (max-width: 768px) {
+    .products-grid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+}
+
+/* Product Cards - Tall Phone Case Style */
+.product-card {
+    background: #252525;
+    border: 1px solid #3a3a3a;
+    border-radius: 0;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+
+    /* Tall phone case layout */
+    display: flex;
+    flex-direction: column;
+    height: 420px;
+    max-width: 280px;
+    margin: 0 auto;
+}
+
+.product-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    border-color: #06a0ff;
+}
+
+.product-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+    gap: 1rem;
+    flex-shrink: 0;
+    /* Don't shrink header */
+}
+
+.product-header h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 1.3;
+    flex: 1;
+}
+
+.price {
+    font-size: 0.95rem;
+    font-weight: 600;
+    background: linear-gradient(135deg, #06a0ff 0%, #0580e0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    white-space: nowrap;
+}
+
+/* Specs - Summary Style with Badges */
+.specs {
+    padding: 1.25rem 1rem;
+    background: #2a2a2a;
+    border-radius: 0;
+    font-size: 0.88rem;
+    color: #d0d0d0;
+
+    /* Grow to fill space, center content */
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 140px;
+    min-height: 140px;
+    overflow: hidden;
+    gap: 0.75rem;
+    margin-bottom: auto;
+    line-height: 1.5;
+}
+
+.specs .summary-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.specs .badge {
+    background: #252525;
+    padding: 0.35rem 0.75rem;
+    border-radius: 0;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #06a0ff;
+    border: 1px solid #3a3a3a;
+}
+
+.specs .material-text {
+    color: #d0d0d0;
+    font-size: 0.82rem;
+    line-height: 1.4;
+}
+
+/* Purchase Links - Stacked at Bottom */
+.purchase-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    margin-top: 1rem;
+    flex-shrink: 0;
+}
+
+.btn-primary,
+.btn-secondary {
+    padding: 0.65rem 1rem;
+    border-radius: 0;
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    text-align: center;
+    width: 100%;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #06a0ff 0%, #0580e0 100%);
+    color: white;
+    border: none;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+    text-decoration: none;
+}
+
+.btn-secondary {
+    background: #252525;
+    color: #06a0ff;
+    border: 2px solid #06a0ff;
+}
+
+.btn-secondary:hover {
+    background: #06a0ff;
+    color: white;
+    text-decoration: none;
+    transform: translateY(-2px);
+}
+
+/* Footer */
+.guide-footer {
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 3rem;
+    border-top: 2px solid #e0e0e0;
+    color: #d0d0d0;
+    font-size: 0.9rem;
+}
+
+.guide-footer p {
+    margin: 0.5rem 0;
+}
+
+.guide-footer em {
+    color: #999;
+}
+
+/* Preview - XDA-style rendering (for BBCode sections if needed) */
+.section-preview {
+    padding: 1.25rem;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.section-preview h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 1rem;
+    color: #000;
+}
+
+.section-preview h3 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin: 1.25rem 0 0.75rem;
+    color: #000;
+}
+
+.section-preview p {
+    margin: 0.5rem 0;
+    text-align: center;
+}
+
+.section-preview em {
+    font-style: italic;
+}
+
+.section-preview strong {
+    font-weight: bold;
+}
+
+.section-preview ul,
+.section-preview ol {
+    margin: 0.75rem auto;
+    padding-left: 2rem;
+    max-width: 400px;
+}
+
+.section-preview li {
+    margin: 0.25rem 0;
+}
+
+.section-preview table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    margin: 1rem 0;
+}
+
+.section-preview th,
+.section-preview td {
+    border: 1px solid #ccc;
+    padding: 8px 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.section-preview th {
+    background: #e8e8e8;
+    font-weight: bold;
+}
+
+.section-preview td {
+    background: #fff;
+}
+
+.section-preview a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.section-preview a:hover {
+    text-decoration: underline;
+}
+
+.section-preview hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #999, transparent);
+    margin: 1.5rem 0;
+}
+
+/* Spoiler/Details - collapsible sections */
+.section-preview details.spoiler {
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    margin: 1rem 0;
+}
+
+.section-preview details.spoiler summary {
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    background: #f0f0f0;
+    border-bottom: 1px solid #ddd;
+}
+
+.section-preview details.spoiler[open] summary {
+    border-radius: 0 4px 0 0;
+}
+
+.section-preview details.spoiler:not([open]) summary {
+    border-bottom: none;
+    border-radius: 0;
+}
+
+.section-preview .spoiler-content {
+    padding: 1rem;
+    font-size: 13px;
+    line-height: 1.6;
+}
+
+.section-preview .spoiler-content p {
+    text-align: left;
+}
+
+/* Copy button */
+.copy-section {
+    padding: 0.5rem 1rem;
+    background: #f5f5f5;
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.copy-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.4rem 0.75rem;
+    background: #333;
+    color: #fff;
+    border: none;
+    border-radius: 0;
+    font-size: 0.75rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+
+.copy-btn:hover {
+    background: #555;
+}
+
+.copy-btn.copied {
+    background: #2e7d32;
+}
+
+/* Toast notification */
+.toast {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    background: #333;
+    color: #fff;
+    padding: 0.6rem 1rem;
+    border-radius: 0;
+    font-size: 0.85rem;
+    transform: translateY(100px);
+    opacity: 0;
+    transition: all 0.2s ease;
+    z-index: 100;
+}
+
+.toast.show {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+/* Responsive design */
+@media (max-width: 640px) {
+    .guide-header h1 {
+        font-size: 1.75rem;
+    }
+
+    .guide-intro {
+        font-size: 1rem;
+    }
+
+    .device-info {
+        padding: 1.25rem;
+    }
+
+    .features-list {
+        grid-template-columns: 1fr;
+    }
+
+    .filter-btn {
+        font-size: 0.85rem;
+        padding: 0.5rem 1rem;
+    }
+
+    .product-card {
+        padding: 1.25rem;
+    }
+
+    .purchase-links {
+        flex-direction: column;
+    }
+
+    .btn-primary,
+    .btn-secondary {
+        width: 100%;
+    }
+}
+/* Related Accessories Section */
+.related-accessories {
+    margin: 4rem 0 3rem;
+    padding: 2rem;
+    background: #2a2a2a;
+    text-align: center;
+}
+
+.related-accessories h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 2rem;
+}
+
+.accessory-links {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.accessory-link {
+    background: #252525;
+    border: 1px solid #3a3a3a;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.accessory-link:hover {
+    border-color: #06a0ff;
+    transform: translateY(-4px);
+    text-decoration: none;
+}
+
+.accessory-link .icon {
+    font-size: 2.5rem;
+}
+
+.accessory-link .label {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.accessory-link .status {
+    font-size: 0.75rem;
+    color: #808080;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+@media (max-width: 640px) {
+    .accessory-links {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+}
+
+/* Collapsible Device Highlights */
+.device-info-wrapper {
+    margin: 2rem auto;
+    max-width: 900px;
+}
+
+.device-toggle {
+    width: 100%;
+    background: #2a2a2a;
+    border: 1px solid #3a3a3a;
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    transition: all 0.2s ease;
+}
+
+.device-toggle:hover {
+    background: #333333;
+    border-color: #06a0ff;
+}
+
+.device-toggle .toggle-icon {
+    color: #06a0ff;
+    font-size: 0.9rem;
+    transition: transform 0.3s ease;
+}
+
+.device-info.collapsed {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
+    padding: 0;
+}
+
+.device-info:not(.collapsed) {
+    max-height: 1000px;
+    opacity: 1;
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+}
+
+/* Two-line Product Titles */
+.product-header h3 .brand-name {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #a0a0a0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.25rem;
+}
+
+.product-header h3 .product-name {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 1.3;
+}
