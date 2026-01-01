@@ -59,3 +59,16 @@ build/
 .project/
 data_old/
 test-*.py
+
+# Database files
+*.db
+*.sqlite
+
+# Node/package managers
+package.json
+package-lock.json
+node_modules/
+
+# Old/test directories
+data_new/
+docs/
