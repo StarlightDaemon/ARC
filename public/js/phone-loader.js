@@ -1,7 +1,7 @@
 // Dynamic phone list and filter loader
 (async function () {
     try {
-        const response = await fetch('/data/index.json');
+        const response = await fetch('data/index.json');
         const index = await response.json();
 
         const grid = document.querySelector('.products-grid');

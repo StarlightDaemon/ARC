@@ -10,7 +10,7 @@ async function loadPhoneData() {
         // Load configuration
         let config;
         try {
-            const configResponse = await fetch('/data/config.json');
+            const configResponse = await fetch('../../data/config.json');
             config = await configResponse.json();
         } catch (error) {
             console.error('Failed to load config:', error);
@@ -22,7 +22,7 @@ async function loadPhoneData() {
         const categoryInfo = config.categories;
 
         // Scan for series structure
-        const indexResponse = await fetch('/data/index.json');
+        const indexResponse = await fetch('../../data/index.json');
         const index = await indexResponse.json();
 
         // Find the phone in the index
@@ -62,7 +62,7 @@ async function loadPhoneData() {
 
         for (const category of ['hardened', 'rugged', 'basic', 'clear']) {
             try {
-                const response = await fetch(`/${phonePath}/cases/${category}.json`);
+                const response = await fetch(`../../${phonePath}/cases/${category}.json`);
                 if (response.ok) {
                     const data = await response.json();
                     if (data.products && data.products.length > 0) {
