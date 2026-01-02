@@ -9,13 +9,30 @@
 </head>
 <body>
     <header>
-        <nav>
-            <div class="logo"><a href="../../index.html">ARC</a></div>
-            <div class="sticky-title" id="stickyTitle">Google Pixel 10 Accessories Guide</div>
-            <ul>
-                <li><a href="../../index.html">All Devices</a></li>
-                <li><a href="https://github.com/StarlightDaemon/ARC" target="_blank">GitHub</a></li>
-            </ul>
+        <nav aria-label="Main navigation">
+            <div class="nav-container">
+                <div class="logo">
+                    <a href="../../index.html">ARC</a>
+                </div>
+                
+                <div class="search-container">
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="search-input" 
+                        placeholder="Search for phone models..."
+                        aria-label="Search for phone models"
+                    />
+                    <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16zM19 19l-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                </div>
+                
+                <ul>
+                    <li><a href="../../index.html">All Devices</a></li>
+                    <li><a href="https://github.com/StarlightDaemon/ARC" target="_blank" rel="noopener">GitHub</a></li>
+                </ul>
+            </div>
         </nav>
     </header>
 
