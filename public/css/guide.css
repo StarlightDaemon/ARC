@@ -68,29 +68,28 @@
 }
 
 .features-list {
+    margin: 0;
+    padding: 0 0 0 1.25rem;
     list-style: none;
-    padding: 0;
-    margin: 0.5rem 0 0;
-    display: flex;
-    flex-direction: column;
-    gap: 0.35rem;
 }
 
 .features-list li {
-    padding-left: 1.25rem;
     position: relative;
-    font-size: 0.8rem;
+    padding-left: 0.5rem;
+    margin-bottom: 0.4rem;
+    color: #2d3436;
+    /* Darker for better contrast */
+    font-size: 0.82rem;
     line-height: 1.4;
-    color: #d0d0d0;
 }
 
 .features-list li::before {
-    content: "✓";
+    content: '✓';
     position: absolute;
-    left: 0;
+    left: -1rem;
+    color: #00b894;
+    /* Green checkmark */
     font-weight: bold;
-    color: #06a0ff;
-    font-size: 0.9em;
 }
 
 .charging-specs {
@@ -233,7 +232,8 @@
     background: #f8f9fa;
     border-radius: 8px;
     font-size: 0.88rem;
-    color: #636e72;
+    color: #2d3436;
+    /* Darker for better contrast */
 
     /* Grow to fill space, center content */
     flex-grow: 1;
@@ -261,12 +261,14 @@
     border-radius: 999px;
     font-size: 0.75rem;
     font-weight: 600;
-    color: #06a0ff;
-    border: 1px solid #06a0ff;
+    color: #0087d2;
+    /* Darker blue for better contrast */
+    border: 1px solid #0087d2;
 }
 
 .specs .material-text {
-    color: #636e72;
+    color: #2d3436;
+    /* Darker for better contrast */
     font-size: 0.82rem;
     line-height: 1.4;
 }
