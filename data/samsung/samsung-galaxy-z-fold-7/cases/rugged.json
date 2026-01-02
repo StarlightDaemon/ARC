@@ -17,7 +17,13 @@
       "protection_level": "rugged",
       "protection_rating": "DROP+ 3X MIL-STD-810G 516.6",
       "materials": "PC shell + TPU bumper + cactus leather alternative",
-      "features": "Hinge-protection, Raised-lip, Metal-buttons, Magnet-strong, Grip-texture"
+      "features": [
+        "Hinge-protection",
+        "Raised-lip",
+        "Metal-buttons",
+        "Magnet-strong",
+        "Grip-texture"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Fold 7",
@@ -34,7 +40,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops",
       "materials": "PC backplate + TPU frame",
-      "features": "Kickstand, Port-covers, Screen-lip, Hinge-protection"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Hinge-protection"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Fold 7",
@@ -51,7 +62,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 10ft drop",
       "materials": "Polycarbonate + silicone + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Fold 7",
@@ -68,7 +84,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 3X drop protection",
       "materials": "Multi-layer TPU + PC + rubber slipcover",
-      "features": "Port-covers, Holster-clip, Hinge-protection, Raised-camera-lip"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Hinge-protection",
+        "Raised-camera-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Fold 7",
@@ -85,7 +106,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 10ft drop",
       "materials": "TPU bumper + PC back + foam padding",
-      "features": "Kickstand, Hinge-protection, Screen-lip, Air-cushion-technology"
+      "features": [
+        "Kickstand",
+        "Hinge-protection",
+        "Screen-lip",
+        "Air-cushion-technology"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Fold 7",
@@ -102,7 +128,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate + TPU",
-      "features": "Hinge-protection, Raised-camera-lip, Port-covers"
+      "features": [
+        "Hinge-protection",
+        "Raised-camera-lip",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Fold 7",
@@ -119,7 +149,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 516.6 DROP+",
       "materials": "Multi-layer PC + TPU + inner foam",
-      "features": "Holster-clip, Port-covers, Screen-lip, Hinge-protection"
+      "features": [
+        "Holster-clip",
+        "Port-covers",
+        "Screen-lip",
+        "Hinge-protection"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Fold 7",
@@ -136,7 +171,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Dual-layer PC + TPU",
-      "features": "Kickstand, Raised-lip, Air-cushion, Hinge-protection"
+      "features": [
+        "Kickstand",
+        "Raised-lip",
+        "Air-cushion",
+        "Hinge-protection"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:39:42Z",

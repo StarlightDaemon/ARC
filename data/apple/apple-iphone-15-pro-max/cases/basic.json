@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -72,7 +87,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips, MagSafe"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips",
+        "MagSafe"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -90,7 +111,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -108,7 +134,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, MagSafe"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MagSafe"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -126,7 +158,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Air-pockets"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Air-pockets"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -144,7 +182,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Pocket-friendly"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Pocket-friendly"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -162,7 +205,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Raised-lips, Shock-absorbent, MagSafe"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Shock-absorbent",
+        "MagSafe"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -180,7 +229,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Yellowing-resistant"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Yellowing-resistant"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -198,7 +252,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Precise-cutouts"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Precise-cutouts"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -216,7 +275,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -234,7 +298,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Raised-lips, Wireless-charging"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Wireless-charging"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -252,7 +321,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -270,7 +344,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:31:06Z",

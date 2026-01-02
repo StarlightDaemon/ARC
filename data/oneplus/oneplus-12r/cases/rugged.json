@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Kickstand, Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -34,7 +39,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft+",
       "materials": "Polycarbonate plates + TPU core",
-      "features": "Port-covers, Screen-lip, Raised bezels"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -51,7 +60,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU bumper + built-in pet screen protector",
-      "features": "Kickstand, Port-covers, Built-in-screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Built-in-screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -68,7 +82,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Dual-layer PC + TPU with foam padding",
-      "features": "Kickstand, Port-covers, Screen-lip, Raised-camera-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Raised-camera-lip"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -85,7 +104,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "TPU bumper + PC backplate + metal accents",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -102,7 +125,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "PC backplate + TPU frame",
-      "features": "Port-covers, Screen-lip, Raised-edges"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised-edges"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -119,7 +146,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop tested",
       "materials": "PC + TPU + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -136,7 +168,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Dual-layer PC + TPU",
-      "features": "Kickstand, Screen-lip, Raised-edges"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised-edges"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -153,7 +189,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "TPU bumper + PC back + tempered glass screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -170,7 +211,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate plate + TPU bumper + alloy reinforcement",
-      "features": "Screen-lip, Port-covers, Raised bezels"
+      "features": [
+        "Screen-lip",
+        "Port-covers",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -187,7 +232,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU frame + built-in pet screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -204,7 +254,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "Polycarbonate shell + TPU bumper",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 12R",
@@ -221,7 +275,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Dual-layer PC + TPU with foam padding",
-      "features": "Kickstand, Screen-lip, Raised bezels"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:51:57Z",

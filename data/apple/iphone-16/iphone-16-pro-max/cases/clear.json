@@ -16,7 +16,13 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, MagSafe compatible, Raised bezels, Air cushion technology, Scratch resistant",
+      "features": [
+        "Anti-yellowing",
+        "MagSafe compatible",
+        "Raised bezels",
+        "Air cushion technology",
+        "Scratch resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -34,7 +40,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Shock absorption, Raised bezels, Scratch resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock absorption",
+        "Raised bezels",
+        "Scratch resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -52,7 +63,13 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Patented polymer",
-      "features": "Anti-yellowing, 10ft drop protection, Microfiber lining, Scratch resistant, Showcases device design",
+      "features": [
+        "Anti-yellowing",
+        "10ft drop protection",
+        "Microfiber lining",
+        "Scratch resistant",
+        "Showcases device design"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -63,14 +80,20 @@
       "url": "https://www.amazon.com/dp/B0D7G5F8H2",
       "product_brand": "ESR",
       "product_model": "Zero Yellow",
-      "title": "ESR for iPhone 16 Pro Max Case Clear with 360° Rotating Kickstand, Anti-Yellowing",
+      "title": "ESR for iPhone 16 Pro Max Case Clear with 360\u00b0 Rotating Kickstand, Anti-Yellowing",
       "price": "$17.99",
       "category": "cases-and-protection",
       "case_type": "clear",
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC",
-      "features": "Anti-yellowing, MagSafe compatible, Kickstand, Raised bezels, Scratch resistant",
+      "features": [
+        "Anti-yellowing",
+        "MagSafe compatible",
+        "Kickstand",
+        "Raised bezels",
+        "Scratch resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -88,7 +111,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU sides + PC back",
-      "features": "Anti-yellowing, Military grade drop protection, Raised bezels, Scratch resistant",
+      "features": [
+        "Anti-yellowing",
+        "Military grade drop protection",
+        "Raised bezels",
+        "Scratch resistant"
+      ],
       "yellowing_resistance": true
     }
   ],

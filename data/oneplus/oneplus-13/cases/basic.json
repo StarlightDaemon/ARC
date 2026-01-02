@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU + PC",
-      "features": "Slim, Wireless-charging, Raised-lips, Anti-yellowing"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Anti-yellowing"
+      ]
     },
     {
       "device_name": "OnePlus 13",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus 13",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC + synthetic rubber",
-      "features": "Slim, Wireless-charging, Raised-lips, Pocket-friendly"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Pocket-friendly"
+      ]
     },
     {
       "device_name": "OnePlus 13",
@@ -72,7 +87,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU + PC",
-      "features": "Slim, Grip-texture, Raised-lips, Wireless-charging"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Wireless-charging"
+      ]
     },
     {
       "device_name": "OnePlus 13",
@@ -90,7 +110,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU + PC",
-      "features": "Slim, Wireless-charging, Raised-lips, Kickstand"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "OnePlus 13",
@@ -108,7 +133,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, Anti-yellowing"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Anti-yellowing"
+      ]
     },
     {
       "device_name": "OnePlus 13",
@@ -126,7 +156,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus 13",
@@ -144,7 +179,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Moderate-protection, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Moderate-protection",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus 13",
@@ -162,7 +202,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Grip-texture, Raised-lips, Wireless-charging"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Wireless-charging"
+      ]
     },
     {
       "device_name": "OnePlus 13",
@@ -180,7 +225,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Raised-lips, MagSafe"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "MagSafe"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:46:31Z",

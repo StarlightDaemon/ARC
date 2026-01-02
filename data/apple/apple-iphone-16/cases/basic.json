@@ -18,7 +18,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Magfit, Raised-lips, Grip-texture"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Magfit",
+        "Raised-lips",
+        "Grip-texture"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -36,7 +42,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Magfit"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Magfit"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -54,7 +66,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, Clear"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Clear"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -72,7 +89,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, MagSafe"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MagSafe"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -90,7 +113,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips, MagSafe"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips",
+        "MagSafe"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -108,7 +137,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Precise-cutouts, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Precise-cutouts",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -126,7 +160,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -144,7 +183,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Moderate-protection, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Moderate-protection",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -162,7 +206,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -180,7 +229,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -198,7 +252,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Magfit, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Magfit",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -216,7 +275,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -234,7 +298,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, Moderate-protection"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Moderate-protection"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -252,7 +321,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Raised-lips, Moderate-protection"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Moderate-protection"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -270,7 +344,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:19:19Z",

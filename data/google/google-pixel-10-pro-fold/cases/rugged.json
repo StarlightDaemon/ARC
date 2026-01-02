@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 3X Drop Tested",
       "materials": "Two-piece PC shell + TPU layers",
-      "features": "Raised-screen-lip, Raised-camera-lip, Hinge-protection, Antimicrobial-coating"
+      "features": [
+        "Raised-screen-lip",
+        "Raised-camera-lip",
+        "Hinge-protection",
+        "Antimicrobial-coating"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -34,7 +39,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft Drop Protection",
       "materials": "PC shell + TPU bumper",
-      "features": "Hinge-shield, Raised-bezels, Air-cushion"
+      "features": [
+        "Hinge-shield",
+        "Raised-bezels",
+        "Air-cushion"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -51,7 +60,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 Drop Tests, 5ft+ Drops",
       "materials": "Polycarbonate + alloy frame + TPU",
-      "features": "Port-covers, Raised-screen-lip, Kickstand"
+      "features": [
+        "Port-covers",
+        "Raised-screen-lip",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -68,7 +81,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft Drop Tested",
       "materials": "PC back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -85,7 +103,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft Drop Tested",
       "materials": "TPU bumper + PC panels",
-      "features": "Kickstand, Port-covers, Screen-lip, Built-in-screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Built-in-screen-protector"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:36:01Z",

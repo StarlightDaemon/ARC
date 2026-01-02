@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "DROP+ 5X MIL-STD-810G 516.6 (10ft+ drop)",
       "materials": "Polycarbonate shell + TPU slipcover + polycarbonate holster",
-      "features": "Kickstand, Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro",
@@ -34,7 +39,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G (20ft drop)",
       "materials": "PC shell + TPU bumper",
-      "features": "MagSafe, Port-covers, Screen-lip, Kickstand"
+      "features": [
+        "MagSafe",
+        "Port-covers",
+        "Screen-lip",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro",
@@ -51,7 +61,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 20ft drop",
       "materials": "PC + TPU + built-in screen protector",
-      "features": "Screen-protector, Kickstand, Port-covers"
+      "features": [
+        "Screen-protector",
+        "Kickstand",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro",
@@ -68,7 +82,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops from 4ft",
       "materials": "Polycarbonate + TPU",
-      "features": "Port-covers, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro",
@@ -85,7 +102,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G enhanced",
       "materials": "Kevlar + PC + TPU Multi-layer",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro",
@@ -102,7 +123,13 @@
       "protection_level": "rugged",
       "protection_rating": "DROP+ | 5X MIL-STD-810G 516.6",
       "materials": "Polycarbonate shell + TPU slipcover + polycarbonate holster",
-      "features": "Kickstand, Port-covers, Screen-lip, Holster-clip, Camera-bumpers"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip",
+        "Camera-bumpers"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro",
@@ -119,7 +146,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G",
       "materials": "PC shell + TPU bumper",
-      "features": "MagSafe, Reinforced-corners, Textured-grip, Screen-lip"
+      "features": [
+        "MagSafe",
+        "Reinforced-corners",
+        "Textured-grip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro",
@@ -136,7 +168,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 20ft drop",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "Built-in-screen-protector, Kickstand, Port-covers, Camera-lens-protector"
+      "features": [
+        "Built-in-screen-protector",
+        "Kickstand",
+        "Port-covers",
+        "Camera-lens-protector"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro",
@@ -153,7 +190,13 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops from 8ft",
       "materials": "5-layer protection with kevlar + PC + TPU",
-      "features": "Kickstand, Port-covers, Oversized-buttons, Screen-lip, MagSafe"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Oversized-buttons",
+        "Screen-lip",
+        "MagSafe"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro",
@@ -170,7 +213,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 810G",
       "materials": "Multi-layer polycarbonate + synthetic rubber slipcover",
-      "features": "Port-covers, Screen-lip, Holster, Kickstand"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster",
+        "Kickstand"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:29:19Z",

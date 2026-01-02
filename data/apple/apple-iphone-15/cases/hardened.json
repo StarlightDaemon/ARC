@@ -15,7 +15,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + tempered glass screen protector",
-      "features": "MIL-STD-810G-516.6-5x, IP68, Multi-layer, Built-in-screen, Magnet-ring, Port-covers",
+      "features": [
+        "MIL-STD-810G-516.6-5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Magnet-ring",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -31,7 +38,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU",
-      "features": "MIL-STD-810G-26-drops, Multi-layer, Shock-proof, Raised-edges",
+      "features": [
+        "MIL-STD-810G-26-drops",
+        "Multi-layer",
+        "Shock-proof",
+        "Raised-edges"
+      ],
       "rating": "4.5"
     },
     {
@@ -47,7 +59,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + holster",
-      "features": "MIL-STD-810G-5x, Multi-layer, Port-covers, Holster, Dust-plugs",
+      "features": [
+        "MIL-STD-810G-5x",
+        "Multi-layer",
+        "Port-covers",
+        "Holster",
+        "Dust-plugs"
+      ],
       "rating": "4.7"
     },
     {
@@ -63,7 +81,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + alloy frame",
-      "features": "MIL-STD-810G-6x, IP68, Multi-layer, Built-in-screen, Metal-frame",
+      "features": [
+        "MIL-STD-810G-6x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Metal-frame"
+      ],
       "rating": "4.4"
     },
     {
@@ -79,7 +103,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + aluminum alloy + screen protector",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Built-in-screen, Metal-reinforcement",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Metal-reinforcement"
+      ],
       "rating": "4.6"
     },
     {
@@ -95,7 +125,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + alloy frame",
-      "features": "MIL-STD-810 5x, IP68, Multi-layer, Built-in-screen, Port-covers",
+      "features": [
+        "MIL-STD-810 5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -111,7 +147,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + rubber",
-      "features": "MIL-STD-810 6x, IP68, Multi-layer, Belt-clip",
+      "features": [
+        "MIL-STD-810 6x",
+        "IP68",
+        "Multi-layer",
+        "Belt-clip"
+      ],
       "rating": "4.5"
     },
     {
@@ -127,7 +168,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + holster",
-      "features": "MIL-STD-810 7x, Multi-layer, Holster, Port-covers",
+      "features": [
+        "MIL-STD-810 7x",
+        "Multi-layer",
+        "Holster",
+        "Port-covers"
+      ],
       "rating": "4.7"
     },
     {
@@ -143,7 +189,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + silicone",
-      "features": "MIL-STD-810 6x, IP68, Multi-layer, Built-in-screen",
+      "features": [
+        "MIL-STD-810 6x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen"
+      ],
       "rating": "4.4"
     },
     {
@@ -159,7 +210,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Aerospace aluminum + polycarbonate + TPU",
-      "features": "MIL-STD-810 10x, IP68, Multi-layer, Built-in-screen, Metal-frame",
+      "features": [
+        "MIL-STD-810 10x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Metal-frame"
+      ],
       "rating": "4.6"
     },
     {
@@ -175,7 +232,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "MIL-STD-810G-26-drops, Multi-layer, Built-in-screen, IP68-waterproof, Port-covers",
+      "features": [
+        "MIL-STD-810G-26-drops",
+        "Multi-layer",
+        "Built-in-screen",
+        "IP68-waterproof",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -191,7 +254,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + holster",
-      "features": "MIL-STD-810G-20-drops, Multi-layer, Port-covers, Dust-proof",
+      "features": [
+        "MIL-STD-810G-20-drops",
+        "Multi-layer",
+        "Port-covers",
+        "Dust-proof"
+      ],
       "rating": "4.7"
     },
     {
@@ -207,7 +275,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + impact-absorbing foam",
-      "features": "MIL-STD-810G-26-drops, Multi-layer, IP68-waterproof, Built-in-screen-protector",
+      "features": [
+        "MIL-STD-810G-26-drops",
+        "Multi-layer",
+        "IP68-waterproof",
+        "Built-in-screen-protector"
+      ],
       "rating": "4.5"
     },
     {
@@ -223,7 +296,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + alloy frame",
-      "features": "MIL-STD-810G-30-drops, Multi-layer, IP68-waterproof, Built-in-screen, Metal-chain",
+      "features": [
+        "MIL-STD-810G-30-drops",
+        "Multi-layer",
+        "IP68-waterproof",
+        "Built-in-screen",
+        "Metal-chain"
+      ],
       "rating": "4.6"
     },
     {
@@ -239,7 +318,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Aluminum alloy + polycarbonate + TPU",
-      "features": "MIL-STD-810G-30-drops, Multi-layer, Built-in-screen, IP68-waterproof, Mag-safe",
+      "features": [
+        "MIL-STD-810G-30-drops",
+        "Multi-layer",
+        "Built-in-screen",
+        "IP68-waterproof",
+        "Mag-safe"
+      ],
       "rating": "4.7"
     }
   ],

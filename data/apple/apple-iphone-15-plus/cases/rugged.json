@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "DROP+ 5X MIL-STD-810G 516.6",
       "materials": "Polycarbonate shell + TPU slipcover + PC holster",
-      "features": "Kickstand, Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -34,7 +39,12 @@
       "protection_level": "rugged",
       "protection_rating": "CNET Drop Test Winner (20ft+ equivalent)",
       "materials": "TPU + PC + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -51,7 +61,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 516.6 (26 drops)",
       "materials": "PC shell + TPU frame",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -68,7 +82,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 516.6",
       "materials": "Polycarbonate + synthetic rubber",
-      "features": "Holster-clip, Port-covers, Screen-lip, Kickstand"
+      "features": [
+        "Holster-clip",
+        "Port-covers",
+        "Screen-lip",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -85,7 +104,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 516.6",
       "materials": "TPU bumper + PC shell",
-      "features": "Screen-lip, Port-covers"
+      "features": [
+        "Screen-lip",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -102,7 +124,12 @@
       "protection_level": "rugged",
       "protection_rating": "DROP+ | 5X MIL-STD-810G 516.6",
       "materials": "Polycarbonate shell + TPU slipcover + polycarbonate holster",
-      "features": "Kickstand, Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -119,7 +146,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G | CNET Drop Test Winner",
       "materials": "TPU + PC + built-in screen protector",
-      "features": "Screen-protector, Kickstand, Port-covers"
+      "features": [
+        "Screen-protector",
+        "Kickstand",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -136,7 +167,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G | 26 drops from 4ft",
       "materials": "PC shell + TPU bumper",
-      "features": "Port-covers, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -153,7 +187,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G | 26 drops",
       "materials": "Polycarbonate + TPU + alloy frame",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -170,7 +208,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 516.6 | 3X military standard",
       "materials": "Synthetic rubber slipcover + polycarbonate shell + holster",
-      "features": "Holster-clip, Port-covers, Screen-lip, Kickstand"
+      "features": [
+        "Holster-clip",
+        "Port-covers",
+        "Screen-lip",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -187,7 +230,13 @@
       "protection_level": "rugged",
       "protection_rating": "DROP+ 5X MIL-STD-810G 516.6",
       "materials": "Polycarbonate shell + TPU slipcover + polycarbonate holster",
-      "features": "Kickstand, Port-covers, Holster-clip, Screen-lip, Camera-bumpers"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip",
+        "Camera-bumpers"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -204,7 +253,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G + CNET Drop Test Winner",
       "materials": "TPU + PC + built-in screen protector",
-      "features": "Screen-protector, Kickstand, Port-covers"
+      "features": [
+        "Screen-protector",
+        "Kickstand",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -221,7 +274,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 516.6 (26 drops)",
       "materials": "Polycarbonate + TPU",
-      "features": "Kickstand, Port-covers, Screen-lip, MagSafe"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "MagSafe"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -238,7 +296,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 516.6",
       "materials": "Polycarbonate + synthetic rubber slipcover + holster",
-      "features": "Holster-clip, Port-covers, Screen-lip"
+      "features": [
+        "Holster-clip",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -255,7 +317,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G (5 layers, 10ft+ drops)",
       "materials": "Kevlar + polycarbonate + TPU layers",
-      "features": "Port-covers, Screen-lip, Camera-protection, Oversized-tac-grip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Camera-protection",
+        "Oversized-tac-grip"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:27:35Z",

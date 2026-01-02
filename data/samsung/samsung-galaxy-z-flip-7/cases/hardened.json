@@ -15,7 +15,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + screen protector",
-      "features": "MIL-STD-810-5x, Multi-layer, Built-in-screen, Hinge-protection, Port-covers",
+      "features": [
+        "MIL-STD-810-5x",
+        "Multi-layer",
+        "Built-in-screen",
+        "Hinge-protection",
+        "Port-covers"
+      ],
       "rating": "4.7"
     },
     {
@@ -31,7 +37,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "PC + TPU",
-      "features": "MIL-STD-810, Multi-layer, Shockproof, Hinge-wrap, Kickstand",
+      "features": [
+        "MIL-STD-810",
+        "Multi-layer",
+        "Shockproof",
+        "Hinge-wrap",
+        "Kickstand"
+      ],
       "rating": "4.6"
     },
     {
@@ -47,7 +59,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + rubber",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Screen-protector, Belt-clip",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Screen-protector",
+        "Belt-clip"
+      ],
       "rating": "4.8"
     },
     {
@@ -63,7 +81,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + kevlar",
-      "features": "MIL-STD-810G-drop-15ft, Multi-layer, Port-covers, Hinge-protection",
+      "features": [
+        "MIL-STD-810G-drop-15ft",
+        "Multi-layer",
+        "Port-covers",
+        "Hinge-protection"
+      ],
       "rating": "4.7"
     },
     {
@@ -79,7 +102,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + aluminum accents",
-      "features": "MIL-STD-810H-6x, IP68, Multi-layer, Industrial-grade, Shock-absorbing",
+      "features": [
+        "MIL-STD-810H-6x",
+        "IP68",
+        "Multi-layer",
+        "Industrial-grade",
+        "Shock-absorbing"
+      ],
       "rating": "4.5"
     },
     {
@@ -95,7 +124,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + alloy frame",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Built-in-screen-protector, Port-covers",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen-protector",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -111,7 +146,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + TPU inner liner",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Holster-clip, Shock-absorbing-corners",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Holster-clip",
+        "Shock-absorbing-corners"
+      ],
       "rating": "4.7"
     },
     {
@@ -127,7 +168,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Hardened polycarbonate + shock-absorbing TPU + aluminum accents",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Built-in-screen-protector, Kickstand",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen-protector",
+        "Kickstand"
+      ],
       "rating": "4.5"
     },
     {
@@ -143,7 +190,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + rubber overmold",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Belt-clip-holster, Workwear-ready",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Belt-clip-holster",
+        "Workwear-ready"
+      ],
       "rating": "4.4"
     },
     {
@@ -159,7 +212,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "PC backplate + TPU bumper + shockproof foam layers",
-      "features": "MIL-STD-810G-6x, Multi-layer, Raised-edges, Industrial-drop-tested",
+      "features": [
+        "MIL-STD-810G-6x",
+        "Multi-layer",
+        "Raised-edges",
+        "Industrial-drop-tested"
+      ],
       "rating": "4.8"
     },
     {
@@ -175,7 +233,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "MIL-STD-810 5x, 20ft-drop, IP68, Multi-layer, Built-in-screen, Port-covers",
+      "features": [
+        "MIL-STD-810 5x",
+        "20ft-drop",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -191,7 +256,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + holster",
-      "features": "MIL-STD-810 6x, 25ft-drop, IP68, Multi-layer, Holster, Port-covers",
+      "features": [
+        "MIL-STD-810 6x",
+        "25ft-drop",
+        "IP68",
+        "Multi-layer",
+        "Holster",
+        "Port-covers"
+      ],
       "rating": "4.7"
     },
     {
@@ -207,7 +279,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + shock-absorbing foam",
-      "features": "MIL-STD-810 5x, 20ft-drop, IP68, Multi-layer, Built-in-screen, Port-covers",
+      "features": [
+        "MIL-STD-810 5x",
+        "20ft-drop",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers"
+      ],
       "rating": "4.5"
     },
     {
@@ -223,7 +302,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + rubber overmold",
-      "features": "MIL-STD-810 6x, 23ft-drop, IP68, Multi-layer, Port-covers, Belt-clip",
+      "features": [
+        "MIL-STD-810 6x",
+        "23ft-drop",
+        "IP68",
+        "Multi-layer",
+        "Port-covers",
+        "Belt-clip"
+      ],
       "rating": "4.6"
     },
     {
@@ -239,7 +325,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + shockproof foam layers",
-      "features": "MIL-STD-810 6x, 16ft-drop, IP68, Multi-layer, Raised-edges",
+      "features": [
+        "MIL-STD-810 6x",
+        "16ft-drop",
+        "IP68",
+        "Multi-layer",
+        "Raised-edges"
+      ],
       "rating": "4.8"
     }
   ],

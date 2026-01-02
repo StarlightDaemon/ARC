@@ -17,7 +17,13 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, MagSafe compatible, Raised bezels, Shock-absorbing, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "MagSafe compatible",
+        "Raised bezels",
+        "Shock-absorbing",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -35,7 +41,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shockproof, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -53,7 +64,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Advanced TPU",
-      "features": "Anti-yellowing, Scratch-resistant, Precision cutouts, Showcases device design",
+      "features": [
+        "Anti-yellowing",
+        "Scratch-resistant",
+        "Precision cutouts",
+        "Showcases device design"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -71,7 +87,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Military-grade drop protection, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade drop protection",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -89,7 +110,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "PC back + TPU sides",
-      "features": "Anti-yellowing, Shock-absorbing corners, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing corners",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     }
   ],

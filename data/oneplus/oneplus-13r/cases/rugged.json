@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Kickstand, Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -34,7 +39,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26x 8ft drops",
       "materials": "Polycarbonate plate + TPU liner",
-      "features": "Port-covers, Screen-lip, Raised-bezel"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised-bezel"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -51,7 +60,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -68,7 +82,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "Polycarbonate shell + TPU frame",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -85,7 +103,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + polycarbonate backplate",
-      "features": "Kickstand, Screen-lip, Raised-camera-lip"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised-camera-lip"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -102,7 +124,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -119,7 +145,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate plates + TPU core",
-      "features": "Port-covers, Screen-lip, Raised bezels"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -136,7 +166,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -153,7 +188,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC shell + metal accents",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -170,7 +209,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU inner + PC outer shell + air cushion technology",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -187,7 +230,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "PC shell + TPU bumper",
-      "features": "Port-covers, Screen-lip, Raised bezels"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -204,7 +251,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop tested",
       "materials": "PC back + TPU frame + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -221,7 +273,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "Polycarbonate + silicone + alloy frame",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -238,7 +294,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Dual layer PC + TPU",
-      "features": "Kickstand, Port-covers, Screen-lip, Raised edges"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Raised edges"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:48:19Z",

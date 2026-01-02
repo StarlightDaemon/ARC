@@ -17,7 +17,13 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, MagSafe compatible, Raised bezels, Shock-absorbing, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "MagSafe compatible",
+        "Raised bezels",
+        "Shock-absorbing",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -35,7 +41,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Shockproof, Raised lips, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised lips",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -53,7 +64,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Microfiber lined TPU + PC",
-      "features": "Anti-yellowing, Scratch-resistant, Shock protection, Showcases device design",
+      "features": [
+        "Anti-yellowing",
+        "Scratch-resistant",
+        "Shock protection",
+        "Showcases device design"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -71,7 +87,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + tempered PC",
-      "features": "Anti-yellowing, Military-grade drop protection, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade drop protection",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -89,7 +110,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "PC + TPU hybrid",
-      "features": "Anti-yellowing, Pocket-friendly, Raised camera lips, Impact-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Pocket-friendly",
+        "Raised camera lips",
+        "Impact-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -107,7 +133,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Precise cutouts, Raised lips, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Precise cutouts",
+        "Raised lips",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -125,7 +156,12 @@
       "protection_level": "clear",
       "clarity": "ultra crystal clear",
       "materials": "Proprietary ghost polymer",
-      "features": "Permanent Anti-yellowing, Microfiber lining, Torqued screws, Scratch-proof",
+      "features": [
+        "Permanent Anti-yellowing",
+        "Microfiber lining",
+        "Torqued screws",
+        "Scratch-proof"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -143,7 +179,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + tempered PC",
-      "features": "Anti-yellowing tech, Military-grade drop, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing tech",
+        "Military-grade drop",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -161,7 +202,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "PC back + TPU sides",
-      "features": "Anti-yellowing, Air-space corners, Reinforced corners, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Air-space corners",
+        "Reinforced corners",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     }
   ],

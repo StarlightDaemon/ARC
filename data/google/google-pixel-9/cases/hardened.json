@@ -15,7 +15,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + TPU inner liner + built-in screen protector",
-      "features": "MIL-STD-810 5x, Multi-layer, Built-in-screen, Port-covers, IP68-compatible",
+      "features": [
+        "MIL-STD-810 5x",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers",
+        "IP68-compatible"
+      ],
       "rating": "4.8"
     },
     {
@@ -31,7 +37,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + TPU shock-absorbing liner + rubberized edges",
-      "features": "MIL-STD-810 6x, IP68, Multi-layer, 20ft-drop, Port-covers",
+      "features": [
+        "MIL-STD-810 6x",
+        "IP68",
+        "Multi-layer",
+        "20ft-drop",
+        "Port-covers"
+      ],
       "rating": "4.7"
     },
     {
@@ -47,7 +59,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate hard shell + TPU shockproof frame + built-in screen protector",
-      "features": "MIL-STD-810 5x, IP68, Multi-layer, Built-in-screen, 20ft-drop",
+      "features": [
+        "MIL-STD-810 5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "20ft-drop"
+      ],
       "rating": "4.6"
     },
     {
@@ -63,7 +81,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU inner layer + polycarbonate mid-shell + silicone outer bumper",
-      "features": "MIL-STD-810 5x, IP68, Ip69k, Multi-layer, 16ft-drop, Industrial",
+      "features": [
+        "MIL-STD-810 5x",
+        "IP68",
+        "Ip69k",
+        "Multi-layer",
+        "16ft-drop",
+        "Industrial"
+      ],
       "rating": "4.5"
     },
     {
@@ -79,7 +104,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + rubber slipcover + holster",
-      "features": "MIL-STD-810 5x, Multi-layer, Belt-clip, Port-covers, 15ft-drop",
+      "features": [
+        "MIL-STD-810 5x",
+        "Multi-layer",
+        "Belt-clip",
+        "Port-covers",
+        "15ft-drop"
+      ],
       "rating": "4.8"
     }
   ],

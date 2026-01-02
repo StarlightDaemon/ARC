@@ -17,7 +17,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro XL",
@@ -35,7 +40,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro XL",
@@ -53,7 +63,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Drop-protection, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Drop-protection",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro XL",
@@ -71,7 +86,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro XL",
@@ -89,7 +109,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Yellowing-resistant, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Yellowing-resistant",
+        "Raised-lips"
+      ]
     }
   ],
   "count": 5

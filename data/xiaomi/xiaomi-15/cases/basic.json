@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Xiaomi 15",
@@ -36,7 +41,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Air-cushion"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Air-cushion"
+      ]
     },
     {
       "device_name": "Xiaomi 15",
@@ -54,7 +65,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, Drop-protection"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Drop-protection"
+      ]
     },
     {
       "device_name": "Xiaomi 15",
@@ -72,7 +88,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Sitemap-design"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Sitemap-design"
+      ]
     },
     {
       "device_name": "Xiaomi 15",
@@ -90,7 +112,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Non-slip"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Non-slip"
+      ]
     }
   ],
   "saved_at": "2025-12-30T20:06:34Z",

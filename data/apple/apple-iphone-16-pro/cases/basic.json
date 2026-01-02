@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Pro",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Pro",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Anti-yellowing"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Anti-yellowing"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Pro",
@@ -72,7 +87,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Pro",
@@ -90,7 +110,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Raised-lips"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:22:28Z",

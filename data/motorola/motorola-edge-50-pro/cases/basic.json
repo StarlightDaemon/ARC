@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "Polycarbonate",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Pro",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "Hybrid TPU+PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Pro",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, Moderate-drop"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Moderate-drop"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Pro",
@@ -72,7 +87,12 @@
       "thickness": "",
       "weight": "",
       "materials": "Dual-layer TPU/PC",
-      "features": "Slim, Wireless-charging, Mil-std, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "MIL-STD",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Pro",
@@ -90,7 +110,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     }
   ],
   "saved_at": "2025-12-30T20:03:44Z",

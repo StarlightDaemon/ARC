@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Polycarbonate shell + TPU bumper + rubber slipcover",
-      "features": "Kickstand, Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -34,7 +39,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft+",
       "materials": "Polycarbonate shell + TPU bumper + alloy reinforcement",
-      "features": "Screen-lip, Port-covers, Raised bezels"
+      "features": [
+        "Screen-lip",
+        "Port-covers",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -51,7 +60,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU frame",
-      "features": "Kickstand, Built-in-screen-protector, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Built-in-screen-protector",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -68,7 +82,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "Kickstand, Built-in-screen-protector, Port-covers"
+      "features": [
+        "Kickstand",
+        "Built-in-screen-protector",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -85,7 +103,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Dual-layer PC + TPU with foam padding",
-      "features": "Kickstand, Screen-lip, Raised bezels"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -102,7 +124,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -119,7 +145,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Polycarbonate shell + TPU bumper + alloy reinforcement plate",
-      "features": "Screen-lip, Raised-corners"
+      "features": [
+        "Screen-lip",
+        "Raised-corners"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -136,7 +165,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -153,7 +187,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate shell + TPU frame + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -170,7 +209,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + polycarbonate backplate + foam padding",
-      "features": "Kickstand, Card-slot, Screen-lip, Raised-corners"
+      "features": [
+        "Kickstand",
+        "Card-slot",
+        "Screen-lip",
+        "Raised-corners"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -187,7 +231,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate + silicone + built-in screen protector",
-      "features": "Kickstand, Port-covers, Built-in-screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Built-in-screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -204,7 +253,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 15ft drop",
       "materials": "Multi-layer PC + synthetic rubber + hard shell",
-      "features": "Port-covers, Screen-lip, Belt-clip-holster"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Belt-clip-holster"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:34:26Z",

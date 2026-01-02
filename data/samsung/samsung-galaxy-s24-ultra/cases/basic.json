@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -36,7 +41,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Minimal-bulk"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -54,7 +63,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Military-grade-drop, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Military-grade-drop",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -72,7 +86,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid, 50% recycled plastic",
-      "features": "Slim, Wireless-charging, Raised-lips, Drop-protection"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Drop-protection"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -90,7 +109,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Carbon-fiber"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Carbon-fiber"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -108,7 +133,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -126,7 +156,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU, PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -144,7 +179,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC, synthetic rubber",
-      "features": "Slim, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -162,7 +201,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU, PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -180,7 +224,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Minimal-bulk"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -198,7 +246,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -216,7 +269,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU, PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -234,7 +292,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU, PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -252,7 +315,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC, synthetic rubber",
-      "features": "Slim, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S24 Ultra",
@@ -270,7 +337,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Minimal-bulk"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:38:02Z",

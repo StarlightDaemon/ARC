@@ -17,7 +17,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shock-absorbing, Raised-bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing",
+        "Raised-bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -35,7 +40,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shockproof, Raised-lip, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised-lip",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -53,7 +63,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Thermic TPU",
-      "features": "Anti-yellowing, Scratch-resistant, Shock-absorbing, Minimalist",
+      "features": [
+        "Anti-yellowing",
+        "Scratch-resistant",
+        "Shock-absorbing",
+        "Minimalist"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -71,7 +86,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Military-grade protection, Raised-bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade protection",
+        "Raised-bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -89,7 +109,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU sides + PC back",
-      "features": "Anti-yellowing, Pocket-friendly, Raised-camera-lip, Impact-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Pocket-friendly",
+        "Raised-camera-lip",
+        "Impact-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -107,7 +132,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shock-absorbing, Raised-bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing",
+        "Raised-bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -125,7 +155,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Precise cutouts, Raised lips, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Precise cutouts",
+        "Raised lips",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -143,7 +178,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Tough-as-nails polycarbonate",
-      "features": "Anti-yellowing, Microfiber lining, Superior grip, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Microfiber lining",
+        "Superior grip",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -161,7 +201,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC",
-      "features": "Anti-yellowing, Shockproof, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -179,7 +224,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "PC back + TPU sides",
-      "features": "Anti-yellowing, Military-grade drop protection, Raised camera bezel, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade drop protection",
+        "Raised camera bezel",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     }
   ],

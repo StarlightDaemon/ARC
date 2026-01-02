@@ -17,7 +17,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC shell + TPU bumper",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -34,7 +38,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC back + TPU frame",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -51,7 +59,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "TPU/polycarbonate",
-      "features": "Port-covers, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -68,7 +79,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU + PC",
-      "features": "Kickstand, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -85,7 +99,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 7x 4ft drops",
       "materials": "Polycarbonate shell + TPU inner + rubber slipcover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -102,7 +120,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC shell + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-lip, Built-in-screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Built-in-screen-protector"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -119,7 +142,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-lip, Built-in-screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Built-in-screen-protector"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -136,7 +164,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU + PC backplate",
-      "features": "Screen-lip, Port-covers, Kickstand"
+      "features": [
+        "Screen-lip",
+        "Port-covers",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -153,7 +185,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate + TPU",
-      "features": "Screen-lip, Port-covers"
+      "features": [
+        "Screen-lip",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -170,7 +205,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Multi-layer: polycarbonate shell + TPU inner liner + rubber slipcover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:53:40Z",

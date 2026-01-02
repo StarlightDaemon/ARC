@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Anti-yellowing, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Anti-yellowing",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -72,7 +87,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Scratch-resistant, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Scratch-resistant",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -90,7 +110,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -108,7 +133,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -126,7 +156,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -144,7 +178,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -162,7 +201,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Clear, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Clear",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -180,7 +224,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Scratch-resistant, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Scratch-resistant",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -198,7 +247,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -216,7 +270,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:34:26Z",

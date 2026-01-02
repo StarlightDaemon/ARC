@@ -17,7 +17,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro Fold",
@@ -34,7 +38,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate backplate + TPU frame",
-      "features": "Port-covers, Screen-lip, Raised bezels"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro Fold",
@@ -51,7 +59,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate shell + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro Fold",
@@ -68,7 +81,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Polycarbonate back + shock-absorbing TPU frame",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro Fold",
@@ -85,7 +102,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Dual-layer PC + TPU with foam padding",
-      "features": "Kickstand, Port-covers, Screen-lip, Raised bezels"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:43:10Z",

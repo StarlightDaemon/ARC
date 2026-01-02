@@ -17,7 +17,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G",
       "materials": "TPU frame + PC back + air-soft corners",
-      "features": "Port-covers, Screen-lip, Hinge-armor"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Hinge-armor"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 7",
@@ -34,7 +38,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops",
       "materials": "PC shell + TPU bumper",
-      "features": "Ergonomic-grip, Screen-lip, Raised-bezels"
+      "features": [
+        "Ergonomic-grip",
+        "Screen-lip",
+        "Raised-bezels"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 7",
@@ -51,7 +59,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 20ft drop",
       "materials": "PC + TPU + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 7",
@@ -68,7 +80,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G",
       "materials": "PC shell + TPU bumper",
-      "features": "Kickstand, Magfit, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Magfit",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 7",
@@ -85,7 +101,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 10ft drop",
       "materials": "TPU + PC + reinforced corners",
-      "features": "Kickstand, Port-covers, Shock-absorbing corners"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Shock-absorbing corners"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:41:25Z",

@@ -17,7 +17,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -34,7 +38,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate plate + TPU liner",
-      "features": "Screen-lip, Raised-bezel"
+      "features": [
+        "Screen-lip",
+        "Raised-bezel"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -51,7 +58,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -68,7 +80,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC backplate + foam padding",
-      "features": "Kickstand, Screen-lip, Air-cushion-technology"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Air-cushion-technology"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -85,7 +101,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "TPU bumper + PC shell + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -102,7 +123,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate shell + TPU bumper + rubber slipcover",
-      "features": "Kickstand, Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -119,7 +145,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26ft drop",
       "materials": "PC shell + TPU frame + alloy reinforcement",
-      "features": "Port-covers, Screen-lip, Raised-bezel"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised-bezel"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -136,7 +166,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -153,7 +188,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "PC shell + TPU bumper + foam padding",
-      "features": "Kickstand, Screen-lip, Raised-bezel"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised-bezel"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -170,7 +209,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "PC + TPU + tempered glass screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -187,7 +231,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate shell + TPU bumper + rubber slipcover",
-      "features": "Kickstand, Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -204,7 +253,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26ft drop",
       "materials": "Polycarbonate plate + TPU liner",
-      "features": "Port-covers, Screen-lip, Raised-edges"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised-edges"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -221,7 +274,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU frame",
-      "features": "Kickstand, Built-in-screen-protector, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Built-in-screen-protector",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -238,7 +296,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC backplate",
-      "features": "Kickstand, Port-covers, Screen-lip, Air-cushion-technology"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Air-cushion-technology"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -255,7 +318,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "TPU + polycarbonate + tempered glass screen protector",
-      "features": "Built-in-screen-protector, Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Built-in-screen-protector",
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:45:01Z",

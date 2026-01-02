@@ -18,7 +18,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Hinge-protection, Non-slip, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Hinge-protection",
+        "Non-slip",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 7",
@@ -36,7 +42,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Anti-yellowing, Pocket-friendly"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Anti-yellowing",
+        "Pocket-friendly"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 7",
@@ -54,7 +65,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Magfit, Grip-texture"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Magfit",
+        "Grip-texture"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 7",
@@ -72,7 +88,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 7",
@@ -90,7 +111,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, MagSafe, Kickstand"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "MagSafe",
+        "Kickstand"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:41:25Z",

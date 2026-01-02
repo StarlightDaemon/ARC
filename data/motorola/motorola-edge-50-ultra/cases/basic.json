@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Ultra",
@@ -36,7 +41,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, MIL-STD-810G"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD-810G"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Ultra",
@@ -54,7 +65,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, Drop-protection"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Drop-protection"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Ultra",
@@ -72,7 +88,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Ultra",
@@ -90,7 +112,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Raised-lips, Kickstand, Yellowing-resistant"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Kickstand",
+        "Yellowing-resistant"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Ultra",
@@ -108,7 +136,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Ultra",
@@ -126,7 +159,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Military-grade"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Military-grade"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Ultra",
@@ -144,7 +183,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Drop-protection"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Drop-protection"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Ultra",
@@ -162,7 +206,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Military-grade"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Military-grade"
+      ]
     },
     {
       "device_name": "Motorola Edge 50 Ultra",
@@ -180,7 +230,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Anti-yellowing"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Anti-yellowing"
+      ]
     }
   ],
   "saved_at": "2025-12-30T20:00:21Z",

@@ -17,7 +17,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops from 4ft",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer cover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -34,7 +38,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops from 4ft",
       "materials": "Polycarbonate plates + TPU bumper + kevlar",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -51,7 +59,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 20ft drop tested",
       "materials": "PC back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -68,7 +80,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 24 drops from 5ft",
       "materials": "Triple-layer: PC + TPU + shock-absorbing foam",
-      "features": "Port-covers, Screen-lip, Belt-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Belt-clip"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -85,7 +101,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 10ft drop protection",
       "materials": "TPU bumper + PC backplate + air cushion technology",
-      "features": "Kickstand, Screen-lip, Raised-edges"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised-edges"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -102,7 +122,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -119,7 +143,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "PC shell + TPU bumper",
-      "features": "Port-covers, Screen-lip, Raised-bezel"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised-bezel"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -136,7 +164,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Holster"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Holster"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -153,7 +186,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC backplate",
-      "features": "Kickstand, Screen-lip, Raised-camera-lip"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised-camera-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 16",
@@ -170,7 +207,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC frame + TPU bumper + tempered glass screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:19:19Z",

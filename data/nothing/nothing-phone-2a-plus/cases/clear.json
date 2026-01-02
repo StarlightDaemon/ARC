@@ -17,7 +17,13 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, MagSafe compatible, Raised bezels, Shock-absorbing, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "MagSafe compatible",
+        "Raised bezels",
+        "Shock-absorbing",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -35,7 +41,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shockproof, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -53,7 +64,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Precision-machined polycarbonate",
-      "features": "Permanent Anti-yellowing, Microfiber grip liner, Scratch-resistant, Shock-absorbing",
+      "features": [
+        "Permanent Anti-yellowing",
+        "Microfiber grip liner",
+        "Scratch-resistant",
+        "Shock-absorbing"
+      ],
       "yellowing_resistance": "Yes (permanent)"
     },
     {
@@ -71,7 +87,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, MagSafe compatible, Raised bezels, Shockproof",
+      "features": [
+        "Anti-yellowing",
+        "MagSafe compatible",
+        "Raised bezels",
+        "Shockproof"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -89,7 +110,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU sides + PC back",
-      "features": "Anti-yellowing, Shock-absorbing corners, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing corners",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -107,7 +133,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Shockproof, Raised-bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised-bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -125,7 +156,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU sides + PC back",
-      "features": "Anti-yellowing, Military-grade drop protection, Raised lips, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade drop protection",
+        "Raised lips",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -143,7 +179,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Military-grade protection, Raised bezels, Scratch resistant",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade protection",
+        "Raised bezels",
+        "Scratch resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -161,7 +202,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "PC back + TPU sides",
-      "features": "Anti-yellowing, Shock-absorbing corners, Raised bezels, Scratch resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing corners",
+        "Raised bezels",
+        "Scratch resistant"
+      ],
       "yellowing_resistance": "Yes"
     }
   ],

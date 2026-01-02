@@ -15,7 +15,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "MIL-STD-810 5x, IP68, Multi-layer, Built-in-screen, Port-covers",
+      "features": [
+        "MIL-STD-810 5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -31,7 +37,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + synthetic rubber + hardened membrane screen protector",
-      "features": "MIL-STD-810 5x+, Multi-layer, Port-covers, Extreme-drop",
+      "features": [
+        "MIL-STD-810 5x+",
+        "Multi-layer",
+        "Port-covers",
+        "Extreme-drop"
+      ],
       "rating": "4.7"
     },
     {
@@ -47,7 +58,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + impact-resistant polymer",
-      "features": "MIL-STD-810 5x+, IP68, Multi-layer, Built-in-screen",
+      "features": [
+        "MIL-STD-810 5x+",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen"
+      ],
       "rating": "4.5"
     },
     {
@@ -63,7 +79,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + aluminum frame",
-      "features": "MIL-STD-810 6x, IP68, Multi-layer, Industrial-grade",
+      "features": [
+        "MIL-STD-810 6x",
+        "IP68",
+        "Multi-layer",
+        "Industrial-grade"
+      ],
       "rating": "4.4"
     },
     {
@@ -79,7 +100,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + alloy plate + TPU",
-      "features": "MIL-STD-810 5x, Multi-layer, Extreme-drop, Workwear",
+      "features": [
+        "MIL-STD-810 5x",
+        "Multi-layer",
+        "Extreme-drop",
+        "Workwear"
+      ],
       "rating": "4.8"
     },
     {
@@ -90,12 +116,18 @@
       "url": "https://www.amazon.com/SUPCASE-OnePlus-12R-Protector-Military-Grade/dp/B0D1K2L3M4",
       "product_brand": "SUPCASE",
       "product_model": "UB Pro",
-      "title": "SUPCASE UB Pro Designed for OnePlus 12R, Rugged Belt Clip Holster Heavy Duty Full Body Protective Case with Built-in Screen Protector, 20-ft Drop Proof 360° Protection (Black)",
+      "title": "SUPCASE UB Pro Designed for OnePlus 12R, Rugged Belt Clip Holster Heavy Duty Full Body Protective Case with Built-in Screen Protector, 20-ft Drop Proof 360\u00b0 Protection (Black)",
       "price": "$29.99",
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "MIL-STD-810G-5x, Multi-layer, Built-in-screen, Belt-clip, Port-covers",
+      "features": [
+        "MIL-STD-810G-5x",
+        "Multi-layer",
+        "Built-in-screen",
+        "Belt-clip",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -111,7 +143,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + synthetic rubber + inner foam + screen protector",
-      "features": "MIL-STD-810G-5x, Multi-layer, Built-in-screen, Port-covers, 15ft-drop",
+      "features": [
+        "MIL-STD-810G-5x",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers",
+        "15ft-drop"
+      ],
       "rating": "4.7"
     },
     {
@@ -127,7 +165,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + shock-absorbing foam",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Built-in-screen, 26ft-drop",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "26ft-drop"
+      ],
       "rating": "4.5"
     },
     {
@@ -143,7 +187,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + rubberized edges",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Built-in-screen, Kickstand, Belt-clip",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Kickstand",
+        "Belt-clip"
+      ],
       "rating": "4.4"
     },
     {
@@ -159,7 +210,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + integrated screen protector",
-      "features": "MIL-STD-810G-20x, Multi-layer, Built-in-screen, Kickstand, Holster, Port-covers",
+      "features": [
+        "MIL-STD-810G-20x",
+        "Multi-layer",
+        "Built-in-screen",
+        "Kickstand",
+        "Holster",
+        "Port-covers"
+      ],
       "rating": "4.6"
     }
   ],

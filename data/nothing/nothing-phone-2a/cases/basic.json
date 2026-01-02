@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Drop-protection"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Drop-protection"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a",
@@ -72,7 +87,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Raised-lips, Wireless-charging"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Wireless-charging"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a",
@@ -90,7 +110,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a",
@@ -108,7 +133,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Military-grade"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Military-grade"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a",
@@ -126,7 +157,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a",
@@ -144,7 +180,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Military-grade"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Military-grade"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a",
@@ -162,7 +204,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Yellowing-resistant"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Yellowing-resistant"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a",
@@ -180,7 +227,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Military-grade, Pocket-friendly"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Military-grade",
+        "Pocket-friendly"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:58:31Z",

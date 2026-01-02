@@ -15,7 +15,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate, synthetic rubber, TPU",
-      "features": "MIL-STD-810 7x, Multi-layer, IP68, Port-covers, Holster",
+      "features": [
+        "MIL-STD-810 7x",
+        "Multi-layer",
+        "IP68",
+        "Port-covers",
+        "Holster"
+      ],
       "rating": "4.8"
     },
     {
@@ -31,7 +37,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate, TPU, shock-absorbing foam",
-      "features": "MIL-STD-810 21x, IP68, Multi-layer, Built-in-screen-protector",
+      "features": [
+        "MIL-STD-810 21x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen-protector"
+      ],
       "rating": "4.7"
     },
     {
@@ -47,7 +58,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate, TPU, tempered glass screen protector",
-      "features": "MIL-STD-810 5x, Multi-layer, Built-in-screen, IP68, Kickstand",
+      "features": [
+        "MIL-STD-810 5x",
+        "Multi-layer",
+        "Built-in-screen",
+        "IP68",
+        "Kickstand"
+      ],
       "rating": "4.6"
     },
     {
@@ -63,7 +80,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU, polycarbonate, rubber bumpers",
-      "features": "MIL-STD-810 6x, IP68, Multi-layer, Port-covers, Belt-clip",
+      "features": [
+        "MIL-STD-810 6x",
+        "IP68",
+        "Multi-layer",
+        "Port-covers",
+        "Belt-clip"
+      ],
       "rating": "4.5"
     },
     {
@@ -79,7 +102,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell, rubber slipcover, TPU inner layer",
-      "features": "MIL-STD-810 6x, IP68, Multi-layer, Dust-plugs, Holster",
+      "features": [
+        "MIL-STD-810 6x",
+        "IP68",
+        "Multi-layer",
+        "Dust-plugs",
+        "Holster"
+      ],
       "rating": "4.8"
     }
   ],

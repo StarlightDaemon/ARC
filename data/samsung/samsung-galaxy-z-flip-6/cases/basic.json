@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Air-cushion"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Air-cushion"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -54,7 +64,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -72,7 +88,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Kickstand"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -90,7 +112,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Kickstand"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -108,7 +136,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -126,7 +159,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Air-cushion"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Air-cushion"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -144,7 +182,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -162,7 +206,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -180,7 +229,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -198,7 +253,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -216,7 +277,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy Z Flip 6",
@@ -234,7 +300,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:44:55Z",

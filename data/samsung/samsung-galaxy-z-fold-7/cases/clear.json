@@ -17,7 +17,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shock-absorbing, Raised-bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing",
+        "Raised-bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -35,7 +40,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shockproof, Raised-lip, Precise-cutouts",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised-lip",
+        "Precise-cutouts"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -53,7 +63,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Precision-machined polycarbonate",
-      "features": "Anti-yellowing, Military-grade drop protection, Scratch-resistant, Minimalist design",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade drop protection",
+        "Scratch-resistant",
+        "Minimalist design"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -71,7 +86,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Air-guard corners, Raised bezels, Screen protector compatible",
+      "features": [
+        "Anti-yellowing",
+        "Air-guard corners",
+        "Raised bezels",
+        "Screen protector compatible"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -89,7 +109,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "PC back + TPU sides",
-      "features": "Anti-yellowing, Military-grade protection, Camera protection, Slim profile",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade protection",
+        "Camera protection",
+        "Slim profile"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -107,7 +132,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shock-absorbing, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -125,7 +155,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Shockproof, Raised lips, Precise cutouts",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised lips",
+        "Precise cutouts"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -143,7 +178,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Microfiber lining + polymer",
-      "features": "Anti-yellowing, Grippy texture, Scratch-resistant, Hinge protection",
+      "features": [
+        "Anti-yellowing",
+        "Grippy texture",
+        "Scratch-resistant",
+        "Hinge protection"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -161,7 +201,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC",
-      "features": "Anti-yellowing, Kickstand, Military-grade protection, Raised bezels",
+      "features": [
+        "Anti-yellowing",
+        "Kickstand",
+        "Military-grade protection",
+        "Raised bezels"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -179,7 +224,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "PC + TPU",
-      "features": "Anti-yellowing, Air-space technology, Camera protection, Scratch resistance",
+      "features": [
+        "Anti-yellowing",
+        "Air-space technology",
+        "Camera protection",
+        "Scratch resistance"
+      ],
       "yellowing_resistance": true
     }
   ],

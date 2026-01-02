@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC shell + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-lip, Built-in-screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Built-in-screen-protector"
+      ]
     },
     {
       "device_name": "Xiaomi 14 Ultra",
@@ -34,7 +39,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "TPU bumper + PC backplate + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-lip, Built-in-screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Built-in-screen-protector"
+      ]
     },
     {
       "device_name": "Xiaomi 14 Ultra",
@@ -51,7 +61,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate shear plate + TPU rubber",
-      "features": "Screen-lip, Port-covers"
+      "features": [
+        "Screen-lip",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "Xiaomi 14 Ultra",
@@ -68,7 +81,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC back + foam padding",
-      "features": "Kickstand, Screen-lip, Air-cushion-technology"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Air-cushion-technology"
+      ]
     },
     {
       "device_name": "Xiaomi 14 Ultra",
@@ -85,7 +102,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 7x drop tested",
       "materials": "Synthetic rubber slipcover + polycarbonate shell + built-in screen protector",
-      "features": "Port-covers, Holster-clip, Screen-lip, Built-in-screen-protector"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip",
+        "Built-in-screen-protector"
+      ]
     }
   ],
   "saved_at": "2025-12-30T20:08:16Z",

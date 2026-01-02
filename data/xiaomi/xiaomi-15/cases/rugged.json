@@ -17,7 +17,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC shell + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Xiaomi 15",
@@ -34,7 +38,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 8ft",
       "materials": "Polycarbonate + alloy frame + TPU",
-      "features": "Port-covers, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Xiaomi 15",
@@ -51,7 +58,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Polycarbonate shell + TPU inner layer + rubber slipcover",
-      "features": "Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Xiaomi 15",
@@ -68,7 +79,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "TPU bumper + PC backplate + tempered glass screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector"
+      ]
     },
     {
       "device_name": "Xiaomi 15",
@@ -85,7 +100,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC back + reinforced corners",
-      "features": "Kickstand, Screen-lip, Air-cushion technology"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Air-cushion technology"
+      ]
     }
   ],
   "saved_at": "2025-12-30T20:06:34Z",

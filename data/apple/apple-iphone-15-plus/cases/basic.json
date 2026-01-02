@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -36,7 +41,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Minimal-bulk"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -54,7 +63,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -72,7 +86,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -90,7 +108,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -108,7 +131,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -126,7 +154,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, Pocket-friendly"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Pocket-friendly"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -144,7 +177,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -162,7 +200,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:27:35Z",

@@ -17,7 +17,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 7ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -34,7 +38,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 8ft",
       "materials": "5-layer construction: alloy frame + PC shell + TPU + leather + honeycomb",
-      "features": "Port-covers, Screen-lip, Kickstand"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -51,7 +59,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -68,7 +81,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 3x as many drops than military standard (15ft equiv)",
       "materials": "Dual-layer: synthetic rubber slipcover + polycarbonate shell",
-      "features": "Port-covers, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -85,7 +101,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC backplate + air cushion technology",
-      "features": "Kickstand, Screen-lip, Raised-edges"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised-edges"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -102,7 +122,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -119,7 +143,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 48in (4ft)",
       "materials": "Polycarbonate plate + TPU liner",
-      "features": "Screen-lip, Raised-beveled-edge"
+      "features": [
+        "Screen-lip",
+        "Raised-beveled-edge"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -136,7 +163,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -153,7 +185,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 516.6, 7ft drop",
       "materials": "Multi-layer: PC shell + TPU liner + rubber cover",
-      "features": "Port-covers, Holster-clip, Screen-lip, Antimicrobial"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip",
+        "Antimicrobial"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -170,7 +207,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -187,7 +229,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 7ft drop",
       "materials": "Multi-layer: polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Kickstand, Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -204,7 +251,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 8ft",
       "materials": "5-layer: alloy frame + PC shell + TPU bumper + leather accents",
-      "features": "Port-covers, Screen-lip, Raised-edges"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised-edges"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -221,7 +272,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -238,7 +294,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Dual-layer: polycarbonate outer shell + TPU inner layer",
-      "features": "Port-covers, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15",
@@ -255,7 +314,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC backplate + air cushion technology",
-      "features": "Kickstand, Screen-lip, Raised-edges"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised-edges"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:25:48Z",

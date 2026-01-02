@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -36,7 +41,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -54,7 +65,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, Drop-protection"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Drop-protection"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -72,7 +88,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -90,7 +112,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, Mil-std, Yellowing-resistant"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "MIL-STD",
+        "Yellowing-resistant"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -108,7 +136,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -126,7 +159,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -144,7 +182,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Drop-protection, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Drop-protection",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -162,7 +205,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -180,7 +228,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:41:25Z",

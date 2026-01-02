@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Raised-lips, Moderate-drop"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Moderate-drop"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -72,7 +87,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Mil-std-drop"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "MIL-STD-drop"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -90,7 +110,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -108,7 +133,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Military-grade"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Military-grade"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -126,7 +157,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -144,7 +180,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Military-grade"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Military-grade"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -162,7 +204,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Military-grade, Yellowing-resistant"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Military-grade",
+        "Yellowing-resistant"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -180,7 +228,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Pocket-friendly, Drop-tested"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Pocket-friendly",
+        "Drop-tested"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:56:52Z",

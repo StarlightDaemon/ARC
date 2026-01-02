@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops from 4ft",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Kickstand, Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -34,7 +39,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops from 4ft",
       "materials": "PC backplate + TPU frame + alloy accents",
-      "features": "Port-covers, Screen-lip, Raised-edges"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised-edges"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -51,7 +60,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 20ft drop tested",
       "materials": "PC back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -68,7 +82,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 12ft drop tested",
       "materials": "Polycarbonate shell + shock-absorbing TPU",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -85,7 +103,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 10ft drop tested",
       "materials": "Dual-layer PC + TPU with foam padding",
-      "features": "Kickstand, Port-covers, Screen-lip, Raised-edges"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Raised-edges"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -102,7 +125,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC shell + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -119,7 +147,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC back + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -136,7 +168,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate shear plates + TPU rubber",
-      "features": "Port-covers, Screen-lip, Raised bezels"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -153,7 +189,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC backplate",
-      "features": "Kickstand, Screen-lip, Air-cushion technology"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Air-cushion technology"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -170,7 +210,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Multi-layer: polycarbonate shell + synthetic rubber slipcover + holster",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -187,7 +231,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC shell + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -204,7 +253,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6x 4ft drops",
       "materials": "Polycarbonate shell + TPU inner layer + rubber outer slipcover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -221,7 +274,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "PC backplate + TPU frame",
-      "features": "Port-covers, Screen-lip, Raised bezels"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -238,7 +295,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC back + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector"
+      ]
     },
     {
       "device_name": "Nothing Phone 2a Plus",
@@ -255,7 +316,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU inner + PC outer shell",
-      "features": "Kickstand, Screen-lip, Raised bezels"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:56:52Z",

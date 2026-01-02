@@ -17,7 +17,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 3x MIL-STD drop protection",
       "materials": "Polycarbonate shell + TPU inner layer + rubber outer slipcover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -34,7 +38,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 5ft+",
       "materials": "5-layer construction: PC + TPU + alloy frame",
-      "features": "Screen-lip, Port-covers, Raised bezels"
+      "features": [
+        "Screen-lip",
+        "Port-covers",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -51,7 +59,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop tested",
       "materials": "PC back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -68,7 +81,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop protection",
       "materials": "Dual layer PC + TPU with foam padding",
-      "features": "Kickstand, Screen-lip, Raised bezels"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -85,7 +102,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop tested",
       "materials": "TPU bumper + PC panels + shock-absorbing corners",
-      "features": "Kickstand, Port-covers, Screen-lip, Built-in-screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Built-in-screen-protector"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -102,7 +124,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -119,7 +145,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 8ft",
       "materials": "Polycarbonate plate + TPU bumper + alloy frame",
-      "features": "Screen-lip, Raised bezels, Non-slip texture"
+      "features": [
+        "Screen-lip",
+        "Raised bezels",
+        "Non-slip texture"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -136,7 +166,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU frame + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -153,7 +188,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "Polycarbonate shell + shock-absorbing TPU bumper",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -170,7 +209,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 7ft drop",
       "materials": "Multi-layer polycarbonate + synthetic rubber",
-      "features": "Port-covers, Screen-lip, Belt-clip-holster"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Belt-clip-holster"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -187,7 +230,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -204,7 +251,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26x 8ft drops",
       "materials": "PC shell + TPU frame",
-      "features": "Screen-lip, Raised-corners, Port-covers"
+      "features": [
+        "Screen-lip",
+        "Raised-corners",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -221,7 +272,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC back + TPU bumper + built-in pet screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -238,7 +294,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "Polycarbonate + silicone",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9",
@@ -255,7 +315,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU + PC backplate",
-      "features": "Kickstand, Screen-lip, Raised-edges"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised-edges"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:37:50Z",

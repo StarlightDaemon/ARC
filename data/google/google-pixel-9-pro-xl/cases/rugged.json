@@ -17,7 +17,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Polycarbonate shell + TPU inner layer + rubber slipcover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -34,7 +38,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate plate + TPU bumper",
-      "features": "Screen-lip, Raised bezels, Grip texture"
+      "features": [
+        "Screen-lip",
+        "Raised bezels",
+        "Grip texture"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -51,7 +59,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU frame",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -68,7 +81,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Dual-layer PC + TPU",
-      "features": "Kickstand, Screen-lip, Air-cushion technology"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Air-cushion technology"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -85,7 +102,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "TPU bumper + PC back plate",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -102,7 +124,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 7ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -119,7 +145,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate plate + TPU liner + alloy frame",
-      "features": "Port-covers, Screen-lip, Raised bezels"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -136,7 +166,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU bumper",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -153,7 +188,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 3x 4ft drops",
       "materials": "Synthetic rubber slipcover + polycarbonate shell",
-      "features": "Port-covers, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -170,7 +208,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC backplate + air cushion technology",
-      "features": "Kickstand, Screen-lip, Raised bezels"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -187,7 +229,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Tpe frame + PC backplate + alloy reinforcement",
-      "features": "Port-covers, Screen-lip, Raised bezels"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -204,7 +250,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC + TPU + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -221,7 +272,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 3x 4ft drops",
       "materials": "PC shell + synthetic rubber slipcover",
-      "features": "Port-covers, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
@@ -238,7 +292,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC back + air cushion technology",
-      "features": "Kickstand, Screen-lip, Raised bezels"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:41:25Z",

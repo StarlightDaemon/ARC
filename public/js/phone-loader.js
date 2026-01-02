@@ -1,3 +1,24 @@
+// Search functionality
+const searchInput = document.getElementById('searchInput');
+if (searchInput) {
+    searchInput.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase();
+        const cards = document.querySelectorAll('.phone-guide-card');
+
+        cards.forEach(card => {
+            const title = card.querySelector('h3')?.textContent.toLowerCase() || '';
+            const brand = card.querySelector('.brand-badge')?.textContent.toLowerCase() || '';
+            const features = card.querySelector('.phone-features')?.textContent.toLowerCase() || '';
+
+            if (title.includes(query) || brand.includes(query) || features.includes(query)) {
+                card.style.display = '';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    });
+}
+
 // Dynamic phone list and filter loader
 (async function () {
     try {

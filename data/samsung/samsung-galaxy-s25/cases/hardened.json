@@ -15,7 +15,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell, synthetic rubber slipcover, TPU inner liner, hardened membrane screen protector",
-      "features": "MIL-STD-810 7x, IP68, Multi-layer 4pc, Screen-protector, Port-covers, Holster",
+      "features": [
+        "MIL-STD-810 7x",
+        "IP68",
+        "Multi-layer 4pc",
+        "Screen-protector",
+        "Port-covers",
+        "Holster"
+      ],
       "rating": "4.8"
     },
     {
@@ -31,7 +38,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate armor shell, TPU shock-absorbing core, silicone outer layer",
-      "features": "MIL-STD-810 6x, IP68, Multi-layer 3pc, Screen-protector, Port-covers",
+      "features": [
+        "MIL-STD-810 6x",
+        "IP68",
+        "Multi-layer 3pc",
+        "Screen-protector",
+        "Port-covers"
+      ],
       "rating": "4.7"
     },
     {
@@ -47,7 +60,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate back plate, shockproof TPU bumper, built-in hd screen protector",
-      "features": "MIL-STD-810 5x, IP68, Multi-layer 3pc, Screen-protector, Kickstand, Port-covers",
+      "features": [
+        "MIL-STD-810 5x",
+        "IP68",
+        "Multi-layer 3pc",
+        "Screen-protector",
+        "Kickstand",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -63,7 +83,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU bumper, polycarbonate shell, aluminum reinforcements",
-      "features": "MIL-STD-810 5x, IP68-ip69k, Multi-layer 4pc, Belt-clip, Workwear",
+      "features": [
+        "MIL-STD-810 5x",
+        "IP68-ip69k",
+        "Multi-layer 4pc",
+        "Belt-clip",
+        "Workwear"
+      ],
       "rating": "4.5"
     },
     {
@@ -79,7 +105,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "High-impact polycarbonate, TPU Multi-material inner layer, rubber slipcover",
-      "features": "MIL-STD-810 8x, IP68, Multi-layer 4pc, Screen-protector, Holster",
+      "features": [
+        "MIL-STD-810 8x",
+        "IP68",
+        "Multi-layer 4pc",
+        "Screen-protector",
+        "Holster"
+      ],
       "rating": "4.8"
     },
     {
@@ -95,7 +127,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell, TPU inner layer, rubber slipcover",
-      "features": "MIL-STD-810 7x, IP68, Multi-layer, Built-in-screen-protector, Port-covers",
+      "features": [
+        "MIL-STD-810 7x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen-protector",
+        "Port-covers"
+      ],
       "rating": "4.8"
     },
     {
@@ -111,7 +149,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate armor, TPU shock-absorbing layer",
-      "features": "MIL-STD-810 6x, IP68, Multi-layer, Built-in-screen, Kickstand",
+      "features": [
+        "MIL-STD-810 6x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Kickstand"
+      ],
       "rating": "4.7"
     },
     {
@@ -127,7 +171,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate hard shell, TPU bumper, tempered glass screen protector",
-      "features": "MIL-STD-810 5x, IP68, Multi-layer, Built-in-screen, Port-covers, Kickstand",
+      "features": [
+        "MIL-STD-810 5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers",
+        "Kickstand"
+      ],
       "rating": "4.6"
     },
     {
@@ -143,7 +194,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + aluminum reinforcements",
-      "features": "MIL-STD-810H, IP68, Multi-layer, Metal-frame, Belt-clip-holster",
+      "features": [
+        "MIL-STD-810H",
+        "IP68",
+        "Multi-layer",
+        "Metal-frame",
+        "Belt-clip-holster"
+      ],
       "rating": "4.5"
     },
     {
@@ -159,7 +216,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate/TPU/rubber outer slipcover",
-      "features": "MIL-STD-810 8x, IP68, Multi-layer, Built-in-screen-protector, Port-covers",
+      "features": [
+        "MIL-STD-810 8x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen-protector",
+        "Port-covers"
+      ],
       "rating": "4.8"
     }
   ],

@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Multi-layer PC shell + TPU bumper + rubber slipcover",
-      "features": "Kickstand, Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -34,7 +39,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26ft drop",
       "materials": "Polycarbonate plate + alloy frame + TPU liner",
-      "features": "Port-covers, Screen-lip, Raised-corners"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Raised-corners"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -51,7 +60,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -68,7 +82,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Dual-layer PC + TPU with foam padding",
-      "features": "Kickstand, Port-covers, Screen-lip, Raised-corners"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Raised-corners"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -85,7 +104,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "PC frame + TPU bumper + tempered glass screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -102,7 +126,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Polycarbonate shell + TPU bumper + rubber slipcover",
-      "features": "Kickstand, Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -119,7 +148,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate plate + TPU liner + alloy armor frame",
-      "features": "Screen-lip, Port-covers, Raised bezels"
+      "features": [
+        "Screen-lip",
+        "Port-covers",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -136,7 +169,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate back + TPU bumper + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -153,7 +191,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC backplate + foam padding",
-      "features": "Kickstand, Screen-lip, Raised bezels"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised bezels"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -170,7 +212,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Metallic PC shell + shock-absorbing TPU frame",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -187,7 +233,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 7ft drop",
       "materials": "Polycarbonate shell + TPU bumper + rubber slipcover",
-      "features": "Kickstand, Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -204,7 +255,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft+",
       "materials": "Polycarbonate plate + TPU liner + alloy frame",
-      "features": "Screen-lip, Raised-corners, Port-covers"
+      "features": [
+        "Screen-lip",
+        "Raised-corners",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -221,7 +276,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "PC back + TPU frame + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -238,7 +298,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "TPU bumper + PC backplate",
-      "features": "Kickstand, Screen-lip, Raised-corners"
+      "features": [
+        "Kickstand",
+        "Screen-lip",
+        "Raised-corners"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -255,7 +319,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate + silicone + metal frame accents",
-      "features": "Kickstand, Port-covers, Screen-lip, Belt-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Belt-clip"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:30:56Z",

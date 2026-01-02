@@ -15,7 +15,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + alloy frame",
-      "features": "MIL-STD-810G-516.6-26x, IP68, Multi-layer, Built-in-screen, Holster, Port-covers",
+      "features": [
+        "MIL-STD-810G-516.6-26x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Holster",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -31,7 +38,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + hardguard rim",
-      "features": "MIL-STD-810G-15x, IP68, Multi-layer, Port-covers, Belt-clip",
+      "features": [
+        "MIL-STD-810G-15x",
+        "IP68",
+        "Multi-layer",
+        "Port-covers",
+        "Belt-clip"
+      ],
       "rating": "4.8"
     },
     {
@@ -47,7 +60,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + shock-absorbing foam",
-      "features": "MIL-STD-810G-30x, IP68, Multi-layer, Built-in-screen, Kickstand",
+      "features": [
+        "MIL-STD-810G-30x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Kickstand"
+      ],
       "rating": "4.7"
     },
     {
@@ -63,7 +82,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": "MIL-STD-810G-26x, IP68, Multi-layer, Built-in-screen, Hand-strap",
+      "features": [
+        "MIL-STD-810G-26x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Hand-strap"
+      ],
       "rating": "4.5"
     },
     {
@@ -79,7 +104,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Aerospace-grade aluminum + PC + TPU",
-      "features": "MIL-STD-810G-23x, IP68, Multi-layer, Built-in-screen, MagSafe, Port-covers",
+      "features": [
+        "MIL-STD-810G-23x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "MagSafe",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -95,7 +127,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + alloy frame",
-      "features": "MIL-STD-810G-516.6-26x, IP68-waterproof, Multi-layer, Built-in-screen-protector, Port-covers",
+      "features": [
+        "MIL-STD-810G-516.6-26x",
+        "IP68-waterproof",
+        "Multi-layer",
+        "Built-in-screen-protector",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -111,7 +149,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + impact foam",
-      "features": "MIL-STD-810G-20x, IP68, Multi-layer, Screen-protector-compatible, Belt-clip-holster",
+      "features": [
+        "MIL-STD-810G-20x",
+        "IP68",
+        "Multi-layer",
+        "Screen-protector-compatible",
+        "Belt-clip-holster"
+      ],
       "rating": "4.5"
     },
     {
@@ -127,7 +171,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": "MIL-STD-810G-30x, IP68, Multi-layer, Built-in-screen, Kickstand",
+      "features": [
+        "MIL-STD-810G-30x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Kickstand"
+      ],
       "rating": "4.4"
     },
     {
@@ -143,7 +193,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Aerospace-grade aluminum + PC + TPU",
-      "features": "MIL-STD-810G-26x, IP68, Multi-layer-4piece, Built-in-screen-protector, MagSafe-compatible",
+      "features": [
+        "MIL-STD-810G-26x",
+        "IP68",
+        "Multi-layer-4piece",
+        "Built-in-screen-protector",
+        "MagSafe-compatible"
+      ],
       "rating": "4.6"
     }
   ],

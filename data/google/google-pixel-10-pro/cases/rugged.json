@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 3X",
       "materials": "PC shell + TPU bumper + rubber slipcover",
-      "features": "Kickstand, Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -34,7 +39,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G",
       "materials": "TPU + PC backplate",
-      "features": "Kickstand, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -51,7 +59,11 @@
       "protection_level": "rugged",
       "protection_rating": "12ft drop",
       "materials": "PC + TPU + aramid fiber",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -68,7 +80,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 20ft drop",
       "materials": "PC + TPU + built-in screen protector",
-      "features": "Kickstand, Port-covers, Screen-protector"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-protector"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro",
@@ -85,7 +101,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops",
       "materials": "TPU + PC",
-      "features": "Port-covers, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Screen-lip"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:34:25Z",

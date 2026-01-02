@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -36,7 +41,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -54,7 +65,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, MIL-STD-810G"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "MIL-STD-810G"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -72,7 +88,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -90,7 +112,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips, Yellowed-resistant"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips",
+        "Yellowed-resistant"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -108,7 +136,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips, Yellowing-resistant"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips",
+        "Yellowing-resistant"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -126,7 +160,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std 1x"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD 1x"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -144,7 +184,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std 1x"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD 1x"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -162,7 +208,13 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, Mil-std 2x, Anti-yellowing"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "MIL-STD 2x",
+        "Anti-yellowing"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -180,7 +232,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Mil-std 1x"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "MIL-STD 1x"
+      ]
     },
     {
       "device_name": "Google Pixel 10 Pro Fold",
@@ -198,7 +256,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-lips, Mil-std 1x"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-lips",
+        "MIL-STD 1x"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:36:01Z",

@@ -18,7 +18,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -36,7 +40,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Minimal-bulk"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -54,7 +62,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Raised-lips, Wireless-charging"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Wireless-charging"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -72,7 +85,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Moderate-protection, Raised-lips"
+      "features": [
+        "Slim",
+        "Moderate-protection",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -90,7 +107,11 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Grip-texture"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -108,7 +129,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -126,7 +152,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Raised-lips, Moderate-protection"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Moderate-protection"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -144,7 +175,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, 1x-mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "1x-MIL-STD"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -162,7 +198,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Raised-lips, Kickstand"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -180,7 +221,11 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -198,7 +243,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Minimal-bulk"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -216,7 +265,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -234,7 +288,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, 1x mil-std"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "1x MIL-STD"
+      ]
     },
     {
       "device_name": "OnePlus 13R",
@@ -252,7 +311,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:48:19Z",

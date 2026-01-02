@@ -17,7 +17,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops",
       "materials": "PC shell + TPU bumper",
-      "features": "MagSafe, Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "MagSafe",
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -34,7 +39,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 23 drops",
       "materials": "PC + TPU + built-in screen protector",
-      "features": "MagSafe, Screen-protector, Port-covers, Camera-lip"
+      "features": [
+        "MagSafe",
+        "Screen-protector",
+        "Port-covers",
+        "Camera-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -51,7 +61,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 7x drop",
       "materials": "Multi-layer PC + TPU + rubber slipcover",
-      "features": "Port-covers, Holster-clip, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Holster-clip",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -68,7 +82,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops",
       "materials": "5-layer kevlar + PC + TPU",
-      "features": "Port-covers, Screen-lip, Kickstand"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -85,7 +103,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 10ft drop",
       "materials": "PC shell + TPU bumper",
-      "features": "Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -102,7 +124,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops",
       "materials": "PC shell + TPU bumper",
-      "features": "MagSafe, Kickstand, Port-covers, Screen-lip"
+      "features": [
+        "MagSafe",
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -119,7 +146,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G",
       "materials": "PC + TPU",
-      "features": "MagSafe, Kickstand, Port-covers"
+      "features": [
+        "MagSafe",
+        "Kickstand",
+        "Port-covers"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -136,7 +167,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 7x drop",
       "materials": "Multi-layer PC + TPU + rubber slipcover",
-      "features": "Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -153,7 +188,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 26 drops",
       "materials": "Kevlar + PC + TPU",
-      "features": "Port-covers, Screen-lip, Kickstand"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "Kickstand"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -170,7 +209,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 10ft drop",
       "materials": "PC shell + TPU bumper",
-      "features": "Kickstand, MagSafe, Screen-lip"
+      "features": [
+        "Kickstand",
+        "MagSafe",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -187,7 +230,12 @@
       "protection_level": "rugged",
       "protection_rating": "DROP+ | 5X MIL-STD-810G 516.6",
       "materials": "Polycarbonate shell + TPU slipcover + polycarbonate holster",
-      "features": "Kickstand, Port-covers, Screen-lip, Holster-clip"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "Holster-clip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -204,7 +252,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G",
       "materials": "PC shell + TPU bumper",
-      "features": "Kickstand, Port-covers, Screen-lip, MagSafe"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "MagSafe"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -221,7 +274,10 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G 516.6",
       "materials": "Kevlar + PC + TPU",
-      "features": "Port-covers, Screen-lip"
+      "features": [
+        "Port-covers",
+        "Screen-lip"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -238,7 +294,12 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G",
       "materials": "PC + TPU + shock-absorbing frame",
-      "features": "Kickstand, Port-covers, Screen-lip, MagSafe"
+      "features": [
+        "Kickstand",
+        "Port-covers",
+        "Screen-lip",
+        "MagSafe"
+      ]
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",
@@ -255,7 +316,11 @@
       "protection_level": "rugged",
       "protection_rating": "MIL-STD-810G",
       "materials": "PC shell + TPU core",
-      "features": "Port-covers, Screen-lip, MagSafe"
+      "features": [
+        "Port-covers",
+        "Screen-lip",
+        "MagSafe"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:31:06Z",

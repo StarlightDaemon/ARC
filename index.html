@@ -9,92 +9,36 @@
     <title>ARC - Accessories Recommendation Catalog</title>
     <link rel="stylesheet" href="public/css/style.css">
     <link rel="stylesheet" href="public/css/guide.css">
-    <style>
-        /* Phone Guide Cards - Dark Theme */
-        .phone-guide-card {
-            background: #252525;
-            border: 1px solid #3a3a3a;
-            padding: 1.5rem;
-            transition: all 0.3s ease;
-            text-decoration: none;
-            color: inherit;
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-
-        .phone-guide-card:hover {
-            transform: translateY(-4px);
-            border-color: #06a0ff;
-            text-decoration: none;
-        }
-
-        .phone-card-header {
-            display: flex;
-            flex-direction: column;
-            gap: 0.75rem;
-        }
-
-        .brand-badge {
-            display: inline-block;
-            padding: 0.35rem 0.85rem;
-            background: #06a0ff;
-            color: #000;
-            font-size: 0.75rem;
-            font-weight: 600;
-            align-self: flex-start;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-
-        .phone-card-header h3 {
-            font-size: 1.35rem;
-            font-weight: 600;
-            color: #ffffff;
-            margin: 0;
-        }
-
-        .phone-features {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-            font-size: 0.85rem;
-        }
-
-        .phone-features span {
-            background: #2a2a2a;
-            color: #d0d0d0;
-            padding: 0.4rem 0.75rem;
-        }
-
-        .phone-stats {
-            display: flex;
-            gap: 0.75rem;
-            font-size: 0.85rem;
-            color: #808080;
-            padding-top: 0.5rem;
-            border-top: 1px solid #3a3a3a;
-        }
-
-        @media (max-width: 640px) {
-            .products-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="public/css/components.css">
 </head>
 
 <body>
+    <a href="#main-content" class="skip-link">Skip to content</a>
     <header>
-        <nav>
-            <div class="logo"><a href="index.html">ARC</a></div>
-            <ul>
-                <li><a href="https://github.com/StarlightDaemon/ARC" target="_blank">GitHub</a></li>
-            </ul>
+        <nav aria-label="Main navigation">
+            <div class="nav-container">
+                <div class="logo">
+                    <a href="index.html">ARC</a>
+                </div>
+
+                <div class="search-container">
+                    <input type="text" id="searchInput" class="search-input" placeholder="Search for phone models..."
+                        aria-label="Search for phone models" />
+                    <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16zM19 19l-4.35-4.35" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" />
+                    </svg>
+                </div>
+
+                <ul>
+                    <li><a href="index.html">All Devices</a></li>
+                    <li><a href="https://github.com/StarlightDaemon/ARC" target="_blank" rel="noopener">GitHub</a></li>
+                </ul>
+            </div>
         </nav>
     </header>
 
-    <main class="guide-container">
+    <main id="main-content" class="guide-container">
         <div class="guide-header">
             <h1>Accessories Recommendation Catalog</h1>
             <p class="guide-intro">
@@ -103,14 +47,14 @@
             </p>
         </div>
 
-        <div class="filter-bar">
-            <button class="filter-btn active" data-brand="all">All (9)</button>
-            <button class="filter-btn" data-brand="apple">Apple</button>
-            <button class="filter-btn" data-brand="google">Google</button>
-            <button class="filter-btn" data-brand="nothing">Nothing</button>
-            <button class="filter-btn" data-brand="oneplus">OnePlus</button>
-            <button class="filter-btn" data-brand="samsung">Samsung</button>
-        </div>
+        <nav class="filter-bar" aria-label="Phone brand filters">
+            <button class="filter-btn active" data-brand="all" aria-label="Show all 41 phones">All (9)</button>
+            <button class="filter-btn" data-brand="apple" aria-label="Filter by Apple brand">Apple</button>
+            <button class="filter-btn" data-brand="google" aria-label="Filter by Google brand">Google</button>
+            <button class="filter-btn" data-brand="nothing" aria-label="Filter by Nothing brand">Nothing</button>
+            <button class="filter-btn" data-brand="oneplus" aria-label="Filter by OnePlus brand">OnePlus</button>
+            <button class="filter-btn" data-brand="samsung" aria-label="Filter by Samsung brand">Samsung</button>
+        </nav>
 
         <div class="products-grid">
             <!-- Phone cards loaded dynamically from data/index.json -->

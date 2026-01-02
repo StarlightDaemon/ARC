@@ -128,13 +128,26 @@ async function loadPhoneData() {
                 // Format features as bullet points
                 let featuresHTML = '';
                 if (product.features) {
-                    const featuresList = product.features
-                        .split(',')
-                        .map(f => f.trim())
-                        .filter(f => f)
-                        .map(f => `<li>${f}</li>`)
-                        .join('');
-                    featuresHTML = `<ul class="features-list">${featuresList}</ul>`;
+                    let featuresList;
+
+                    // Handle both array and string formats
+                    if (Array.isArray(product.features)) {
+                        featuresList = product.features
+                            .filter(f => f)
+                            .map(f => `<li>${f}</li>`)
+                            .join('');
+                    } else if (typeof product.features === 'string') {
+                        featuresList = product.features
+                            .split(',')
+                            .map(f => f.trim())
+                            .filter(f => f)
+                            .map(f => `<li>${f}</li>`)
+                            .join('');
+                    }
+
+                    if (featuresList) {
+                        featuresHTML = `<ul class="features-list">${featuresList}</ul>`;
+                    }
                 }
 
                 // Format materials with label

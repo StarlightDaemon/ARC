@@ -17,7 +17,13 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, MagSafe compatible, Raised bezels, Shock-absorbing, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "MagSafe compatible",
+        "Raised bezels",
+        "Shock-absorbing",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -35,7 +41,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shockproof, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -53,7 +64,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Tough-as-nails polycarbonate",
-      "features": "Anti-yellowing, Military-grade drop protection, Scratch-resistant, Precision-engineered",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade drop protection",
+        "Scratch-resistant",
+        "Precision-engineered"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -71,7 +87,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Military-grade protection, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade protection",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -89,7 +110,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU sides + PC back",
-      "features": "Anti-yellowing, Shock-absorbing corners, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing corners",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -107,7 +133,13 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, MagSafe compatible, Raised bezels, Air cushion technology, Scratch resistant",
+      "features": [
+        "Anti-yellowing",
+        "MagSafe compatible",
+        "Raised bezels",
+        "Air cushion technology",
+        "Scratch resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -125,7 +157,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shock absorption, Raised bezels, Scratch resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock absorption",
+        "Raised bezels",
+        "Scratch resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -143,7 +180,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Aramid fiber infused TPU + PC",
-      "features": "Permanent Anti-yellowing, Microfiber lining, Raised bezels, Extreme scratch resistance",
+      "features": [
+        "Permanent Anti-yellowing",
+        "Microfiber lining",
+        "Raised bezels",
+        "Extreme scratch resistance"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -161,7 +203,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, MagSafe compatible, Military-grade protection, Raised bezels",
+      "features": [
+        "Anti-yellowing",
+        "MagSafe compatible",
+        "Military-grade protection",
+        "Raised bezels"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -179,7 +226,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU sides + PC back",
-      "features": "Anti-yellowing, Shock-absorbing corners, Raised bezels, Scratch resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing corners",
+        "Raised bezels",
+        "Scratch resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -197,7 +249,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shockproof, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -215,7 +272,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Aramid fiber infused TPU",
-      "features": "Anti-yellowing, Military-grade drop protection, Scratch-resistant, Showcases device design",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade drop protection",
+        "Scratch-resistant",
+        "Showcases device design"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -233,7 +295,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, MagSafe compatible, Raised bezels, Shock-absorbing",
+      "features": [
+        "Anti-yellowing",
+        "MagSafe compatible",
+        "Raised bezels",
+        "Shock-absorbing"
+      ],
       "yellowing_resistance": "Yes"
     },
     {
@@ -251,7 +318,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "PC back + TPU sides",
-      "features": "Anti-yellowing, Military-grade protection, Scratch-resistant, Raised edges",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade protection",
+        "Scratch-resistant",
+        "Raised edges"
+      ],
       "yellowing_resistance": "Yes"
     }
   ],

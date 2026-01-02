@@ -15,7 +15,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "MIL-STD-810G-26-drops, Multi-layer, Built-in-screen, Kickstand, Port-covers",
+      "features": [
+        "MIL-STD-810G-26-drops",
+        "Multi-layer",
+        "Built-in-screen",
+        "Kickstand",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -31,7 +37,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Synthetic rubber + polycarbonate + hardened membrane screen protector",
-      "features": "MIL-STD-810G-7x, Multi-layer, Port-covers, Holster",
+      "features": [
+        "MIL-STD-810G-7x",
+        "Multi-layer",
+        "Port-covers",
+        "Holster"
+      ],
       "rating": "4.7"
     },
     {
@@ -47,7 +58,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + impact-resistant shell",
-      "features": "MIL-STD-810G, IP68, Multi-layer, Built-in-screen",
+      "features": [
+        "MIL-STD-810G",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen"
+      ],
       "rating": "4.5"
     },
     {
@@ -63,7 +79,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": "MIL-STD-810G-10x, IP68, Multi-layer, Screen-protector",
+      "features": [
+        "MIL-STD-810G-10x",
+        "IP68",
+        "Multi-layer",
+        "Screen-protector"
+      ],
       "rating": "4.4"
     },
     {
@@ -79,7 +100,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Aerospace grade aluminum + PC + TPU",
-      "features": "MIL-STD-810G-20ft, Multi-layer, Built-in-screen, Holster, Kickstand",
+      "features": [
+        "MIL-STD-810G-20ft",
+        "Multi-layer",
+        "Built-in-screen",
+        "Holster",
+        "Kickstand"
+      ],
       "rating": "4.6"
     },
     {
@@ -95,7 +122,15 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "MIL-STD-810G-5x, IP68-waterproof, Multi-layer, Built-in-screen, Kickstand, MagSafe, Port-covers",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68-waterproof",
+        "Multi-layer",
+        "Built-in-screen",
+        "Kickstand",
+        "MagSafe",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -111,7 +146,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + holster",
-      "features": "MIL-STD-810G-5x, Multi-layer, Port-covers, Holster, Belt-clip",
+      "features": [
+        "MIL-STD-810G-5x",
+        "Multi-layer",
+        "Port-covers",
+        "Holster",
+        "Belt-clip"
+      ],
       "rating": "4.7"
     },
     {
@@ -127,7 +168,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "MIL-STD-810G-6x, IP68, Multi-layer, Built-in-screen, Shock-absorbing",
+      "features": [
+        "MIL-STD-810G-6x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Shock-absorbing"
+      ],
       "rating": "4.5"
     },
     {
@@ -143,7 +190,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + rubberized edges",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Built-in-screen, Port-covers",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers"
+      ],
       "rating": "4.4"
     },
     {
@@ -159,7 +212,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Aerospace-grade aluminum + polycarbonate + TPU + screen protector",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Built-in-screen, MagSafe, Kickstand",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "MagSafe",
+        "Kickstand"
+      ],
       "rating": "4.6"
     }
   ],

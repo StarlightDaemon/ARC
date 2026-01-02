@@ -15,7 +15,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "MIL-STD-810G-516.6-26-drops, Multi-layer, Built-in-screen-protector, IP68-waterproof, Shock-absorbing",
+      "features": [
+        "MIL-STD-810G-516.6-26-drops",
+        "Multi-layer",
+        "Built-in-screen-protector",
+        "IP68-waterproof",
+        "Shock-absorbing"
+      ],
       "rating": "4.6"
     },
     {
@@ -31,7 +37,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + internal foam",
-      "features": "MIL-STD-810G-15-ft-drop, Multi-layer, Port-covers, Dust-resistant",
+      "features": [
+        "MIL-STD-810G-15-ft-drop",
+        "Multi-layer",
+        "Port-covers",
+        "Dust-resistant"
+      ],
       "rating": "4.7"
     },
     {
@@ -47,7 +58,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + impact-absorbing polymer",
-      "features": "MIL-STD-810G-20x-drop-tested, Multi-layer, Built-in-screen-protector, IP68-waterproof, Belt-clip-holster",
+      "features": [
+        "MIL-STD-810G-20x-drop-tested",
+        "Multi-layer",
+        "Built-in-screen-protector",
+        "IP68-waterproof",
+        "Belt-clip-holster"
+      ],
       "rating": "4.5"
     },
     {
@@ -63,7 +80,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + alloy frame",
-      "features": "MIL-STD-810G-23-drops-16ft, Multi-layer, IP68-waterproof, Built-in-screen-protector, Kickstand",
+      "features": [
+        "MIL-STD-810G-23-drops-16ft",
+        "Multi-layer",
+        "IP68-waterproof",
+        "Built-in-screen-protector",
+        "Kickstand"
+      ],
       "rating": "4.4"
     },
     {
@@ -79,7 +102,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Aluminum alloy + polycarbonate + TPU + screen protector",
-      "features": "MIL-STD-810G-26-drops, Multi-layer, Built-in-screen-protector, IP68, MagSafe-compatible",
+      "features": [
+        "MIL-STD-810G-26-drops",
+        "Multi-layer",
+        "Built-in-screen-protector",
+        "IP68",
+        "MagSafe-compatible"
+      ],
       "rating": "4.6"
     }
   ],

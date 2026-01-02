@@ -14,7 +14,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + TPU layer + rubber bumpers + integrated screen protector",
-      "features": "MIL-STD-810G-26-drops, Multi-layer, Built-in-screen, Port-covers, IP68-compatible",
+      "features": [
+        "MIL-STD-810G-26-drops",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers",
+        "IP68-compatible"
+      ],
       "rating": "4.8"
     },
     {
@@ -30,7 +36,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + rubber overmold",
-      "features": "MIL-STD-810G-20ft, IP68, Multi-layer, Port-covers",
+      "features": [
+        "MIL-STD-810G-20ft",
+        "IP68",
+        "Multi-layer",
+        "Port-covers"
+      ],
       "rating": "4.7"
     },
     {
@@ -46,7 +57,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate back + TPU frame + built-in screen protector",
-      "features": "MIL-STD-810G-20ft, Multi-layer, Built-in-screen, Holster, Port-covers",
+      "features": [
+        "MIL-STD-810G-20ft",
+        "Multi-layer",
+        "Built-in-screen",
+        "Holster",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -62,7 +79,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + aluminum reinforcements",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Shock-absorbing",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Shock-absorbing"
+      ],
       "rating": "4.5"
     },
     {
@@ -78,7 +100,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + synthetic rubber + TPU + screen protector",
-      "features": "MIL-STD-810G-26-drops, IP68, Multi-layer, Built-in-screen, Port-covers",
+      "features": [
+        "MIL-STD-810G-26-drops",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers"
+      ],
       "rating": "4.8"
     }
   ],

@@ -17,7 +17,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shock-absorbing, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -35,7 +40,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shockproof, Raised bezels, Scratch resistance",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised bezels",
+        "Scratch resistance"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -53,7 +63,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Precision-engineered polycarbonate",
-      "features": "Anti-yellowing, Microfiber lining, Scratch-proof, Torque vents",
+      "features": [
+        "Anti-yellowing",
+        "Microfiber lining",
+        "Scratch-proof",
+        "Torque vents"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -71,7 +86,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Military-grade drop protection, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade drop protection",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -89,7 +109,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "PC back + TPU sides",
-      "features": "Anti-yellowing, Shock-absorbing corners, Raised camera lips, Scratch resistance",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing corners",
+        "Raised camera lips",
+        "Scratch resistance"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -107,7 +132,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU bumper + PC back",
-      "features": "Anti-yellowing, Shock-absorbing, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Shock-absorbing",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -125,7 +155,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC hybrid",
-      "features": "Anti-yellowing, Shockproof, Raised edges, Scratch resistance",
+      "features": [
+        "Anti-yellowing",
+        "Shockproof",
+        "Raised edges",
+        "Scratch resistance"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -143,7 +178,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "Microfiber-lined TPU",
-      "features": "Anti-yellowing, Matte grip, Scratch-proof, Shock protection",
+      "features": [
+        "Anti-yellowing",
+        "Matte grip",
+        "Scratch-proof",
+        "Shock protection"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -161,7 +201,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "TPU + PC",
-      "features": "Anti-yellowing, Air-guard corners, Raised bezels, Scratch-resistant",
+      "features": [
+        "Anti-yellowing",
+        "Air-guard corners",
+        "Raised bezels",
+        "Scratch-resistant"
+      ],
       "yellowing_resistance": true
     },
     {
@@ -179,7 +224,12 @@
       "protection_level": "clear",
       "clarity": "crystal clear",
       "materials": "PC back + TPU sides",
-      "features": "Anti-yellowing, Military-grade drop, Raised lips, Scratch resistance",
+      "features": [
+        "Anti-yellowing",
+        "Military-grade drop",
+        "Raised lips",
+        "Scratch resistance"
+      ],
       "yellowing_resistance": true
     }
   ],

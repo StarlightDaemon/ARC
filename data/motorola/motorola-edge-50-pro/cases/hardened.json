@@ -15,7 +15,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + alloy frame",
-      "features": "MIL-STD-810H-5x, IP68, Multi-layer, Built-in-screen, Port-covers, Kickstand",
+      "features": [
+        "MIL-STD-810H-5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers",
+        "Kickstand"
+      ],
       "rating": "4.6"
     },
     {
@@ -31,7 +38,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + synthetic rubber + hardshell",
-      "features": "MIL-STD-810G-5x, IP68, Multi-layer, Port-covers, Belt-clip",
+      "features": [
+        "MIL-STD-810G-5x",
+        "IP68",
+        "Multi-layer",
+        "Port-covers",
+        "Belt-clip"
+      ],
       "rating": "4.7"
     },
     {
@@ -47,7 +60,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + shock-absorbing foam",
-      "features": "MIL-STD-810G-26x, IP68, Multi-layer, Screen-protector, Industrial-grade",
+      "features": [
+        "MIL-STD-810G-26x",
+        "IP68",
+        "Multi-layer",
+        "Screen-protector",
+        "Industrial-grade"
+      ],
       "rating": "4.5"
     },
     {
@@ -63,7 +82,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": "MIL-STD-810H-5x, IP68, Multi-layer, Port-covers, Workwear",
+      "features": [
+        "MIL-STD-810H-5x",
+        "IP68",
+        "Multi-layer",
+        "Port-covers",
+        "Workwear"
+      ],
       "rating": "4.6"
     },
     {
@@ -79,7 +104,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "PC + silicone + metal frame",
-      "features": "MIL-STD-810H-5x, IP68, Multi-layer, Built-in-screen, Kickstand, Hand-strap",
+      "features": [
+        "MIL-STD-810H-5x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Kickstand",
+        "Hand-strap"
+      ],
       "rating": "4.5"
     }
   ],

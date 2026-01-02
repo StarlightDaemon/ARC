@@ -1,0 +1,212 @@
+/* ===========================================
+   ARC DESIGN SYSTEM
+   Inspired by AlternativeTo.net
+   =========================================== */
+
+/* Color Palette */
+:root {
+    /* Background Colors */
+    --color-bg-body: #f5f7f9;
+    /* Light gray body background */
+    --color-bg-card: #ffffff;
+    /* White cards for contrast */
+    --color-bg-card-hover: #fafbfc;
+    /* Subtle hover state */
+
+    /* Accent Colors */
+    --color-primary: #06a0ff;
+    /* Primary blue */
+    --color-primary-dark: #0087d2;
+    /* Darker blue for hover */
+
+    /* Text Colors */
+    --color-text-primary: #2d3436;
+    /* Dark gray for headings */
+    --color-text-secondary: #636e72;
+    /* Medium gray for body */
+    --color-text-muted: #b2bec3;
+    /* Light gray for subtle text */
+
+    /* Border Colors */
+    --color-border-light: #e1e8ed;
+    /* Light borders */
+    --color-border-medium: #dfe6e9;
+    /* Medium borders */
+
+    /* Tag/Pill Colors */
+    --color-tag-bg: #f0f3f5;
+    /* Light gray for tags */
+    --color-tag-text: #636e72;
+    /* Medium gray text */
+    --color-tag-primary-bg: #e3f2fd;
+    /* Light blue for primary tags */
+    --color-tag-primary-text: #0087d2;
+    /* Dark blue text */
+
+    /* Spacing Scale */
+    --spacing-xs: 0.5rem;
+    /* 8px */
+    --spacing-sm: 0.75rem;
+    /* 12px */
+    --spacing-md: 1rem;
+    /* 16px */
+    --spacing-lg: 1.5rem;
+    /* 24px */
+    --spacing-xl: 2rem;
+    /* 32px */
+    --spacing-2xl: 3rem;
+    /* 48px */
+
+    /* Border Radius */
+    --radius-sm: 6px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+    --radius-pill: 999px;
+
+    /* Shadows */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+    --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.12);
+
+    /* Typography */
+    --font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --font-size-xs: 0.75rem;
+    /* 12px */
+    --font-size-sm: 0.875rem;
+    /* 14px */
+    --font-size-base: 1rem;
+    /* 16px */
+    --font-size-lg: 1.125rem;
+    /* 18px */
+    --font-size-xl: 1.25rem;
+    /* 20px */
+    --font-size-2xl: 1.5rem;
+    /* 24px */
+    --font-size-3xl: 2rem;
+    /* 32px */
+
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+}
+
+/* ===========================================
+   PHONE CARD COMPONENTS
+   =========================================== */
+
+/* Phone Guide Cards - Modern Design */
+.phone-guide-card {
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-lg);
+    /* 16px rounded corners */
+    padding: var(--spacing-lg);
+    /* 24px padding */
+    transition: all 0.2s ease;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
+    box-shadow: var(--shadow-sm);
+}
+
+.phone-guide-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-md);
+    background: var(--color-bg-card-hover);
+    text-decoration: none;
+}
+
+.phone-card-header {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-sm);
+}
+
+/* Brand Badge - Pill Style */
+.brand-badge {
+    display: inline-block;
+    padding: var(--spacing-xs) var(--spacing-md);
+    background: var(--color-tag-primary-bg);
+    color: var(--color-tag-primary-text);
+    font-size: var(--font-size-xs);
+    font-weight: var(--font-weight-semibold);
+    align-self: flex-start;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-radius: var(--radius-pill);
+    /* Pill shape */
+}
+
+.phone-card-header h3 {
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-text-primary);
+    margin: 0;
+    line-height: 1.3;
+}
+
+/* Feature Tags - Pill Style */
+.phone-features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+    font-size: var(--font-size-sm);
+}
+
+.phone-features span {
+    background: var(--color-tag-bg);
+    color: var(--color-tag-text);
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border-radius: var(--radius-pill);
+    /* Pill shape */
+    font-weight: var(--font-weight-medium);
+}
+
+/* Stats Section */
+.phone-stats {
+    display: flex;
+    gap: var(--spacing-md);
+    font-size: var(--font-size-sm);
+    color: var(--color-text-secondary);
+    padding-top: var(--spacing-sm);
+    border-top: 1px solid var(--color-border-light);
+}
+
+/* ===========================================
+   SKIP TO CONTENT LINK
+   =========================================== */
+
+.skip-link {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    background: var(--color-primary);
+    color: white;
+    padding: var(--spacing-sm) var(--spacing-md);
+    text-decoration: none;
+    font-weight: var(--font-weight-semibold);
+    border-radius: 0 0 var(--radius-sm) 0;
+    z-index: 100;
+}
+
+.skip-link:focus {
+    top: 0;
+}
+
+/* ===========================================
+   RESPONSIVE DESIGN
+   =========================================== */
+
+@media (max-width: 640px) {
+    .products-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .phone-guide-card {
+        padding: var(--spacing-md);
+    }
+}

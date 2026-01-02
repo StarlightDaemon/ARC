@@ -17,7 +17,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "iPhone 16 Pro Max",
@@ -35,7 +40,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "iPhone 16 Pro Max",
@@ -53,7 +63,11 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "iPhone 16 Pro Max",
@@ -71,7 +85,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "iPhone 16 Pro Max",
@@ -89,7 +107,11 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Minimal-bulk"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk"
+      ]
     }
   ],
   "count": 5,

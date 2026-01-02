@@ -15,7 +15,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + alloy frame",
-      "features": "MIL-STD-810 6x, IP68, Multi-layer, Built-in-screen, Port-covers",
+      "features": [
+        "MIL-STD-810 6x",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -31,7 +37,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + rubber",
-      "features": "MIL-STD-810 5x, IP68, Multi-layer, Raised-edges",
+      "features": [
+        "MIL-STD-810 5x",
+        "IP68",
+        "Multi-layer",
+        "Raised-edges"
+      ],
       "rating": "4.5"
     },
     {
@@ -47,7 +58,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + holster",
-      "features": "MIL-STD-810 5x, Multi-layer, Port-covers, Holster",
+      "features": [
+        "MIL-STD-810 5x",
+        "Multi-layer",
+        "Port-covers",
+        "Holster"
+      ],
       "rating": "4.7"
     },
     {
@@ -63,7 +79,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + aluminum reinforcements",
-      "features": "MIL-STD-810 10x, IP68, Multi-layer, Shock-absorbing",
+      "features": [
+        "MIL-STD-810 10x",
+        "IP68",
+        "Multi-layer",
+        "Shock-absorbing"
+      ],
       "rating": "4.4"
     },
     {
@@ -79,7 +100,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + shockproof foam",
-      "features": "MIL-STD-810 6x, Multi-layer, Mag-safe, Raised-lip",
+      "features": [
+        "MIL-STD-810 6x",
+        "Multi-layer",
+        "Mag-safe",
+        "Raised-lip"
+      ],
       "rating": "4.8"
     },
     {
@@ -95,7 +121,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + alloy frame",
-      "features": "MIL-STD-810 12ft (8x), IP68, Multi-layer, Built-in-screen, Port-covers, MagSafe",
+      "features": [
+        "MIL-STD-810 12ft (8x)",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers",
+        "MagSafe"
+      ],
       "rating": "4.6"
     },
     {
@@ -111,7 +144,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + rubber overmold",
-      "features": "MIL-STD-810 20ft (13x), IP68, Multi-layer, Shock-absorbing, Port-covers",
+      "features": [
+        "MIL-STD-810 20ft (13x)",
+        "IP68",
+        "Multi-layer",
+        "Shock-absorbing",
+        "Port-covers"
+      ],
       "rating": "4.5"
     },
     {
@@ -127,7 +166,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + TPU inner frame",
-      "features": "MIL-STD-810 16ft (10x), IP68, Multi-layer, Port-covers, Holster",
+      "features": [
+        "MIL-STD-810 16ft (10x)",
+        "IP68",
+        "Multi-layer",
+        "Port-covers",
+        "Holster"
+      ],
       "rating": "4.7"
     },
     {
@@ -143,7 +188,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + aluminum accents",
-      "features": "MIL-STD-810H 16ft (10x), IP68, Multi-layer, Built-in-screen, Industrial-grade",
+      "features": [
+        "MIL-STD-810H 16ft (10x)",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Industrial-grade"
+      ],
       "rating": "4.4"
     },
     {
@@ -159,7 +210,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Aluminum alloy + polycarbonate + TPU",
-      "features": "MIL-STD-810 16ft (10x), Multi-layer, Built-in-screen, Port-covers, Metal-frame",
+      "features": [
+        "MIL-STD-810 16ft (10x)",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers",
+        "Metal-frame"
+      ],
       "rating": "4.6"
     }
   ],

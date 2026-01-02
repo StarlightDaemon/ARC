@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Magfit, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Magfit",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Plus",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Plus",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Plus",
@@ -72,7 +87,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Stand, Wireless-charging, Grip-texture"
+      "features": [
+        "Slim",
+        "Stand",
+        "Wireless-charging",
+        "Grip-texture"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Plus",
@@ -90,7 +110,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Raised-lips, Moderate-protection"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "Moderate-protection"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Plus",
@@ -108,7 +133,13 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips, Magfit"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips",
+        "Magfit"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Plus",
@@ -126,7 +157,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Precise-cutouts"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Precise-cutouts"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Plus",
@@ -144,7 +180,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Raised-lips, One-piece-design"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Raised-lips",
+        "One-piece-design"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Plus",
@@ -162,7 +203,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Anti-yellowing, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Anti-yellowing",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Apple iPhone 16 Plus",
@@ -180,7 +226,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:20:49Z",

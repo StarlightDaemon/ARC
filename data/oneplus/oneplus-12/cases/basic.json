@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus 12",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Drop-protection, Non-slip-grip, Raised-edges"
+      "features": [
+        "Slim",
+        "Drop-protection",
+        "Non-slip-grip",
+        "Raised-edges"
+      ]
     },
     {
       "device_name": "OnePlus 12",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Raised-lips, Lanyard-hole"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Lanyard-hole"
+      ]
     },
     {
       "device_name": "OnePlus 12",
@@ -72,7 +87,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Minimal-bulk, Wireless-charging, Precise-cutouts"
+      "features": [
+        "Slim",
+        "Minimal-bulk",
+        "Wireless-charging",
+        "Precise-cutouts"
+      ]
     },
     {
       "device_name": "OnePlus 12",
@@ -90,7 +110,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Raised-lips, Shockproof"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Shockproof"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:50:04Z",

@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC",
-      "features": "Slim, Minimal-bulk, Adhesive-strips, Pocket-friendly"
+      "features": [
+        "Slim",
+        "Minimal-bulk",
+        "Adhesive-strips",
+        "Pocket-friendly"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, 1x-mil-std, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "1x-MIL-STD",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -72,7 +87,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Moderate-protection, Wireless-charging"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Moderate-protection",
+        "Wireless-charging"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -90,7 +110,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Kickstand, Raised-lips, Wireless-charging"
+      "features": [
+        "Slim",
+        "Kickstand",
+        "Raised-lips",
+        "Wireless-charging"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -108,7 +133,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Shock-absorbent, Wireless-charging"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Shock-absorbent",
+        "Wireless-charging"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -126,7 +156,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Yellowing-resistant, Raised-lips, Moderate-drop"
+      "features": [
+        "Slim",
+        "Yellowing-resistant",
+        "Raised-lips",
+        "Moderate-drop"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -144,7 +179,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Pocket-friendly, 1x-mil-std, Precise-cutouts"
+      "features": [
+        "Slim",
+        "Pocket-friendly",
+        "1x-MIL-STD",
+        "Precise-cutouts"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -162,7 +202,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Drop-protection, Precise-cutouts"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Drop-protection",
+        "Precise-cutouts"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -180,7 +225,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Grip-texture, Raised-lips, Shock-absorbent"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Raised-lips",
+        "Shock-absorbent"
+      ]
     },
     {
       "device_name": "OnePlus Open",
@@ -198,7 +248,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Kickstand, Raised-edges"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Kickstand",
+        "Raised-edges"
+      ]
     }
   ],
   "saved_at": "2025-12-30T19:53:40Z",

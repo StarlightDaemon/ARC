@@ -14,7 +14,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + silicone + built-in screen protector",
-      "features": "MIL-STD-810G-26-drops, IP68-waterproof, Multi-layer, Built-in-screen, Port-covers, MagSafe",
+      "features": [
+        "MIL-STD-810G-26-drops",
+        "IP68-waterproof",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers",
+        "MagSafe"
+      ],
       "rating": "4.8"
     },
     {
@@ -30,7 +37,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + rubber shock-absorbing layer",
-      "features": "MIL-STD-810G-20ft, IP68, Multi-layer, Port-covers, Belt-clip",
+      "features": [
+        "MIL-STD-810G-20ft",
+        "IP68",
+        "Multi-layer",
+        "Port-covers",
+        "Belt-clip"
+      ],
       "rating": "4.7"
     },
     {
@@ -46,7 +59,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + TPU inner layer + holster",
-      "features": "MIL-STD-810G-7x, IP68, Multi-layer, Port-covers, Holster, Kickstand",
+      "features": [
+        "MIL-STD-810G-7x",
+        "IP68",
+        "Multi-layer",
+        "Port-covers",
+        "Holster",
+        "Kickstand"
+      ],
       "rating": "4.6"
     },
     {
@@ -62,7 +82,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + aluminum frame inserts",
-      "features": "MIL-STD-810G-16ft, IP68, Multi-layer, Built-in-screen, Shock-absorbing-corners",
+      "features": [
+        "MIL-STD-810G-16ft",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Shock-absorbing-corners"
+      ],
       "rating": "4.7"
     },
     {
@@ -78,7 +104,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + glass screen protector",
-      "features": "MIL-STD-810G-26-drops, IP68, Multi-layer, Built-in-screen, Lens-protector, Belt-clip",
+      "features": [
+        "MIL-STD-810G-26-drops",
+        "IP68",
+        "Multi-layer",
+        "Built-in-screen",
+        "Lens-protector",
+        "Belt-clip"
+      ],
       "rating": "4.8"
     }
   ],

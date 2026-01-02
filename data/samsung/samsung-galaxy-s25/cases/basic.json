@@ -18,7 +18,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -36,7 +41,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -54,7 +64,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU",
-      "features": "Slim, Wireless-charging, Drop-protection, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Drop-protection",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -72,7 +87,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Grip-texture, Wireless-charging, Raised-lips"
+      "features": [
+        "Slim",
+        "Grip-texture",
+        "Wireless-charging",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -90,7 +110,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC",
-      "features": "Slim, Wireless-charging, Magnet-ring, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Magnet-ring",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -108,7 +133,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -126,7 +156,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Minimal-bulk, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Minimal-bulk",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -144,7 +179,12 @@
       "thickness": "",
       "weight": "",
       "materials": "PC/TPU hybrid",
-      "features": "Slim, Wireless-charging, Drop-protection, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Drop-protection",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -162,7 +202,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU",
-      "features": "Slim, Wireless-charging, Grip-texture, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "Grip-texture",
+        "Raised-lips"
+      ]
     },
     {
       "device_name": "Samsung Galaxy S25",
@@ -180,7 +225,12 @@
       "thickness": "",
       "weight": "",
       "materials": "TPU/PC hybrid",
-      "features": "Slim, Wireless-charging, MagSafe, Raised-lips"
+      "features": [
+        "Slim",
+        "Wireless-charging",
+        "MagSafe",
+        "Raised-lips"
+      ]
     }
   ],
   "saved_at": "2025-12-31T04:45:01Z",

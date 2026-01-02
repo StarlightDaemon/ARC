@@ -15,7 +15,14 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + built-in screen protector",
-      "features": "MIL-STD-810G-516-6x-drop-26ft, IP68-waterproof, Multi-layer, Built-in-screen, Kickstand, Port-covers",
+      "features": [
+        "MIL-STD-810G-516-6x-drop-26ft",
+        "IP68-waterproof",
+        "Multi-layer",
+        "Built-in-screen",
+        "Kickstand",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -31,7 +38,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + hardguard inner layer",
-      "features": "MIL-STD-810G-5x-drop-15ft, Multi-layer, Port-covers, Holster-clip, Belt-clip",
+      "features": [
+        "MIL-STD-810G-5x-drop-15ft",
+        "Multi-layer",
+        "Port-covers",
+        "Holster-clip",
+        "Belt-clip"
+      ],
       "rating": "4.7"
     },
     {
@@ -47,7 +60,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + shock-absorbing foam",
-      "features": "MIL-STD-810G-10x-drop-20ft, IP68-waterproof, Multi-layer, Shock-absorbing",
+      "features": [
+        "MIL-STD-810G-10x-drop-20ft",
+        "IP68-waterproof",
+        "Multi-layer",
+        "Shock-absorbing"
+      ],
       "rating": "4.5"
     },
     {
@@ -63,7 +81,12 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + aluminum frame",
-      "features": "MIL-STD-810G-8x-drop-20ft, IP68-waterproof, Multi-layer, Aluminum-reinforcement",
+      "features": [
+        "MIL-STD-810G-8x-drop-20ft",
+        "IP68-waterproof",
+        "Multi-layer",
+        "Aluminum-reinforcement"
+      ],
       "rating": "4.4"
     },
     {
@@ -79,7 +102,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Metallic carbon fiber + polycarbonate + TPU + screen protector",
-      "features": "MIL-STD-810G-6x-drop-20ft, IP68-waterproof, Multi-layer, Built-in-screen, Port-covers",
+      "features": [
+        "MIL-STD-810G-6x-drop-20ft",
+        "IP68-waterproof",
+        "Multi-layer",
+        "Built-in-screen",
+        "Port-covers"
+      ],
       "rating": "4.6"
     },
     {
@@ -95,7 +124,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + inner foam",
-      "features": "MIL-STD-810G-5x, Multi-layer, IP68, Port-covers, Belt-clip-holster",
+      "features": [
+        "MIL-STD-810G-5x",
+        "Multi-layer",
+        "IP68",
+        "Port-covers",
+        "Belt-clip-holster"
+      ],
       "rating": "4.7"
     },
     {
@@ -111,7 +146,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + impact-resistant polymer",
-      "features": "MIL-STD-810G-5x, Multi-layer, Built-in-screen, IP68, Magnetic",
+      "features": [
+        "MIL-STD-810G-5x",
+        "Multi-layer",
+        "Built-in-screen",
+        "IP68",
+        "Magnetic"
+      ],
       "rating": "4.5"
     },
     {
@@ -127,7 +168,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + rubberized edges",
-      "features": "MIL-STD-810G-6x, Multi-layer, IP68, Built-in-screen, Kickstand",
+      "features": [
+        "MIL-STD-810G-6x",
+        "Multi-layer",
+        "IP68",
+        "Built-in-screen",
+        "Kickstand"
+      ],
       "rating": "4.4"
     },
     {
@@ -143,7 +190,13 @@
       "category": "cases-and-protection",
       "case_type": "hardened",
       "materials": "Aerospace grade aluminum + polycarbonate + TPU",
-      "features": "MIL-STD-810G-5x, Multi-layer, Built-in-screen, IP68, Metal-frame",
+      "features": [
+        "MIL-STD-810G-5x",
+        "Multi-layer",
+        "Built-in-screen",
+        "IP68",
+        "Metal-frame"
+      ],
       "rating": "4.6"
     }
   ],
