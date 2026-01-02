@@ -67,6 +67,15 @@ Visit: https://starlightdaemon.github.io/ARC/
 - Product details include materials, protection ratings, and pricing
 - Direct purchase links for convenience
 
+> [!NOTE]
+> **Product Links Status** (Updated Jan 2026)  
+> Product URLs are currently a mix of quality levels:
+> - ✅ **Official product pages** - Direct manufacturer links (improving)
+> - ⚠️ **Brand collection pages** - Manufacturer site, but general category
+> - 📍 **Placeholder links** - Generic manufacturer sites (being refined)
+> 
+> We're actively upgrading links using automated research. Report broken links via GitHub Issues.
+
 ---
 
 ## Project Structure
