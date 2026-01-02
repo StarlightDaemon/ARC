@@ -20,9 +20,9 @@
       "materials": "PC/TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Magfit",
-        "Raised-lips",
+        "Raised Lips",
         "Grip-texture"
       ]
     },
@@ -44,9 +44,9 @@
       "materials": "TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture",
-        "Raised-lips",
+        "Raised Lips",
         "Magfit"
       ]
     },
@@ -68,8 +68,8 @@
       "materials": "PC/TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
-        "Raised-lips",
+        "Wireless Charging",
+        "Raised Lips",
         "Clear"
       ]
     },
@@ -91,9 +91,9 @@
       "materials": "TPU/PC",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture",
-        "Raised-lips",
+        "Raised Lips",
         "MagSafe"
       ]
     },
@@ -115,9 +115,9 @@
       "materials": "PC/TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Kickstand",
-        "Raised-lips",
+        "Raised Lips",
         "MagSafe"
       ]
     },
@@ -139,9 +139,9 @@
       "materials": "PC",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Precise-cutouts",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -163,8 +163,8 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Wireless-charging",
-        "Raised-lips"
+        "Wireless Charging",
+        "Raised Lips"
       ]
     },
     {
@@ -186,8 +186,8 @@
       "features": [
         "Slim",
         "Moderate-protection",
-        "Wireless-charging",
-        "Raised-lips"
+        "Wireless Charging",
+        "Raised Lips"
       ]
     },
     {
@@ -209,8 +209,8 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Wireless-charging",
-        "Raised-lips"
+        "Wireless Charging",
+        "Raised Lips"
       ]
     },
     {
@@ -231,9 +231,9 @@
       "materials": "TPU/PC hybrid",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Kickstand",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -254,9 +254,9 @@
       "materials": "PC",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Magfit",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -278,8 +278,8 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Wireless-charging",
-        "Raised-lips"
+        "Wireless Charging",
+        "Raised Lips"
       ]
     },
     {
@@ -300,8 +300,8 @@
       "materials": "PC/TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
-        "Raised-lips",
+        "Wireless Charging",
+        "Raised Lips",
         "Moderate-protection"
       ]
     },
@@ -324,7 +324,7 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Raised-lips",
+        "Raised Lips",
         "Moderate-protection"
       ]
     },
@@ -346,9 +346,9 @@
       "materials": "PC/TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Kickstand",
-        "Raised-lips"
+        "Raised Lips"
       ]
     }
   ],

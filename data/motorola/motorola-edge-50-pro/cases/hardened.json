@@ -18,9 +18,9 @@
       "features": [
         "MIL-STD-810H-5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers",
         "Kickstand"
       ],
       "rating": "4.6"
@@ -41,8 +41,8 @@
       "features": [
         "MIL-STD-810G-5x",
         "IP68",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Belt-clip"
       ],
       "rating": "4.7"
@@ -63,7 +63,7 @@
       "features": [
         "MIL-STD-810G-26x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Screen-protector",
         "Industrial-grade"
       ],
@@ -85,8 +85,8 @@
       "features": [
         "MIL-STD-810H-5x",
         "IP68",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Workwear"
       ],
       "rating": "4.6"
@@ -107,8 +107,8 @@
       "features": [
         "MIL-STD-810H-5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "Kickstand",
         "Hand-strap"
       ],

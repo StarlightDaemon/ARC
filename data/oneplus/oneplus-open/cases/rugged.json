@@ -19,7 +19,7 @@
       "materials": "PC shell + TPU bumper",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -40,7 +40,7 @@
       "materials": "PC back + TPU frame",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -60,7 +60,7 @@
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "TPU/polycarbonate",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -100,7 +100,7 @@
       "protection_rating": "MIL-STD-810G, 7x 4ft drops",
       "materials": "Polycarbonate shell + TPU inner + rubber slipcover",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Holster-clip"
       ]
@@ -122,9 +122,9 @@
       "materials": "PC shell + TPU bumper + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
-        "Built-in-screen-protector"
+        "Built-In Screen-protector"
       ]
     },
     {
@@ -144,9 +144,9 @@
       "materials": "PC back + TPU bumper + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
-        "Built-in-screen-protector"
+        "Built-In Screen-protector"
       ]
     },
     {
@@ -166,7 +166,7 @@
       "materials": "TPU + PC backplate",
       "features": [
         "Screen-lip",
-        "Port-covers",
+        "Port Covers",
         "Kickstand"
       ]
     },
@@ -187,7 +187,7 @@
       "materials": "Polycarbonate + TPU",
       "features": [
         "Screen-lip",
-        "Port-covers"
+        "Port Covers"
       ]
     },
     {
@@ -206,7 +206,7 @@
       "protection_rating": "MIL-STD-810G, 6ft drop",
       "materials": "Multi-layer: polycarbonate shell + TPU inner liner + rubber slipcover",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Holster-clip"
       ]

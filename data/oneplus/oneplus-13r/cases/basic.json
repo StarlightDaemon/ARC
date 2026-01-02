@@ -21,7 +21,7 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -42,7 +42,7 @@
       "materials": "PC",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Minimal-bulk"
       ]
     },
@@ -65,8 +65,8 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Raised-lips",
-        "Wireless-charging"
+        "Raised Lips",
+        "Wireless Charging"
       ]
     },
     {
@@ -88,7 +88,7 @@
       "features": [
         "Slim",
         "Moderate-protection",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -109,7 +109,7 @@
       "materials": "TPU/PC",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture"
       ]
     },
@@ -132,8 +132,8 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Wireless-charging",
-        "Raised-lips"
+        "Wireless Charging",
+        "Raised Lips"
       ]
     },
     {
@@ -155,7 +155,7 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Raised-lips",
+        "Raised Lips",
         "Moderate-protection"
       ]
     },
@@ -177,8 +177,8 @@
       "materials": "PC/TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
-        "Raised-lips",
+        "Wireless Charging",
+        "Raised Lips",
         "1x-MIL-STD"
       ]
     },
@@ -200,8 +200,8 @@
       "materials": "TPU/PC",
       "features": [
         "Slim",
-        "Wireless-charging",
-        "Raised-lips",
+        "Wireless Charging",
+        "Raised Lips",
         "Kickstand"
       ]
     },
@@ -224,7 +224,7 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -245,7 +245,7 @@
       "materials": "PC/TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Minimal-bulk"
       ]
     },
@@ -268,8 +268,8 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Wireless-charging",
-        "Raised-lips"
+        "Wireless Charging",
+        "Raised Lips"
       ]
     },
     {
@@ -290,8 +290,8 @@
       "materials": "PC/TPU hybrid",
       "features": [
         "Slim",
-        "Wireless-charging",
-        "Raised-lips",
+        "Wireless Charging",
+        "Raised Lips",
         "1x MIL-STD"
       ]
     },
@@ -314,8 +314,8 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Wireless-charging",
-        "Raised-lips"
+        "Wireless Charging",
+        "Raised Lips"
       ]
     }
   ],

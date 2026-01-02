@@ -17,11 +17,11 @@
       "materials": "Polycarbonate + TPU + alloy frame",
       "features": [
         "MIL-STD-810G-26-drops",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "Kickstand",
-        "Port-covers"
+        "Port Covers"
       ],
       "rating": "4.6"
     },
@@ -40,8 +40,8 @@
       "materials": "Polycarbonate shell + synthetic rubber slipcover + internal foam",
       "features": [
         "MIL-STD-810G-20-drops",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Holster-clip",
         "Drop-tested-25ft"
       ],
@@ -62,9 +62,9 @@
       "materials": "Polycarbonate + TPU + shock-absorbing foam",
       "features": [
         "MIL-STD-810G-26-drops",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "Kickstand"
       ],
       "rating": "4.5"
@@ -84,9 +84,9 @@
       "materials": "TPU + polycarbonate + alloy buttons",
       "features": [
         "MIL-STD-810G-26-drops",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "Hand-strap"
       ],
       "rating": "4.4"
@@ -106,9 +106,9 @@
       "materials": "Polycarbonate + TPU + steel frame",
       "features": [
         "MIL-STD-810G-20-drops-16ft",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "MagSafe",
         "Kickstand"
       ],
@@ -129,8 +129,8 @@
       "materials": "Polycarbonate + TPU + built-in screen protector",
       "features": [
         "MIL-STD-810G-26-drops",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "IP68",
         "Magnet-ring"
       ],
@@ -151,8 +151,8 @@
       "materials": "Polycarbonate shell + synthetic rubber slipcover + internal foam",
       "features": [
         "MIL-STD-810G-20x-drops",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Dust-proof"
       ],
       "rating": "4.7"
@@ -173,8 +173,8 @@
       "features": [
         "MIL-STD-810G-20-drops",
         "IP68",
-        "Multi-layer",
-        "Wireless-charging"
+        "Multi-Layer",
+        "Wireless Charging"
       ],
       "rating": "4.5"
     },
@@ -192,10 +192,10 @@
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + alloy frame",
       "features": [
-        "MIL-STD-810G-15ft",
+        "MIL-STD 15x Drop",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "Port-plugs"
       ],
       "rating": "4.4"
@@ -215,8 +215,8 @@
       "materials": "Aerospace aluminum + polycarbonate + TPU + screen protector",
       "features": [
         "MIL-STD-810G-20x-drops",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "IP68",
         "Kickstand"
       ],
@@ -238,8 +238,8 @@
       "features": [
         "MIL-STD-810 5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen"
+        "Multi-Layer",
+        "Built-In Screen"
       ],
       "rating": "4.6"
     },
@@ -259,8 +259,8 @@
       "features": [
         "MIL-STD-810 5x",
         "IP68",
-        "Multi-layer",
-        "Port-covers"
+        "Multi-Layer",
+        "Port Covers"
       ],
       "rating": "4.5"
     },
@@ -279,8 +279,8 @@
       "materials": "Polycarbonate + TPU + screen protector",
       "features": [
         "MIL-STD-810 5x+",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "IP68",
         "Kickstand"
       ],

@@ -17,9 +17,9 @@
       "materials": "Polycarbonate + TPU + built-in screen protector",
       "features": [
         "MIL-STD-810G-5x",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers",
         "20ft-drop"
       ],
       "rating": "4.6"
@@ -39,9 +39,9 @@
       "materials": "Polycarbonate shell + synthetic rubber slipcover + holster",
       "features": [
         "MIL-STD-810G-5x",
-        "Multi-layer",
+        "Multi-Layer",
         "Belt-clip-holster",
-        "Port-covers",
+        "Port Covers",
         "16ft-drop"
       ],
       "rating": "4.7"
@@ -62,8 +62,8 @@
       "features": [
         "MIL-STD-810G-6x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "20ft-drop"
       ],
       "rating": "4.5"
@@ -84,8 +84,8 @@
       "features": [
         "MIL-STD-810G-5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "18ft-drop"
       ],
       "rating": "4.4"
@@ -106,8 +106,8 @@
       "features": [
         "MIL-STD-810G-5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "Kickstand",
         "16ft-drop"
       ],
@@ -128,10 +128,10 @@
       "materials": "Polycarbonate + TPU + built-in screen protector",
       "features": [
         "MIL-STD-810G-26-drops",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers"
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers"
       ],
       "rating": "4.6"
     },
@@ -150,8 +150,8 @@
       "materials": "Polycarbonate shell + synthetic rubber slipcover + hardened membrane screen protector",
       "features": [
         "MIL-STD-810G-20-drops",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Extreme-drop"
       ],
       "rating": "4.7"
@@ -172,8 +172,8 @@
       "features": [
         "MIL-STD-810G-25-drops",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen"
+        "Multi-Layer",
+        "Built-In Screen"
       ],
       "rating": "4.5"
     },
@@ -192,8 +192,8 @@
       "materials": "TPU + polycarbonate + rubber bumpers",
       "features": [
         "MIL-STD-810G-30-drops",
-        "IP68-waterproof",
-        "Multi-layer",
+        "IP68 Waterproof",
+        "Multi-Layer",
         "Industrial-grade"
       ],
       "rating": "4.4"
@@ -214,8 +214,8 @@
       "features": [
         "MIL-STD-810G-20-drops",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "Kickstand"
       ],
       "rating": "4.6"

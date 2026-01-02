@@ -19,7 +19,7 @@
       "materials": "Polycarbonate shell + TPU bumper + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Holster-clip"
       ]
@@ -40,7 +40,7 @@
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "PC backplate + TPU frame",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Raised bezels"
       ]
@@ -62,7 +62,7 @@
       "materials": "PC + silicone + TPU bumper",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Belt-clip"
       ]
@@ -105,7 +105,7 @@
       "materials": "TPU + PC + tempered glass screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Hand-strap"
       ]
@@ -127,7 +127,7 @@
       "materials": "Multi-layer PC shell + TPU bumper + rubber slipcover",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Holster-clip"
       ]
@@ -148,7 +148,7 @@
       "protection_rating": "MIL-STD-810G, 26 drops (8ft+)",
       "materials": "Polycarbonate plate + TPU liner",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Raised bezels"
       ]
@@ -170,7 +170,7 @@
       "materials": "PC back + TPU bumper + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip"
       ]
@@ -192,7 +192,7 @@
       "materials": "TPU bumper + PC shell + tempered glass screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip"
       ]
@@ -214,7 +214,7 @@
       "materials": "Dual-layer PC + TPU with air cushion technology",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Raised bezels"
       ]
@@ -236,8 +236,8 @@
       "materials": "PC + silicone + TPU bumper",
       "features": [
         "Kickstand",
-        "Port-covers",
-        "Built-in-screen-protector",
+        "Port Covers",
+        "Built-In Screen-protector",
         "Screen-lip"
       ]
     },
@@ -279,8 +279,8 @@
       "materials": "TPU + PC + tempered glass screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
-        "Built-in-screen-protector",
+        "Port Covers",
+        "Built-In Screen-protector",
         "Screen-lip"
       ]
     }

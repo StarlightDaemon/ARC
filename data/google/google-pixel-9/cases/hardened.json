@@ -17,9 +17,9 @@
       "materials": "Polycarbonate shell + synthetic rubber slipcover + TPU inner liner + built-in screen protector",
       "features": [
         "MIL-STD-810 5x",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers",
         "IP68-compatible"
       ],
       "rating": "4.8"
@@ -40,9 +40,9 @@
       "features": [
         "MIL-STD-810 6x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "20ft-drop",
-        "Port-covers"
+        "Port Covers"
       ],
       "rating": "4.7"
     },
@@ -62,8 +62,8 @@
       "features": [
         "MIL-STD-810 5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "20ft-drop"
       ],
       "rating": "4.6"
@@ -85,7 +85,7 @@
         "MIL-STD-810 5x",
         "IP68",
         "Ip69k",
-        "Multi-layer",
+        "Multi-Layer",
         "16ft-drop",
         "Industrial"
       ],
@@ -106,9 +106,9 @@
       "materials": "Polycarbonate + TPU + rubber slipcover + holster",
       "features": [
         "MIL-STD-810 5x",
-        "Multi-layer",
+        "Multi-Layer",
         "Belt-clip",
-        "Port-covers",
+        "Port Covers",
         "15ft-drop"
       ],
       "rating": "4.8"

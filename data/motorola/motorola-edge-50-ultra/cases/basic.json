@@ -20,9 +20,9 @@
       "materials": "PC/TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -43,9 +43,9 @@
       "materials": "TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture",
-        "Raised-lips",
+        "Raised Lips",
         "MIL-STD-810G"
       ]
     },
@@ -67,8 +67,8 @@
       "materials": "PC/TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
-        "Raised-lips",
+        "Wireless Charging",
+        "Raised Lips",
         "Drop-protection"
       ]
     },
@@ -90,9 +90,9 @@
       "materials": "TPU/PC",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture",
-        "Raised-lips",
+        "Raised Lips",
         "MIL-STD"
       ]
     },
@@ -114,8 +114,8 @@
       "materials": "TPU/PC",
       "features": [
         "Slim",
-        "Wireless-charging",
-        "Raised-lips",
+        "Wireless Charging",
+        "Raised Lips",
         "Kickstand",
         "Yellowing-resistant"
       ]
@@ -138,9 +138,9 @@
       "materials": "PC",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -161,9 +161,9 @@
       "materials": "TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture",
-        "Raised-lips",
+        "Raised Lips",
         "Military-grade"
       ]
     },
@@ -185,8 +185,8 @@
       "materials": "PC/TPU hybrid",
       "features": [
         "Slim",
-        "Wireless-charging",
-        "Raised-lips",
+        "Wireless Charging",
+        "Raised Lips",
         "Drop-protection"
       ]
     },
@@ -208,9 +208,9 @@
       "materials": "TPU/PC hybrid",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture",
-        "Raised-lips",
+        "Raised Lips",
         "Military-grade"
       ]
     },
@@ -232,8 +232,8 @@
       "materials": "TPU/PC hybrid",
       "features": [
         "Slim",
-        "Wireless-charging",
-        "Raised-lips",
+        "Wireless Charging",
+        "Raised Lips",
         "Anti-yellowing"
       ]
     }

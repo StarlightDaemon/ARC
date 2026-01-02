@@ -19,7 +19,7 @@
       "materials": "PC shell + TPU bumper + rubber slipcover",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Holster-clip"
       ]
@@ -61,7 +61,7 @@
       "materials": "PC + TPU + aramid fiber",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -82,7 +82,7 @@
       "materials": "PC + TPU + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector"
       ]
     },
@@ -102,7 +102,7 @@
       "protection_rating": "MIL-STD-810G 26 drops",
       "materials": "TPU + PC",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     }

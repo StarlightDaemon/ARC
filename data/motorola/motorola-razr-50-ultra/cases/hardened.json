@@ -17,11 +17,11 @@
       "materials": "Polycarbonate + TPU + built-in screen protector",
       "features": [
         "MIL-STD-810G-516-6x-drop-26ft",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen",
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen",
         "Kickstand",
-        "Port-covers"
+        "Port Covers"
       ],
       "rating": "4.6"
     },
@@ -39,9 +39,9 @@
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + hardguard inner layer",
       "features": [
-        "MIL-STD-810G-5x-drop-15ft",
-        "Multi-layer",
-        "Port-covers",
+        "MIL-STD 5x Drop",
+        "Multi-Layer",
+        "Port Covers",
         "Holster-clip",
         "Belt-clip"
       ],
@@ -61,9 +61,9 @@
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + shock-absorbing foam",
       "features": [
-        "MIL-STD-810G-10x-drop-20ft",
-        "IP68-waterproof",
-        "Multi-layer",
+        "MIL-STD 10x Drop",
+        "IP68 Waterproof",
+        "Multi-Layer",
         "Shock-absorbing"
       ],
       "rating": "4.5"
@@ -82,9 +82,9 @@
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + aluminum frame",
       "features": [
-        "MIL-STD-810G-8x-drop-20ft",
-        "IP68-waterproof",
-        "Multi-layer",
+        "MIL-STD 8x Drop",
+        "IP68 Waterproof",
+        "Multi-Layer",
         "Aluminum-reinforcement"
       ],
       "rating": "4.4"
@@ -103,11 +103,11 @@
       "case_type": "hardened",
       "materials": "Metallic carbon fiber + polycarbonate + TPU + screen protector",
       "features": [
-        "MIL-STD-810G-6x-drop-20ft",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers"
+        "MIL-STD 6x Drop",
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers"
       ],
       "rating": "4.6"
     },
@@ -126,9 +126,9 @@
       "materials": "Polycarbonate shell + synthetic rubber slipcover + inner foam",
       "features": [
         "MIL-STD-810G-5x",
-        "Multi-layer",
+        "Multi-Layer",
         "IP68",
-        "Port-covers",
+        "Port Covers",
         "Belt-clip-holster"
       ],
       "rating": "4.7"
@@ -148,8 +148,8 @@
       "materials": "Polycarbonate + TPU + impact-resistant polymer",
       "features": [
         "MIL-STD-810G-5x",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "IP68",
         "Magnetic"
       ],
@@ -170,9 +170,9 @@
       "materials": "TPU + polycarbonate + rubberized edges",
       "features": [
         "MIL-STD-810G-6x",
-        "Multi-layer",
+        "Multi-Layer",
         "IP68",
-        "Built-in-screen",
+        "Built-In Screen",
         "Kickstand"
       ],
       "rating": "4.4"
@@ -192,8 +192,8 @@
       "materials": "Aerospace grade aluminum + polycarbonate + TPU",
       "features": [
         "MIL-STD-810G-5x",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "IP68",
         "Metal-frame"
       ],

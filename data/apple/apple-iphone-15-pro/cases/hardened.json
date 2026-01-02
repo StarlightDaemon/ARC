@@ -17,9 +17,9 @@
       "materials": "Polycarbonate + TPU + tempered glass screen protector",
       "features": [
         "MIL-STD-810G-516-6x",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "Magnet-ring"
       ],
       "rating": "4.6"
@@ -38,11 +38,11 @@
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + built-in screen protector",
       "features": [
-        "MIL-STD-810G-10ft-26-drops",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "MIL-STD 10x Drop-26-drops",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "MagSafe-compatible",
-        "Port-covers"
+        "Port Covers"
       ],
       "rating": "4.5"
     },
@@ -60,9 +60,9 @@
       "case_type": "hardened",
       "materials": "Polycarbonate shell + synthetic rubber slipcover + holster",
       "features": [
-        "MIL-STD-810G-20x-15ft-drops",
-        "Multi-layer",
-        "Port-covers",
+        "MIL-STD 20x Drop-drops",
+        "Multi-Layer",
+        "Port Covers",
         "Holster-clip",
         "Dust-proof"
       ],
@@ -82,10 +82,10 @@
       "case_type": "hardened",
       "materials": "Polycarbonate + TPU + alloy + tempered glass screen protector",
       "features": [
-        "MIL-STD-810G-20ft-drop",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "MIL-STD 20x Drop-drop",
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "Kickstand"
       ],
       "rating": "4.6"
@@ -104,10 +104,10 @@
       "case_type": "hardened",
       "materials": "TPU + polycarbonate + metal frame + screen protector",
       "features": [
-        "MIL-STD-810G-12ft-26-drops",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "MIL-STD 12x Drop-26-drops",
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "Shock-absorbing"
       ],
       "rating": "4.4"
@@ -127,10 +127,10 @@
       "materials": "Polycarbonate + TPU + built-in screen protector",
       "features": [
         "MIL-STD-810G-516-6x",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers"
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers"
       ],
       "rating": "4.6"
     },
@@ -149,8 +149,8 @@
       "materials": "Polycarbonate shell + synthetic rubber slipcover + holster",
       "features": [
         "MIL-STD-810G-6x",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Holster"
       ],
       "rating": "4.7"
@@ -171,8 +171,8 @@
       "features": [
         "MIL-STD-810G-5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen"
+        "Multi-Layer",
+        "Built-In Screen"
       ],
       "rating": "4.5"
     },
@@ -192,8 +192,8 @@
       "features": [
         "MIL-STD-810G-10x",
         "IP68",
-        "Multi-layer",
-        "Port-covers"
+        "Multi-Layer",
+        "Port Covers"
       ],
       "rating": "4.4"
     },
@@ -213,8 +213,8 @@
       "features": [
         "MIL-STD-810G-20x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "MagSafe"
       ],
       "rating": "4.6"

@@ -19,9 +19,9 @@
       "materials": "TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -42,9 +42,9 @@
       "materials": "PC",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Minimal-bulk",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -65,9 +65,9 @@
       "materials": "PC/TPU hybrid",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Drop-protection",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -89,8 +89,8 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Wireless-charging",
-        "Raised-lips"
+        "Wireless Charging",
+        "Raised Lips"
       ]
     },
     {
@@ -111,9 +111,9 @@
       "materials": "PC/TPU hybrid",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Yellowing-resistant",
-        "Raised-lips"
+        "Raised Lips"
       ]
     }
   ],

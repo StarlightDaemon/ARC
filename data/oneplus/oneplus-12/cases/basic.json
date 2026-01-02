@@ -20,9 +20,9 @@
       "materials": "TPU",
       "features": [
         "Slim",
-        "Wireless-charging",
+        "Wireless Charging",
         "Grip-texture",
-        "Raised-lips"
+        "Raised Lips"
       ]
     },
     {
@@ -67,7 +67,7 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Raised-lips",
+        "Raised Lips",
         "Lanyard-hole"
       ]
     },
@@ -90,7 +90,7 @@
       "features": [
         "Slim",
         "Minimal-bulk",
-        "Wireless-charging",
+        "Wireless Charging",
         "Precise-cutouts"
       ]
     },
@@ -113,7 +113,7 @@
       "features": [
         "Slim",
         "Grip-texture",
-        "Raised-lips",
+        "Raised Lips",
         "Shockproof"
       ]
     }

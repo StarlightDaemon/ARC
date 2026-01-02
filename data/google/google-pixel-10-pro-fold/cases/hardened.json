@@ -17,9 +17,9 @@
       "materials": "Polycarbonate + TPU + built-in screen protector",
       "features": [
         "MIL-STD-810G-5x",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers",
         "20ft-drop"
       ],
       "rating": "4.6"
@@ -39,9 +39,9 @@
       "materials": "Polycarbonate + synthetic rubber + inner foam",
       "features": [
         "MIL-STD-810G-5x",
-        "Multi-layer",
+        "Multi-Layer",
         "Holster",
-        "Port-covers",
+        "Port Covers",
         "15ft-drop"
       ],
       "rating": "4.7"
@@ -62,8 +62,8 @@
       "features": [
         "MIL-STD-810G-6x",
         "IP68",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "16ft-drop"
       ],
       "rating": "4.8"
@@ -84,8 +84,8 @@
       "features": [
         "MIL-STD-810H-5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "20ft-drop"
       ],
       "rating": "4.5"
@@ -105,7 +105,7 @@
       "materials": "Polycarbonate + TPU + metal ring",
       "features": [
         "MIL-STD-810G-12x",
-        "Multi-layer",
+        "Multi-Layer",
         "MagSafe",
         "Kickstand",
         "15ft-drop"
@@ -128,9 +128,9 @@
       "features": [
         "MIL-STD-810G-5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers"
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers"
       ],
       "rating": "4.6"
     },
@@ -150,8 +150,8 @@
       "features": [
         "MIL-STD-810G-5x",
         "IP68",
-        "Multi-layer",
-        "Port-covers"
+        "Multi-Layer",
+        "Port Covers"
       ],
       "rating": "4.7"
     },
@@ -171,7 +171,7 @@
       "features": [
         "MIL-STD-810G-5x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Belt-clip"
       ],
       "rating": "4.5"
@@ -192,8 +192,8 @@
       "features": [
         "MIL-STD-810G-6x",
         "IP68",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Kickstand"
       ],
       "rating": "4.8"
@@ -214,8 +214,8 @@
       "features": [
         "MIL-STD-810G-5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "Metal-frame"
       ],
       "rating": "4.6"

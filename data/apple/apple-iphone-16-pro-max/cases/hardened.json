@@ -17,9 +17,9 @@
       "materials": "Polycarbonate, synthetic rubber, TPU",
       "features": [
         "MIL-STD-810 7x",
-        "Multi-layer",
+        "Multi-Layer",
         "IP68",
-        "Port-covers",
+        "Port Covers",
         "Holster"
       ],
       "rating": "4.8"
@@ -40,8 +40,8 @@
       "features": [
         "MIL-STD-810 21x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen-protector"
+        "Multi-Layer",
+        "Built-In Screen-protector"
       ],
       "rating": "4.7"
     },
@@ -60,8 +60,8 @@
       "materials": "Polycarbonate, TPU, tempered glass screen protector",
       "features": [
         "MIL-STD-810 5x",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "IP68",
         "Kickstand"
       ],
@@ -83,8 +83,8 @@
       "features": [
         "MIL-STD-810 6x",
         "IP68",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Belt-clip"
       ],
       "rating": "4.5"
@@ -105,7 +105,7 @@
       "features": [
         "MIL-STD-810 6x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Dust-plugs",
         "Holster"
       ],

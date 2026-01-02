@@ -18,9 +18,9 @@
       "features": [
         "MIL-STD-810 7x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen-protector",
-        "Port-covers"
+        "Multi-Layer",
+        "Built-In Screen-protector",
+        "Port Covers"
       ],
       "rating": "4.8"
     },
@@ -40,7 +40,7 @@
       "features": [
         "MIL-STD-810 6x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Screen-protector",
         "Kickstand"
       ],
@@ -62,9 +62,9 @@
       "features": [
         "MIL-STD-810 5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers",
         "Kickstand"
       ],
       "rating": "4.6"
@@ -85,7 +85,7 @@
       "features": [
         "MIL-STD-810 5x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Belt-clip",
         "Holster"
       ],
@@ -107,7 +107,7 @@
       "features": [
         "MIL-STD-810 6x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Screen-protector",
         "Port-plugs"
       ],
@@ -128,9 +128,9 @@
       "materials": "Polycarbonate, synthetic rubber, TPU",
       "features": [
         "MIL-STD-810 7x",
-        "Multi-layer",
+        "Multi-Layer",
         "IP68",
-        "Port-covers",
+        "Port Covers",
         "Holster"
       ],
       "rating": "4.8"
@@ -151,8 +151,8 @@
       "features": [
         "MIL-STD-810 12x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "Belt-clip"
       ],
       "rating": "4.7"
@@ -172,8 +172,8 @@
       "materials": "Polycarbonate, TPU, tempered glass screen protector",
       "features": [
         "MIL-STD-810 5x",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "IP68",
         "Kickstand"
       ],
@@ -195,8 +195,8 @@
       "features": [
         "MIL-STD-810 6x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "Handstrap"
       ],
       "rating": "4.5"
@@ -217,8 +217,8 @@
       "features": [
         "MIL-STD-810 7x",
         "IP68",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Holster"
       ],
       "rating": "4.8"

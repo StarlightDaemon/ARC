@@ -18,9 +18,9 @@
       "features": [
         "MIL-STD-810 6x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers"
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers"
       ],
       "rating": "4.6"
     },
@@ -40,7 +40,7 @@
       "features": [
         "MIL-STD-810 5x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Raised-edges"
       ],
       "rating": "4.5"
@@ -60,8 +60,8 @@
       "materials": "Polycarbonate shell + synthetic rubber slipcover + holster",
       "features": [
         "MIL-STD-810 5x",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Holster"
       ],
       "rating": "4.7"
@@ -82,7 +82,7 @@
       "features": [
         "MIL-STD-810 10x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Shock-absorbing"
       ],
       "rating": "4.4"
@@ -102,9 +102,9 @@
       "materials": "Polycarbonate + TPU + shockproof foam",
       "features": [
         "MIL-STD-810 6x",
-        "Multi-layer",
+        "Multi-Layer",
         "Mag-safe",
-        "Raised-lip"
+        "Raised Lip"
       ],
       "rating": "4.8"
     },
@@ -124,9 +124,9 @@
       "features": [
         "MIL-STD-810 12ft (8x)",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers",
         "MagSafe"
       ],
       "rating": "4.6"
@@ -147,9 +147,9 @@
       "features": [
         "MIL-STD-810 20ft (13x)",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Shock-absorbing",
-        "Port-covers"
+        "Port Covers"
       ],
       "rating": "4.5"
     },
@@ -169,8 +169,8 @@
       "features": [
         "MIL-STD-810 16ft (10x)",
         "IP68",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Holster"
       ],
       "rating": "4.7"
@@ -191,8 +191,8 @@
       "features": [
         "MIL-STD-810H 16ft (10x)",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "Industrial-grade"
       ],
       "rating": "4.4"
@@ -212,9 +212,9 @@
       "materials": "Aluminum alloy + polycarbonate + TPU",
       "features": [
         "MIL-STD-810 16ft (10x)",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers",
         "Metal-frame"
       ],
       "rating": "4.6"

@@ -19,7 +19,7 @@
       "materials": "Multi-layer PC shell + TPU bumper + rubber slipcover",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Holster-clip"
       ]
@@ -42,7 +42,7 @@
       "features": [
         "Screen-lip",
         "Raised bezels",
-        "Port-covers"
+        "Port Covers"
       ]
     },
     {
@@ -62,7 +62,7 @@
       "materials": "PC back + TPU bumper + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip"
       ]
@@ -105,9 +105,9 @@
       "materials": "TPU bumper + PC backplate",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
-        "Built-in-screen-protector"
+        "Built-In Screen-protector"
       ]
     },
     {
@@ -127,7 +127,7 @@
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Holster-clip",
         "Screen-lip"
       ]
@@ -149,7 +149,7 @@
       "materials": "Polycarbonate plate + TPU bumper + alloy reinforcement",
       "features": [
         "Screen-protector",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Raised-corners"
       ]
@@ -172,7 +172,7 @@
       "features": [
         "Kickstand",
         "Screen-protector",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -215,7 +215,7 @@
       "features": [
         "Kickstand",
         "Screen-protector",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     }

@@ -18,9 +18,9 @@
       "features": [
         "MIL-STD-810 7x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen-protector",
-        "Port-covers"
+        "Multi-Layer",
+        "Built-In Screen-protector",
+        "Port Covers"
       ],
       "rating": "4.8"
     },
@@ -40,7 +40,7 @@
       "features": [
         "MIL-STD-810 6x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Screen-protector",
         "Kickstand"
       ],
@@ -62,9 +62,9 @@
       "features": [
         "MIL-STD-810 5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers",
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers",
         "Kickstand"
       ],
       "rating": "4.6"
@@ -85,7 +85,7 @@
       "features": [
         "MIL-STD-810 5x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Belt-clip",
         "Holster"
       ],
@@ -107,8 +107,8 @@
       "features": [
         "MIL-STD-810 6x",
         "IP68",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Screen-protector-compatible"
       ],
       "rating": "4.8"
@@ -129,9 +129,9 @@
       "features": [
         "MIL-STD-810 7x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
-        "Port-covers"
+        "Multi-Layer",
+        "Built-In Screen",
+        "Port Covers"
       ],
       "rating": "4.8"
     },
@@ -151,7 +151,7 @@
       "features": [
         "MIL-STD-810 10x",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Belt-clip",
         "Kickstand"
       ],
@@ -173,8 +173,8 @@
       "features": [
         "MIL-STD-810 5x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "Kickstand"
       ],
       "rating": "4.6"
@@ -195,8 +195,8 @@
       "features": [
         "MIL-STD-810 5x+",
         "IP68",
-        "Multi-layer",
-        "Port-covers",
+        "Multi-Layer",
+        "Port Covers",
         "Workwear"
       ],
       "rating": "4.5"
@@ -217,8 +217,8 @@
       "features": [
         "MIL-STD-810 6x",
         "IP68",
-        "Multi-layer",
-        "Built-in-screen",
+        "Multi-Layer",
+        "Built-In Screen",
         "Holster"
       ],
       "rating": "4.8"
@@ -238,9 +238,9 @@
       "materials": "Polycarbonate shell + TPU rubber + shock-absorbing foam",
       "features": [
         "MIL-STD-810G-5x",
-        "Multi-layer",
-        "Built-in-screen-protector",
-        "Port-covers",
+        "Multi-Layer",
+        "Built-In Screen-protector",
+        "Port Covers",
         "16ft-drop"
       ],
       "rating": "4.8"
@@ -260,11 +260,11 @@
       "materials": "Polycarbonate + TPU + built-in screen protector",
       "features": [
         "MIL-STD-810G-26x",
-        "IP68-waterproof",
-        "Multi-layer",
-        "Built-in-screen-protector",
+        "IP68 Waterproof",
+        "Multi-Layer",
+        "Built-In Screen-protector",
         "20ft-drop",
-        "Port-covers"
+        "Port Covers"
       ],
       "rating": "4.7"
     },
@@ -284,7 +284,7 @@
       "features": [
         "MIL-STD-810G-5x+",
         "IP68",
-        "Multi-layer",
+        "Multi-Layer",
         "Belt-clip",
         "Kickstand",
         "15ft-drop"
@@ -307,7 +307,7 @@
       "features": [
         "MIL-STD-810H-6x",
         "IP68-ip69k",
-        "Multi-layer",
+        "Multi-Layer",
         "Metal-frame",
         "18ft-drop",
         "Work-gloves-compatible"
@@ -329,10 +329,10 @@
       "materials": "Polycarbonate + synthetic rubber + inner foam",
       "features": [
         "MIL-STD-810G-7x",
-        "Multi-layer",
+        "Multi-Layer",
         "Holster-clip",
         "21ft-drop",
-        "Port-covers"
+        "Port Covers"
       ],
       "rating": "4.8"
     }

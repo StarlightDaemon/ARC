@@ -19,7 +19,7 @@
       "materials": "PC shell + TPU bumper + rubber bolster",
       "features": [
         "Holster-clip-optional",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -40,7 +40,7 @@
       "materials": "PC + TPU + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip"
       ]
@@ -61,7 +61,7 @@
       "protection_rating": "MIL-STD-810G 516.6, 26 drops from 4ft",
       "materials": "Polycarbonate shear plate + TPU",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Raised bezels"
       ]
@@ -83,7 +83,7 @@
       "materials": "PC back + TPU bumper",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -104,7 +104,7 @@
       "materials": "PC + TPU + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip",
         "Card-slot",
@@ -127,7 +127,7 @@
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate + alloy frame",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -168,7 +168,7 @@
       "protection_rating": "MIL-STD-810G, 26 drops from 4ft",
       "materials": "Polycarbonate shell + TPU frame",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Raised bezels"
       ]
@@ -190,7 +190,7 @@
       "materials": "Multi-layer PC + TPU + rubber slipcover",
       "features": [
         "Holster-clip",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -211,7 +211,7 @@
       "materials": "PC backplate + TPU bumper",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Air-cushion technology"
       ]

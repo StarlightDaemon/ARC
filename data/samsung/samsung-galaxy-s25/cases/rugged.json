@@ -18,7 +18,7 @@
       "protection_rating": "MIL-STD-810G, 10ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Holster-clip",
         "Screen-lip"
       ]
@@ -60,7 +60,7 @@
       "materials": "Polycarbonate back + TPU bumper + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip"
       ]
@@ -103,7 +103,7 @@
       "materials": "TPU bumper + PC shell + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip"
       ]
@@ -125,7 +125,7 @@
       "materials": "Polycarbonate shell + TPU bumper + rubber slipcover",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Holster-clip"
       ]
@@ -146,7 +146,7 @@
       "protection_rating": "MIL-STD-810G, 26ft drop",
       "materials": "PC shell + TPU frame + alloy reinforcement",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Raised-bezel"
       ]
@@ -168,7 +168,7 @@
       "materials": "PC back + TPU bumper + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip"
       ]
@@ -211,7 +211,7 @@
       "materials": "PC + TPU + tempered glass screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip"
       ]
@@ -233,7 +233,7 @@
       "materials": "Polycarbonate shell + TPU bumper + rubber slipcover",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Holster-clip"
       ]
@@ -254,7 +254,7 @@
       "protection_rating": "MIL-STD-810G, 26ft drop",
       "materials": "Polycarbonate plate + TPU liner",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Raised-edges"
       ]
@@ -276,8 +276,8 @@
       "materials": "Polycarbonate back + TPU frame",
       "features": [
         "Kickstand",
-        "Built-in-screen-protector",
-        "Port-covers",
+        "Built-In Screen-protector",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -298,7 +298,7 @@
       "materials": "TPU bumper + PC backplate",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Air-cushion-technology"
       ]
@@ -319,9 +319,9 @@
       "protection_rating": "MIL-STD-810G, 12ft drop",
       "materials": "TPU + polycarbonate + tempered glass screen protector",
       "features": [
-        "Built-in-screen-protector",
+        "Built-In Screen-protector",
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip"
       ]
     }

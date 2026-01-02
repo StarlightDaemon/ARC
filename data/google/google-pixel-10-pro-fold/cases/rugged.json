@@ -61,7 +61,7 @@
       "protection_rating": "MIL-STD-810G 26 Drop Tests, 5ft+ Drops",
       "materials": "Polycarbonate + alloy frame + TPU",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Raised-screen-lip",
         "Kickstand"
       ]
@@ -83,7 +83,7 @@
       "materials": "PC back + TPU bumper + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Holster-clip"
       ]
@@ -105,9 +105,9 @@
       "materials": "TPU bumper + PC panels",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
-        "Built-in-screen-protector"
+        "Built-In Screen-protector"
       ]
     }
   ],

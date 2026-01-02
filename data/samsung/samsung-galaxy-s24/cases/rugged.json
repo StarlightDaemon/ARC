@@ -19,7 +19,7 @@
       "materials": "Polycarbonate shell + TPU bumper + rubber slipcover",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Holster-clip"
       ]
@@ -41,7 +41,7 @@
       "materials": "Polycarbonate shell + TPU bumper + alloy reinforcement",
       "features": [
         "Screen-lip",
-        "Port-covers",
+        "Port Covers",
         "Raised bezels"
       ]
     },
@@ -62,8 +62,8 @@
       "materials": "Polycarbonate back + TPU frame",
       "features": [
         "Kickstand",
-        "Built-in-screen-protector",
-        "Port-covers",
+        "Built-In Screen-protector",
+        "Port Covers",
         "Screen-lip"
       ]
     },
@@ -84,8 +84,8 @@
       "materials": "Polycarbonate + TPU + built-in screen protector",
       "features": [
         "Kickstand",
-        "Built-in-screen-protector",
-        "Port-covers"
+        "Built-In Screen-protector",
+        "Port Covers"
       ]
     },
     {
@@ -125,7 +125,7 @@
       "protection_rating": "MIL-STD-810G, 20ft drop",
       "materials": "Polycarbonate shell + TPU inner liner + rubber outer slipcover",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Holster-clip",
         "Screen-lip"
       ]
@@ -167,7 +167,7 @@
       "materials": "Polycarbonate back + TPU bumper + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip"
       ]
@@ -189,7 +189,7 @@
       "materials": "Polycarbonate shell + TPU frame + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
+        "Port Covers",
         "Screen-protector",
         "Screen-lip"
       ]
@@ -233,8 +233,8 @@
       "materials": "Polycarbonate + silicone + built-in screen protector",
       "features": [
         "Kickstand",
-        "Port-covers",
-        "Built-in-screen-protector",
+        "Port Covers",
+        "Built-In Screen-protector",
         "Screen-lip"
       ]
     },
@@ -254,7 +254,7 @@
       "protection_rating": "MIL-STD-810G, 15ft drop",
       "materials": "Multi-layer PC + synthetic rubber + hard shell",
       "features": [
-        "Port-covers",
+        "Port Covers",
         "Screen-lip",
         "Belt-clip-holster"
       ]
