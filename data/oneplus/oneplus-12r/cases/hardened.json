@@ -71,27 +71,6 @@
       "device_brand": "OnePlus",
       "device_model": "12R",
       "device_variant": "",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "Rugged A20 Series",
-      "title": "CAT Rugged Case for OnePlus 12R - Industrial Grade, 23ft Drop Tested (MIL-STD-810G), IP68 Dust/Waterproof, Heavy Duty Multi-Layer Protection",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + aluminum frame",
-      "features": [
-        "MIL-STD-810 6x",
-        "IP68",
-        "Multi-Layer",
-        "Industrial-grade"
-      ],
-      "rating": "4.4"
-    },
-    {
-      "device_name": "OnePlus 12R",
-      "device_brand": "OnePlus",
-      "device_model": "12R",
-      "device_variant": "",
       "url": "https://www.urbanarmorgear.com/collections/phone-cases",
       "product_brand": "UAG",
       "product_model": "Magma Series",
@@ -173,29 +152,6 @@
         "26ft-drop"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "OnePlus 12R",
-      "device_brand": "OnePlus",
-      "device_model": "12R",
-      "device_variant": "",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S37 Rugged",
-      "title": "CAT S37 Designed for OnePlus 12R, Heavy Duty Full Body Protective Case, 20 Foot Drop Tested MIL-STD-810G, IP68 Waterproof, Built-in Screen Protector, Kickstand - Black",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubberized edges",
-      "features": [
-        "MIL-STD-810G-5x",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen",
-        "Kickstand",
-        "Belt-clip"
-      ],
-      "rating": "4.4"
     },
     {
       "device_name": "OnePlus 12R",

@@ -71,28 +71,6 @@
       "device_brand": "Google",
       "device_model": "Pixel",
       "device_variant": "10 Pro",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for Google Pixel 10 Pro - Industrial Grade, 5X MIL-STD-810G Drop Tested from 16FT, IP68/IP69K Waterproof Dustproof, Multi-Layer Construction with Screen Guard",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810 5x",
-        "IP68",
-        "Multi-Layer",
-        "Port Covers",
-        "Shock-absorbing"
-      ],
-      "rating": "4.5"
-    },
-    {
-      "device_name": "Google Pixel 10 Pro",
-      "device_brand": "Google",
-      "device_model": "Pixel",
-      "device_variant": "10 Pro",
       "url": "https://supcase.com/products/google-pixel-10-10-pro-unicorn-beetle-pro-mag-rugged-phone-case-black",
       "product_brand": "SUPCASE",
       "product_model": "Metallic Series",
@@ -173,28 +151,6 @@
         "Built-In Screen"
       ],
       "rating": "4.6"
-    },
-    {
-      "device_name": "Google Pixel 10 Pro",
-      "device_brand": "Google",
-      "device_model": "Pixel",
-      "device_variant": "10 Pro",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for Google Pixel 10 Pro - Industrial Grade 20FT Drop Tested 6X MIL-STD-810H IP68/IP69K Waterproof Heavy Duty Multi-Layer Construction Black/Yellow",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810H 6x",
-        "IP68",
-        "Ip69k",
-        "Multi-Layer",
-        "Port Covers"
-      ],
-      "rating": "4.7"
     },
     {
       "device_name": "Google Pixel 10 Pro",

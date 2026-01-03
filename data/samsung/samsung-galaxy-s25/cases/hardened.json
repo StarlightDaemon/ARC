@@ -75,28 +75,6 @@
       "device_brand": "Samsung",
       "device_model": "Galaxy",
       "device_variant": "S25",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro Rugged Case",
-      "title": "CAT S62 Pro Industrial Grade Case for Samsung Galaxy S25 Ultra - 5X MIL-STD-810H (16 ft Drops), IP68/IP69K Submersible, Multi-Layer TPU/PC/Aluminum Frame, Olive Green",
-      "price": "$54.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU bumper, polycarbonate shell, aluminum reinforcements",
-      "features": [
-        "MIL-STD-810 5x",
-        "IP68-ip69k",
-        "Multi-Layer 4pc",
-        "Belt-clip",
-        "Workwear"
-      ],
-      "rating": "4.5"
-    },
-    {
-      "device_name": "Samsung Galaxy S25",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S25",
       "url": "https://www.otterbox.com/en-us/heavy-duty-galaxy-s25-case-black/77-97637.html",
       "product_brand": "OtterBox",
       "product_model": "Defender Series XT",
@@ -180,28 +158,6 @@
         "Kickstand"
       ],
       "rating": "4.6"
-    },
-    {
-      "device_name": "Samsung Galaxy S25",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S25",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro Rugged Case",
-      "title": "CAT S62 Pro Rugged Heavy Duty Case for Samsung Galaxy S25 Ultra - 16FT Drop Tested (MIL-STD-810H), IP68/IP69K, 3-Layer Protection with Metal Frame, Industrial Grade",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + aluminum reinforcements",
-      "features": [
-        "MIL-STD-810H",
-        "IP68",
-        "Multi-Layer",
-        "Metal-frame",
-        "Belt-clip-holster"
-      ],
-      "rating": "4.5"
     },
     {
       "device_name": "Samsung Galaxy S25",

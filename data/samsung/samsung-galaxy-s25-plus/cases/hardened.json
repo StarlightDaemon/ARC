@@ -74,28 +74,6 @@
       "device_brand": "Samsung",
       "device_model": "Galaxy",
       "device_variant": "S25 Plus",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro Rugged Case",
-      "title": "CAT Rugged Case for Samsung Galaxy S25 Plus - Industrial Grade 16ft Drop (5X MIL-STD-810H), IP68 Dust/Waterproof, Multi-Layer TPU/PC/Aluminum Reinforce",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU frame, polycarbonate back, aluminum inserts",
-      "features": [
-        "MIL-STD-810 5x",
-        "IP68",
-        "Multi-Layer",
-        "Belt-clip",
-        "Holster"
-      ],
-      "rating": "4.5"
-    },
-    {
-      "device_name": "Samsung Galaxy S25 Plus",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S25 Plus",
       "url": "https://www.otterbox.com/en-us/galaxy-s25-plus-cases",
       "product_brand": "OtterBox",
       "product_model": "Defender Series XT",
@@ -178,28 +156,6 @@
         "Kickstand"
       ],
       "rating": "4.6"
-    },
-    {
-      "device_name": "Samsung Galaxy S25 Plus",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S25 Plus",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro Rugged Case",
-      "title": "CAT S62 Pro Rugged Case for Samsung Galaxy S25 Plus - Military Grade 16ft Drop Protection (5X+ MIL-STD), IP68 Dust/Waterproof, Heavy Duty, Black",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber overmold",
-      "features": [
-        "MIL-STD-810 5x+",
-        "IP68",
-        "Multi-Layer",
-        "Port Covers",
-        "Workwear"
-      ],
-      "rating": "4.5"
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",
@@ -290,29 +246,6 @@
         "15ft-drop"
       ],
       "rating": "4.6"
-    },
-    {
-      "device_name": "Samsung Galaxy S25 Plus",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S25 Plus",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for Samsung Galaxy S25 Plus - Extreme Duty, MIL-STD-810H Certified (15+ Ft Drops), IP68/IP69K Waterproof, Multi-Layer TPU/PC Construction with Metal Reinforcements - Black/Yellow",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + aluminum reinforcements",
-      "features": [
-        "MIL-STD-810H-6x",
-        "IP68-ip69k",
-        "Multi-Layer",
-        "Metal-frame",
-        "18ft-drop",
-        "Work-gloves-compatible"
-      ],
-      "rating": "4.5"
     },
     {
       "device_name": "Samsung Galaxy S25 Plus",

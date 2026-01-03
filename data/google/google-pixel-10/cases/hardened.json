@@ -74,28 +74,6 @@
       "device_brand": "Google",
       "device_model": "Pixel",
       "device_variant": "10",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for Google Pixel 10 - Industrial Grade - 16ft Military Drop Tested - IP68/IP69K Waterproof - Multi-Layer Construction for Worksite Use",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + shock-absorbing foam",
-      "features": [
-        "MIL-STD-810 5x+",
-        "IP68",
-        "Ip69k",
-        "Multi-Layer",
-        "Built-In Screen"
-      ],
-      "rating": "4.5"
-    },
-    {
-      "device_name": "Google Pixel 10",
-      "device_brand": "Google",
-      "device_model": "Pixel",
-      "device_variant": "10",
       "url": "https://supcase.com/collections/pixel-10-10-pro-10-pro-xl",
       "product_brand": "SUPCASE",
       "product_model": "Metallic",
@@ -185,28 +163,6 @@
       "device_brand": "Google",
       "device_model": "Pixel",
       "device_variant": "10",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "A20 Rugged Case",
-      "title": "CAT A20 Rugged Heavy Duty Case for Google Pixel 10 5G - 20 Foot Drop Tested (MIL-STD-810G 5X), IP68 Waterproof, Shockproof with Screen Protector - Black",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810G-5x",
-        "IP68 Waterproof",
-        "Multi-Layer",
-        "Built-In Screen-protector",
-        "Kickstand"
-      ],
-      "rating": "4.4"
-    },
-    {
-      "device_name": "Google Pixel 10",
-      "device_brand": "Google",
-      "device_model": "Pixel",
-      "device_variant": "10",
       "url": "https://supcase.com/collections/google-phone-cases/google-pixel-10",
       "product_brand": "SUPCASE",
       "product_model": "Metallic Series",
@@ -288,27 +244,6 @@
         "Built-In Screen"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Google Pixel 10",
-      "device_brand": "Google",
-      "device_model": "Pixel",
-      "device_variant": "10",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S8 Series",
-      "title": "CAT S8 Rugged Case for Google Pixel 10 - Extreme Protection 20ft Drop Tested (MIL-STD-810G 5X), IP68 Waterproof, Industrial Grade, Multi-Layer Construction, Black",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD 5x Drop",
-        "IP68",
-        "Multi-Layer",
-        "Port Covers"
-      ],
-      "rating": "4.4"
     },
     {
       "device_name": "Google Pixel 10",

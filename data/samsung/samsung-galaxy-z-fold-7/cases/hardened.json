@@ -74,28 +74,6 @@
       "device_brand": "Samsung",
       "device_model": "Galaxy",
       "device_variant": "Z Fold 7",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for Galaxy Z Fold7 - Industrial Grade 20ft Drop Tested 6X MIL-STD-810H - IP68/IP69K Water Resistant - Multi-Layer TPU PC Aluminum Black",
-      "price": "$64.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + aluminum reinforcements",
-      "features": [
-        "MIL-STD-810H 6x",
-        "IP68-ip69k",
-        "Multi-Layer",
-        "Belt-clip",
-        "Kickstand"
-      ],
-      "rating": "4.6"
-    },
-    {
-      "device_name": "Samsung Galaxy Z Fold 7",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "Z Fold 7",
       "url": "https://www.casetify.com/en_US/phone-cases",
       "product_brand": "Casetify",
       "product_model": "Impact Military Grade",
@@ -155,28 +133,6 @@
         "20ft-drop"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Samsung Galaxy Z Fold 7",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "Z Fold 7",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for Galaxy Z Fold 7 5G - Extreme Protection Full Body Cover with Screen Protector IP68 Waterproof 20FT Drop Proof Military Grade Shockproof",
-      "price": "$64.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubberized edges",
-      "features": [
-        "MIL-STD-810G-6x",
-        "IP68",
-        "Multi-Layer",
-        "Screen-protector",
-        "Kickstand"
-      ],
-      "rating": "4.4"
     },
     {
       "device_name": "Samsung Galaxy Z Fold 7",

@@ -73,28 +73,6 @@
       "device_brand": "Apple",
       "device_model": "iPhone",
       "device_variant": "15",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case Designed for iPhone 15, Heavy Duty Full Body Protective Case with Built-in Screen Protector, Military Grade Shockproof Cover, IP68 Waterproof Dustproof - Black",
-      "price": "$34.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + alloy frame",
-      "features": [
-        "MIL-STD-810G-6x",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen",
-        "Metal-frame"
-      ],
-      "rating": "4.4"
-    },
-    {
-      "device_name": "Apple iPhone 15",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "15",
       "url": "https://www.supcase.com",
       "product_brand": "SUPCASE",
       "product_model": "Metallic Series",
@@ -181,27 +159,6 @@
       "device_brand": "Apple",
       "device_model": "iPhone",
       "device_variant": "15",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for iPhone 15 - Military Spec 810G, 20 Foot Drop Proof, IP68 Waterproof, Heavy Duty Full Body Protection with Screen Protector",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + silicone",
-      "features": [
-        "MIL-STD-810 6x",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen"
-      ],
-      "rating": "4.4"
-    },
-    {
-      "device_name": "Apple iPhone 15",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "15",
       "url": "https://www.supcase.com",
       "product_brand": "SUPCASE",
       "product_model": "Metallic Series",
@@ -282,28 +239,6 @@
         "Built-In Screen-protector"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Apple iPhone 15",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "15",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S42 Defender",
-      "title": "CAT S42 Rugged Case Designed for iPhone 15 / 15 Plus 6.1/6.7 Inch, Military Grade Full Body Shockproof Protective Case with Screen Protector, Black",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + alloy frame",
-      "features": [
-        "MIL-STD-810G-30-drops",
-        "Multi-Layer",
-        "IP68 Waterproof",
-        "Built-In Screen",
-        "Metal-chain"
-      ],
-      "rating": "4.6"
     },
     {
       "device_name": "Apple iPhone 15",

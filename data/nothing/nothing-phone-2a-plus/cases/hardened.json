@@ -73,28 +73,6 @@
       "device_brand": "Nothing",
       "device_model": "Phone",
       "device_variant": "2a Plus",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "A20",
-      "title": "CAT A20 Rugged Case for Nothing Phone 2a Plus, Heavy Duty Full Body Protection, 25X MIL-STD Drop Tested, IP68 Waterproof (Black/Yellow)",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810G-25x",
-        "Multi-Layer",
-        "IP68",
-        "Port Covers",
-        "Belt-clip"
-      ],
-      "rating": "4.6"
-    },
-    {
-      "device_name": "Nothing Phone 2a Plus",
-      "device_brand": "Nothing",
-      "device_model": "Phone",
-      "device_variant": "2a Plus",
       "url": "https://www.supcase.com",
       "product_brand": "Supcase",
       "product_model": "Metulus",
@@ -111,29 +89,6 @@
         "IP68"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Nothing Phone 2a Plus",
-      "device_brand": "Nothing",
-      "device_model": "Phone",
-      "device_variant": "2a Plus",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "A70 Series",
-      "title": "CAT A70 Rugged Heavy Duty Case for Nothing Phone 2a Plus - 20ft Drop Proof, IP68 Waterproof, MIL-STD-810H, Shockproof Cover with Built-in Screen Protector",
-      "price": "$59.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "Polycarbonate + TPU + rubber + built-in screen protector",
-      "features": [
-        "MIL-STD-810H-6x",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen",
-        "Port Covers",
-        "20ft-drop"
-      ],
-      "rating": "4.6"
     },
     {
       "device_name": "Nothing Phone 2a Plus",

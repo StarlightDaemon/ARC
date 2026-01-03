@@ -73,28 +73,6 @@
       "device_brand": "OnePlus",
       "device_model": "13R",
       "device_variant": "",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "Rugged Combo",
-      "title": "CAT S62 Pro Rugged Case for OnePlus 13R - Heavy Duty Full Body Protection, 25ft Drop Tested MIL-STD, IP68/IP69K Waterproof, Multi-Layer with Screen Protector & Holster, Industrial Black",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + silicone + aluminum accents",
-      "features": [
-        "MIL-STD-810H-30x",
-        "IP68-ip69k",
-        "Multi-Layer",
-        "Built-In Screen-protector",
-        "Kickstand-holster"
-      ],
-      "rating": "4.6"
-    },
-    {
-      "device_name": "OnePlus 13R",
-      "device_brand": "OnePlus",
-      "device_model": "13R",
-      "device_variant": "",
       "url": "",
       "product_brand": "Armor-X",
       "product_model": "ToughClip Series",
@@ -183,28 +161,6 @@
       "device_brand": "OnePlus",
       "device_model": "13R",
       "device_variant": "",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "Invincible",
-      "title": "CAT Invincible Rugged Case for OnePlus 13R - Industrial Grade, 25 Foot Drop Protection MIL-STD-810G, IP68 Waterproof, Multi-Layer with Built-in Screen Protector - Black/Yellow",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810G-8x",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen",
-        "Workwear-ready"
-      ],
-      "rating": "4.5"
-    },
-    {
-      "device_name": "OnePlus 13R",
-      "device_brand": "OnePlus",
-      "device_model": "13R",
-      "device_variant": "",
       "url": "https://www.urbanarmorgear.com",
       "product_brand": "UAG",
       "product_model": "MAGNEO",
@@ -285,27 +241,6 @@
         "Built-In Screen"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "OnePlus 13R",
-      "device_brand": "OnePlus",
-      "device_model": "13R",
-      "device_variant": "",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro Rugged Case",
-      "title": "CAT S62 Pro Rugged Heavy Duty Case for OnePlus 13R - 20X MIL-STD-810G Drop Tested (16ft), IP68/IP69K Waterproof, 4-Layer Protection with Metal Frame (Black)",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + aluminum frame + rubber bumpers",
-      "features": [
-        "MIL-STD-810 20x",
-        "IP68",
-        "Multi-Layer",
-        "Metal-frame"
-      ],
-      "rating": "4.6"
     },
     {
       "device_name": "OnePlus 13R",

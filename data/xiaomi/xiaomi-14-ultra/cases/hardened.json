@@ -74,28 +74,6 @@
       "device_brand": "Xiaomi",
       "device_model": "14",
       "device_variant": "Ultra",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "A20 Rugged Case",
-      "title": "CAT A20 Heavy Duty Case for Xiaomi 14 Ultra - 5X Military Grade Protection, 18-Ft Drop Proof, IP68 Waterproof, Full Body Guard with Screen Protector",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810G-26x",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen",
-        "Hand-strap"
-      ],
-      "rating": "4.5"
-    },
-    {
-      "device_name": "Xiaomi 14 Ultra",
-      "device_brand": "Xiaomi",
-      "device_model": "14",
-      "device_variant": "Ultra",
       "url": "https://supcase.com/collections/all/metallic-red",
       "product_brand": "SUPCASE",
       "product_model": "Metallic Series",
@@ -157,28 +135,6 @@
         "Belt-clip-holster"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Xiaomi 14 Ultra",
-      "device_brand": "Xiaomi",
-      "device_model": "14",
-      "device_variant": "Ultra",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "A20 Series",
-      "title": "CAT A20 Rugged Heavy Duty Case for Xiaomi 14 Ultra - 25 Foot Drop Tested (MIL-STD-810G), IP68 Waterproof, Full Body Protection with Screen Guard, Industrial Grade (Black/Yellow)",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810G-30x",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen",
-        "Kickstand"
-      ],
-      "rating": "4.4"
     },
     {
       "device_name": "Xiaomi 14 Ultra",

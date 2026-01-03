@@ -73,28 +73,6 @@
       "device_brand": "Nothing",
       "device_model": "Phone",
       "device_variant": "2a",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S42 H-Series",
-      "title": "CAT Rugged Case for Nothing Phone 2a, Heavy Duty Full Body Protection with Screen Protector, 5X MIL-STD-810G, IP68, Black/Yellow",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810G-5x",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen",
-        "18ft-drop"
-      ],
-      "rating": "4.4"
-    },
-    {
-      "device_name": "Nothing Phone 2a",
-      "device_brand": "Nothing",
-      "device_model": "Phone",
-      "device_variant": "2a",
       "url": "https://supcase.com/collections/smartphone-cases/metallic-red",
       "product_brand": "SUPCASE",
       "product_model": "Metallic Series",
@@ -176,27 +154,6 @@
         "Built-In Screen"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Nothing Phone 2a",
-      "device_brand": "Nothing",
-      "device_model": "Phone",
-      "device_variant": "2a",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "A20 Series",
-      "title": "CAT A20 Rugged Heavy Duty Case for Nothing Phone 2a, 20ft Drop Tested, IP68 Waterproof, Shockproof Full Body Protection",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810G-30-drops",
-        "IP68 Waterproof",
-        "Multi-Layer",
-        "Industrial-grade"
-      ],
-      "rating": "4.4"
     },
     {
       "device_name": "Nothing Phone 2a",

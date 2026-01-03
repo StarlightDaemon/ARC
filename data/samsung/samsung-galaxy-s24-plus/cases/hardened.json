@@ -71,28 +71,6 @@
       "device_brand": "Samsung",
       "device_model": "Galaxy",
       "device_variant": "S24 Plus",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for Samsung Galaxy S24 Plus - Extreme Drop Protection 20FT Tested MIL-STD-810H, IP68 Waterproof, Full Body Guard with Screen Protector - Black",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810 10x",
-        "IP68",
-        "Multi-Layer",
-        "Screen-protector",
-        "Kickstand"
-      ],
-      "rating": "4.6"
-    },
-    {
-      "device_name": "Samsung Galaxy S24 Plus",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S24 Plus",
       "url": "https://www.supcase.com",
       "product_brand": "SUPCASE",
       "product_model": "Unicorn Beetle Pro",
@@ -173,28 +151,6 @@
         "Built-In Screen"
       ],
       "rating": "4.6"
-    },
-    {
-      "device_name": "Samsung Galaxy S24 Plus",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S24 Plus",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for Samsung Galaxy S24 Plus - Tough Military Grade Full Body Protection with Screen Protector Black",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810 8x",
-        "IP68",
-        "Multi-Layer",
-        "Screen-protector",
-        "Port Covers"
-      ],
-      "rating": "4.5"
     },
     {
       "device_name": "Samsung Galaxy S24 Plus",
@@ -284,29 +240,6 @@
         "Port Covers"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Samsung Galaxy S24 Plus",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S24 Plus",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case Designed for Samsung Galaxy S24 Plus 5G, Heavy Duty Full Body Protective Phone Case with Built-in Screen Protector, Military Grade Shockproof Cover, Black",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + alloy frame",
-      "features": [
-        "MIL-STD-810G-20x",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen",
-        "Kickstand",
-        "Port Covers"
-      ],
-      "rating": "4.6"
     },
     {
       "device_name": "Samsung Galaxy S24 Plus",

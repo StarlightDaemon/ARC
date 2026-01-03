@@ -75,28 +75,6 @@
       "device_brand": "Nothing",
       "device_model": "Phone",
       "device_variant": "3",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "A20 Rugged Case",
-      "title": "CAT A20 Rugged Heavy Duty Case for Nothing Phone (3) 5G, 26-Drop Tested MIL-STD-810G, IP68 Waterproof, Full Body Protection with Screen Protector, Black",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810G-26-drops",
-        "IP68 Waterproof",
-        "Multi-Layer",
-        "Built-In Screen-protector",
-        "Belt-clip"
-      ],
-      "rating": "4.4"
-    },
-    {
-      "device_name": "Nothing Phone 3",
-      "device_brand": "Nothing",
-      "device_model": "Phone",
-      "device_variant": "3",
       "url": "https://supcase.com/collections/smartphone-cases",
       "product_brand": "SUPCASE",
       "product_model": "Metallic Series",
@@ -156,28 +134,6 @@
         "Port Covers"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Nothing Phone 3",
-      "device_brand": "Nothing",
-      "device_model": "Phone",
-      "device_variant": "3",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "A20 Rugged Case",
-      "title": "CAT A20 Rugged Case Compatible with Nothing Phone (3) 5G, Heavy Duty Full Body Protection with Screen Protector, 5X MIL-STD-810G Drop Tested (16ft), IP68 Waterproof (Black)",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD 5x Drop",
-        "IP68 Waterproof",
-        "Multi-Layer",
-        "Built-In Screen",
-        "Kickstand"
-      ],
-      "rating": "4.4"
     },
     {
       "device_name": "Nothing Phone 3",

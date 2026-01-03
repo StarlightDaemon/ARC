@@ -74,28 +74,6 @@
       "device_brand": "Apple",
       "device_model": "iPhone",
       "device_variant": "16",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for iPhone 16 - Heavy Duty Military Grade, 16ft Drop Protection (MIL-STD-810G), Multi-Layer Construction, IP68 Dust/Waterproof, Industrial Work Site Ready",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + silicone overmold, metal reinforcements",
-      "features": [
-        "MIL-STD-810",
-        "IP68",
-        "Multi-Layer",
-        "Port Covers",
-        "16ft-drop"
-      ],
-      "rating": "4.5"
-    },
-    {
-      "device_name": "Apple iPhone 16",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "16",
       "url": "https://www.otterbox.com/en-us/heavy-duty-iphone-16-case-grey/77-97316.html",
       "product_brand": "OtterBox",
       "product_model": "Defender Series Pro XT",
@@ -181,29 +159,6 @@
         "Kickstand"
       ],
       "rating": "4.6"
-    },
-    {
-      "device_name": "Apple iPhone 16",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "16",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro Rugged Case",
-      "title": "CAT S62 Pro Heavy Duty Case for iPhone 16 - 16FT Drop Tested, IP68 Waterproof, Industrial Grade Multi-Layer",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + silicone, metal reinforcements",
-      "features": [
-        "MIL-STD-810G-5x",
-        "IP68",
-        "Multi-Layer",
-        "16ft-drop",
-        "Belt-clip",
-        "Kickstand"
-      ],
-      "rating": "4.5"
     },
     {
       "device_name": "Apple iPhone 16",

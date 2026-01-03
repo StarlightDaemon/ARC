@@ -95,28 +95,6 @@
       "device_brand": "Apple",
       "device_model": "iPhone",
       "device_variant": "15 Pro",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for iPhone 15 Pro / 15 Pro Max, Heavy Duty Full Body Protective Case, Military Grade Shockproof with Screen Protector, IP68 Waterproof Dustproof (for iPhone 15 Pro 6.1\")",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + metal frame + screen protector",
-      "features": [
-        "MIL-STD 12x Drop-26-drops",
-        "IP68 Waterproof",
-        "Multi-Layer",
-        "Built-In Screen-protector",
-        "Shock-absorbing"
-      ],
-      "rating": "4.4"
-    },
-    {
-      "device_name": "Apple iPhone 15 Pro",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "15 Pro",
       "url": "https://www.supcase.com",
       "product_brand": "SUPCASE",
       "product_model": "UB Pro",
@@ -175,27 +153,6 @@
         "Built-In Screen"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Apple iPhone 15 Pro",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "15 Pro",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S37 Rugged Case",
-      "title": "CAT S37 Rugged Heavy Duty Case for iPhone 15 Pro - Designed for Extreme Conditions, 20FT Drop Tested (MIL-STD-810G), IP68 Waterproof, Full Body Protection (Black)",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810G-10x",
-        "IP68",
-        "Multi-Layer",
-        "Port Covers"
-      ],
-      "rating": "4.4"
     },
     {
       "device_name": "Apple iPhone 15 Pro",

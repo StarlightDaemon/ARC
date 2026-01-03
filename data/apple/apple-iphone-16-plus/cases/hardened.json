@@ -73,28 +73,6 @@
       "device_brand": "Apple",
       "device_model": "iPhone",
       "device_variant": "16 Plus",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for iPhone 16 Plus - Industrial Grade Heavy Duty Protection 25ft Drop Tested MIL-STD-810G - IP68 Dustproof Waterproof - Multi-Layer Armor (Black)",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber overmold",
-      "features": [
-        "MIL-STD-810 20x",
-        "IP68",
-        "Multi-Layer",
-        "Port Covers",
-        "Belt-clip"
-      ],
-      "rating": "4.6"
-    },
-    {
-      "device_name": "Apple iPhone 16 Plus",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "16 Plus",
       "url": "https://supcase.com/collections/iphone-16-plus-cases",
       "product_brand": "SUPCASE",
       "product_model": "Metallic Series",
@@ -176,28 +154,6 @@
         "Port-protection"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Apple iPhone 16 Plus",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "16 Plus",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for iPhone 16 Plus - Extreme Protection, MIL-STD-810H (Multiple Heights 15+ ft), IP68 Waterproof, Heavy Duty Full Body Cover w/Screen Protector (Black)",
-      "price": "$59.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810H",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen",
-        "Shockproof"
-      ],
-      "rating": "4.6"
     },
     {
       "device_name": "Apple iPhone 16 Plus",

@@ -73,27 +73,6 @@
       "device_brand": "Motorola",
       "device_model": "Razr",
       "device_variant": "50 Ultra",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro Rugged",
-      "title": "CAT S62 Pro Rugged Case Compatible with Motorola Razr 50 Ultra - Extreme Drop Protection 20FT, Military Grade, IP68 Waterproof - Black",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + aluminum frame",
-      "features": [
-        "MIL-STD 8x Drop",
-        "IP68 Waterproof",
-        "Multi-Layer",
-        "Aluminum-reinforcement"
-      ],
-      "rating": "4.4"
-    },
-    {
-      "device_name": "Motorola Razr 50 Ultra",
-      "device_brand": "Motorola",
-      "device_model": "Razr",
-      "device_variant": "50 Ultra",
       "url": "https://supcase.com/collections/motorola-cases",
       "product_brand": "SUPCASE",
       "product_model": "Metallic Series",
@@ -154,28 +133,6 @@
         "Magnetic"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Motorola Razr 50 Ultra",
-      "device_brand": "Motorola",
-      "device_model": "Razr",
-      "device_variant": "50 Ultra",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "Rugged S42",
-      "title": "CAT S42 Rugged Heavy Duty Case for Motorola Razr 50 Ultra 2024, 25ft Drop Tested, Military Grade Protection, Shockproof with Screen Protector, Black",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubberized edges",
-      "features": [
-        "MIL-STD-810G-6x",
-        "Multi-Layer",
-        "IP68",
-        "Built-In Screen",
-        "Kickstand"
-      ],
-      "rating": "4.4"
     },
     {
       "device_name": "Motorola Razr 50 Ultra",

@@ -73,28 +73,6 @@
       "device_brand": "Samsung",
       "device_model": "Galaxy",
       "device_variant": "S24",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro Rugged Case",
-      "title": "CAT S62 Pro Rugged Case for Samsung Galaxy S24 - Military Grade 810G, 16ft Drop Protection, IP68 Waterproof, Multi-Layer Construction, Industrial Grade, Black",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + silicone overmold",
-      "features": [
-        "MIL-STD-810G",
-        "IP68",
-        "Multi-Layer",
-        "16ft-drop",
-        "Belt-clip"
-      ],
-      "rating": "4.5"
-    },
-    {
-      "device_name": "Samsung Galaxy S24",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S24",
       "url": "https://www.otterbox.com",
       "product_brand": "OtterBox",
       "product_model": "Defender Series XT",
@@ -156,29 +134,6 @@
         "Port Covers"
       ],
       "rating": "4.6"
-    },
-    {
-      "device_name": "Samsung Galaxy S24",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S24",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro Rugged Case",
-      "title": "CAT S62 Pro Rugged Case for Samsung Galaxy S24 - 16ft Drop Proof - MIL-STD-810H Certified - IP68 Waterproof - Heavy Duty 3-Layer Protection - Industrial Grade - Black/Orange",
-      "price": "$59.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU bumper, polycarbonate shell, rubberized edges",
-      "features": [
-        "MIL-STD-810H",
-        "IP68",
-        "Multi-Layer",
-        "16ft-drop",
-        "Belt-clip",
-        "Holster"
-      ],
-      "rating": "4.5"
     },
     {
       "device_name": "Samsung Galaxy S24",
@@ -267,28 +222,6 @@
         "Belt-clip"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Samsung Galaxy S24",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S24",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "A20 Rugged Case",
-      "title": "CAT Rugged Case Designed for Samsung Galaxy S24 - Military Spec Drop Protection 16ft, IP68 Waterproof, Shockproof Full Body Cover with Screen Protector - Black/Yellow",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD 16x Drop-drops",
-        "IP68 Waterproof",
-        "Multi-Layer",
-        "Built-In Screen-protector",
-        "Kickstand"
-      ],
-      "rating": "4.4"
     },
     {
       "device_name": "Samsung Galaxy S24",

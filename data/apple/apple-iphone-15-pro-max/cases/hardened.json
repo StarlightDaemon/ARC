@@ -71,27 +71,6 @@
       "device_brand": "Apple",
       "device_model": "iPhone",
       "device_variant": "15 Pro Max",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for iPhone 15 Pro Max - 5X Military Spec Tested - 16ft Drop Protection - IP68 Waterproof Dustproof - Black",
-      "price": "$59.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber overmold",
-      "features": [
-        "MIL-STD-810G-5x",
-        "IP68",
-        "Multi-Layer",
-        "Belt-clip-holster"
-      ],
-      "rating": "4.5"
-    },
-    {
-      "device_name": "Apple iPhone 15 Pro Max",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "15 Pro Max",
       "url": "https://www.supcase.com",
       "product_brand": "SUPCASE",
       "product_model": "Metallic",
@@ -172,28 +151,6 @@
         "Built-In Screen-protector"
       ],
       "rating": "4.5"
-    },
-    {
-      "device_name": "Apple iPhone 15 Pro Max",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "15 Pro Max",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "Defender Series",
-      "title": "CAT S62 Pro Rugged Case Designed for iPhone 15 Pro Max - Heavy Duty Protection Full Body with Screen Protector - Military Grade Shockproof (Black)",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + alloy frame",
-      "features": [
-        "MIL-STD-810G-30-drops-15ft",
-        "Multi-Layer",
-        "IP68",
-        "Built-In Screen",
-        "Kickstand"
-      ],
-      "rating": "4.6"
     },
     {
       "device_name": "Apple iPhone 15 Pro Max",

@@ -72,28 +72,6 @@
       "device_brand": "Apple",
       "device_model": "iPhone",
       "device_variant": "15 Plus",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S37 Rugged Case",
-      "title": "CAT S37 Rugged Case for iPhone 15 Plus - Military Spec Drop Proof, IP68 Waterproof, Extreme Protection 20FT Drop Tested, Heavy Duty Full Body Protection",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810 6x",
-        "IP68",
-        "Multi-Layer",
-        "Port Covers",
-        "Kickstand"
-      ],
-      "rating": "4.4"
-    },
-    {
-      "device_name": "Apple iPhone 15 Plus",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "15 Plus",
       "url": "https://supcase.com/products/iphone-15-plus-6-7-inch-unicorn-beetle-pro-mag-rugged-magsafe-case-gun-metal",
       "product_brand": "SUPCASE",
       "product_model": "Metallic Series",
@@ -174,27 +152,6 @@
         "Port Covers"
       ],
       "rating": "4.6"
-    },
-    {
-      "device_name": "Apple iPhone 15 Plus",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "15 Plus",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S37 Rugged Case",
-      "title": "CAT S37 Rugged Case for iPhone 15 Plus - 20ft Drop Tested, IP68 Waterproof, Military Grade Protection, Multi-Layer Design, Black",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + rubber bumpers",
-      "features": [
-        "MIL-STD-810G-5x",
-        "IP68",
-        "Multi-Layer",
-        "Port Covers"
-      ],
-      "rating": "4.5"
     },
     {
       "device_name": "Apple iPhone 15 Plus",
@@ -284,28 +241,6 @@
         "MagSafe"
       ],
       "rating": "4.7"
-    },
-    {
-      "device_name": "Apple iPhone 15 Plus",
-      "device_brand": "Apple",
-      "device_model": "iPhone",
-      "device_variant": "15 Plus",
-      "url": "https://www.catphones.com",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro",
-      "title": "CAT S62 Pro Rugged Case for iPhone 15 Plus - Military Grade Protection - 16ft Drop Tested - IP68 Waterproof Dustproof - Heavy Duty Full Body Protection with Screen Protector - Black",
-      "price": "$39.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU + polycarbonate + alloy frame",
-      "features": [
-        "MIL-STD 16x Drop",
-        "IP68 Waterproof",
-        "Multi-Layer",
-        "Built-In Screen-protector",
-        "Metal-frame"
-      ],
-      "rating": "4.4"
     },
     {
       "device_name": "Apple iPhone 15 Plus",

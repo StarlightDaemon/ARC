@@ -74,28 +74,6 @@
       "device_brand": "Samsung",
       "device_model": "Galaxy",
       "device_variant": "S25 Ultra",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S62 Pro Rugged Case",
-      "title": "CAT S62 Pro Rugged Case for Samsung Galaxy S25 Ultra - Industrial Grade, 16FT Drop Protection, 5X MIL-STD-810G, IP68 Dust/Waterproof, Multi-Layer, Black/Orange",
-      "price": "$49.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU frame, polycarbonate shell, rubber overmold",
-      "features": [
-        "MIL-STD-810 5x",
-        "IP68",
-        "Multi-Layer",
-        "Belt-clip",
-        "Holster"
-      ],
-      "rating": "4.5"
-    },
-    {
-      "device_name": "Samsung Galaxy S25 Ultra",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S25 Ultra",
       "url": "https://www.otterbox.com/en-us/heavy-duty-galaxy-s25-ultra-case-green/77-97881.html",
       "product_brand": "OtterBox",
       "product_model": "Defender Series XT",
@@ -178,28 +156,6 @@
         "Kickstand"
       ],
       "rating": "4.6"
-    },
-    {
-      "device_name": "Samsung Galaxy S25 Ultra",
-      "device_brand": "Samsung",
-      "device_model": "Galaxy",
-      "device_variant": "S25 Ultra",
-      "url": "https://www.catphones.com/en-us/accessories",
-      "product_brand": "CAT",
-      "product_model": "S25 Ultra Rugged Case",
-      "title": "CAT Rugged Case Designed for Samsung Galaxy S25 Ultra - 16FT Drop Tested MIL-STD-810G, IP68 Waterproof, Heavy Duty 3-Layer Protection with Screen Guard, Black/Orange",
-      "price": "$44.99",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "TPU, polycarbonate, rubber bumpers",
-      "features": [
-        "MIL-STD-810 6x",
-        "IP68",
-        "Multi-Layer",
-        "Built-In Screen-protector",
-        "Handstrap"
-      ],
-      "rating": "4.5"
     },
     {
       "device_name": "Samsung Galaxy S25 Ultra",
