@@ -1,0 +1,59 @@
+# Manual URL Research - Simple Text File
+# Fill in URLs below, then save and share with me
+
+# CRITICAL: Empty URLs (need ANY valid URL)
+
+1. Cuzoom Heavy Duty for Motorola Razr 50 Ultra
+URL: 
+
+2. Catalyst Waterproof for Galaxy S25
+URL: 
+
+3. Spigen Caseology Parallax for Galaxy S25 Ultra
+URL: https://www.spigen.com/products/galaxy-s25-series-case-parallax-magfit?variant=43470583791663
+
+4. Ghostek Atomic Slim for Galaxy Z Flip 6
+URL: https://ghostek.com/products/zflip6-case-atomic-slim
+
+5. Kugew Heavy Duty for Galaxy Z Flip 6
+URL: 
+
+6. UAG Revolution for Galaxy Z Flip 7
+URL: 
+
+7. Armor-X Heavy Duty for Galaxy Z Flip 7
+URL: https://armor-x.com/collections/samsung-galaxy-z-flip-series-smartphones-waterproof-shockproof-case-with-mounting-solutions
+
+8. Cuzill Unicorn Beetle Pro for OnePlus 13
+URL: 
+
+# HIGH PRIORITY: Search Pages (replace with actual pages)
+
+9. dbrand Ghost for Nothing Phone 2a
+URL: 
+
+10. dbrand Ghost for Nothing Phone 2a Plus
+URL: 
+
+11. OtterBox Defender Series for Nothing Phone 2a Plus
+URL: 
+
+# HELPFUL: Brand Samples (helps API learn patterns)
+
+12. Spigen Liquid Air for iPhone 16 Pro
+URL: https://www.spigen.com/products/iphone-16-series-case-liquid-air?variant=43175924989999
+
+13. OtterBox Defender Series for Galaxy S24 Ultra
+URL: https://www.otterbox.com/en-us/durable-galaxy-s24-ultra-case-black/77-94492.html
+14. ESR Classic Hybrid for Pixel 9 Pro
+URL: 
+
+15. SUPCASE UB Pro for iPhone 15 Pro Max
+URL: https://supcase.com/collections/iphone-15-pro-max/products/iphone-15-pro-max-6-7-inch-unicorn-beetle-pro-rugged-case-black
+
+# Instructions:
+# 1. Visit manufacturer website
+# 2. Search for product
+# 3. Paste URL after "URL: "
+# 4. Save this file
+# 5. Let me know when done

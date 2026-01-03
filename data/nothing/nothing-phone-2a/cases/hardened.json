@@ -118,27 +118,6 @@
       "device_brand": "Nothing",
       "device_model": "Phone",
       "device_variant": "2a",
-      "url": "https://www.otterbox.com/en-us/protective-cases",
-      "product_brand": "OtterBox",
-      "product_model": "Defender Series",
-      "title": "OtterBox Defender Series Case for Nothing Phone 2a - Multi-Layer Defense, Extreme Drop Protection, Port Covers",
-      "price": "$59.95",
-      "category": "cases-and-protection",
-      "case_type": "hardened",
-      "materials": "Polycarbonate shell + synthetic rubber slipcover + hardened membrane screen protector",
-      "features": [
-        "MIL-STD-810G-20-drops",
-        "Multi-Layer",
-        "Port Covers",
-        "Extreme-drop"
-      ],
-      "rating": "4.7"
-    },
-    {
-      "device_name": "Nothing Phone 2a",
-      "device_brand": "Nothing",
-      "device_model": "Phone",
-      "device_variant": "2a",
       "url": "https://www.pelican.com/us/en/explore/pro-gear/phone-cases",
       "product_brand": "Pelican",
       "product_model": "Protector Shield",
