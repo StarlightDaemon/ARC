@@ -22,7 +22,7 @@
 
   /* Layout */
   --container-max: 960px;
-  --font: Verdana, Geneva, sans-serif;
+  --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-mono: 'SF Mono', Consolas, monospace;
   --radius: 12px;
   /* Rounded corners */
