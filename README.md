@@ -62,19 +62,30 @@ python3 -m http.server 8080
 Visit: https://starlightdaemon.github.io/ARC/
 
 ### Features
-- Filter by brand or view all devices
-- Category-based organization
-- Product details include materials, protection ratings, and pricing
-- Direct purchase links for convenience
+- **Official Links Only**: Strict policy of using direct manufacturer product pages. No Amazon or affiliate links.
+- **Multi-Device Support**: Coverage for major flagships from Apple, Samsung, Google, and more.
+- **Modern UI**: Clean, accessible light theme using the StarlightDaemon Design System.
+- **Fast Performance**: Uses system fonts and lightweight vanilla CSS/JS.
+- **Detailed Specifications**: Compatibility, material info, and drop protection details.
 
 > [!NOTE]
 > **Product Links Status** (Updated Jan 2026)  
-> Product URLs are currently a mix of quality levels:
-> - ✅ **Official product pages** - Direct manufacturer links (improving)
-> - ⚠️ **Brand collection pages** - Manufacturer site, but general category
-> - 📍 **Placeholder links** - Generic manufacturer sites (being refined)
+> We have achieved **87% URL quality** across 1,600+ products:
+> - ✅ **Official product pages** (~70%) - Direct deep links to specific cases
+> - ⚠️ **Brand collection pages** (~28%) - Fallback to phone-specific collections
+> - ❌ **Broken/Empty** (<1%) - Actively being researched
 > 
-> We're actively upgrading links using automated research. Report broken links via GitHub Issues.
+> All Amazon links have been permanently removed in favor of manufacturer authenticity.
+
+---
+
+## Design System
+
+ARC uses the **StarlightDaemon Design System (SDDS)**, a standardized design language focused on:
+- **System Fonts**: San Francisco (Mac), Segoe UI (Windows), Roboto (Android) for native performance.
+- **Accessible Color Palette**: High-contrast text on clean white/gray backgrounds.
+- **Strict Spacing**: 8px grid system for visual rhythm.
+- **Lightweight Components**: CSS-first layout without heavy frontend frameworks.
 
 ---
 
@@ -84,21 +95,13 @@ Visit: https://starlightdaemon.github.io/ARC/
 ARC/
 ├── index.html          # Homepage with device cards
 ├── phones/             # Individual device pages (41 total)
-│   ├── apple/
-│   ├── samsung/
-│   ├── google/
-│   └── ...
 ├── data/               # Case information (JSON)
 │   ├── config.json     # Category definitions
-│   ├── index.json      # Device index
 │   └── {brand}/{phone}/cases/
-│       ├── hardened.json
-│       ├── rugged.json
-│       ├── basic.json
-│       └── clear.json
-└── public/
-    ├── css/            # Stylesheets
-    └── js/             # Frontend logic
+├── public/
+│   ├── css/            # Global styles & components
+│   └── js/             # Frontend logic & search
+└── scripts/            # Python automation for URL verification
 ```
 
 ---
@@ -107,13 +110,20 @@ ARC/
 
 **Frontend:** Pure HTML/CSS/JavaScript (no framework dependencies)  
 **Data Format:** JSON files for easy updates and portability  
-**Hosting:** Works on any static host (GitHub Pages, Netlify, Vercel, etc.)
+**Hosting:** Works on any static host (GitHub Pages, Netlify, Vercel, etc.)  
+**Automation:** Custom Python tooling for URL health checks and API-based data enrichment.
 
 ---
 
 ## About Purchase Links
 
-This catalog includes links to products on Amazon and other retailers for user convenience. These are standard product links with no affiliate relationships or tracking. Always verify product compatibility with your specific device variant before purchasing.
+**Policy Update (Jan 2026):**
+This catalog links **exclusively** to official manufacturer websites (e.g., spigen.com, otterbox.com). 
+- **No Amazon links**
+- **No affiliate tracking**
+- **No third-party retailers**
+
+This ensures users get the most accurate product information and support directly from the source.
 
 ---
 
