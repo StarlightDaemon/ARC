@@ -79,15 +79,7 @@ Visit: https://starlightdaemon.github.io/ARC/
 
 ---
 
-## Design System
 
-ARC uses the **StarlightDaemon Design System (SDDS)**, a standardized design language focused on:
-- **System Fonts**: San Francisco (Mac), Segoe UI (Windows), Roboto (Android) for native performance.
-- **Accessible Color Palette**: High-contrast text on clean white/gray backgrounds.
-- **Strict Spacing**: 8px grid system for visual rhythm.
-- **Lightweight Components**: CSS-first layout without heavy frontend frameworks.
-
----
 
 ## Project Structure
 
